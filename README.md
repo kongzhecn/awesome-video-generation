@@ -61,6 +61,7 @@ Last updated: 2026-03-18
 <!-- SECTION:video_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-03-18 | **SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation** [📄 arXiv](https://arxiv.org/abs/2603.16864) |
 <!-- END_SECTION -->
 
 ---
@@ -97,6 +98,8 @@ Last updated: 2026-03-18
 <!-- SECTION:controllable_video -->
 | Date | Paper |
 |------|-------|
+| 2026-03-18 | **Search2Motion: Training-Free Object-Level Motion Control via Attention-Consensus Search** [📄 arXiv](https://arxiv.org/abs/2603.16711) |
+| 2026-03-18 | **ECHO: Edge-Cloud Humanoid Orchestration for Language-to-Motion Control** [📄 arXiv](https://arxiv.org/abs/2603.16188) |
 <!-- END_SECTION -->
 
 ---
@@ -106,6 +109,7 @@ Last updated: 2026-03-18
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-03-18 | **Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation** [📄 arXiv](https://arxiv.org/abs/2603.16669) [🌐 Homepage](https://mutianxu.github.io/Kinema4D-project-page/) |
 <!-- END_SECTION -->
 
 ---
@@ -115,6 +119,7 @@ Last updated: 2026-03-18
 <!-- SECTION:audio_visual -->
 | Date | Paper |
 |------|-------|
+| 2026-03-18 | **Diffusion Models for Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.16093) |
 <!-- END_SECTION -->
 
 ---
@@ -133,6 +138,7 @@ Last updated: 2026-03-18
 <!-- SECTION:human_avatar -->
 | Date | Paper |
 |------|-------|
+| 2026-03-18 | **ProgressiveAvatars: Progressive Animatable 3D Gaussian Avatars** [📄 arXiv](https://arxiv.org/abs/2603.16447) |
 <!-- END_SECTION -->
 
 ---
