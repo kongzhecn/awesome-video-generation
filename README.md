@@ -62,7 +62,7 @@ Last updated: 2026-03-18
 | Date | Paper |
 |------|-------|
 | 2026-03-18 | **SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation** [📄 arXiv](https://arxiv.org/abs/2603.16864) |
-| 2026-03-17 | **TextOVSR: Text-Guided Real-World Opera Video Super-Resolution** [📄 arXiv](https://arxiv.org/abs/2603.15153) [💻 Code](https://github.com/ChangHua0/TextOVSR) |<!-- END_SECTION -->
+| 2026-03-17 | **TextOVSR: Text-Guided Real-World Opera Video Super-Resolution** [📄 arXiv](https://arxiv.org/abs/2603.15153) [💻 Code ⭐ 2](https://github.com/ChangHua0/TextOVSR) |<!-- END_SECTION -->
 
 ---
 
@@ -112,7 +112,7 @@ Last updated: 2026-03-18
 | Date | Paper |
 |------|-------|
 | 2026-03-18 | **Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation** [📄 arXiv](https://arxiv.org/abs/2603.16669) [🌐 Homepage](https://mutianxu.github.io/Kinema4D-project-page/) |
-| 2026-03-17 | **Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation** [📄 arXiv](https://arxiv.org/abs/2603.14948) [💻 Code](https://github.com/TabGuigui/WorldDrive) |
+| 2026-03-17 | **Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation** [📄 arXiv](https://arxiv.org/abs/2603.14948) [💻 Code ⭐ 10](https://github.com/TabGuigui/WorldDrive) |
 | 2026-03-17 | **WorldVLM: Combining World Model Forecasting and Vision-Language Reasoning** [📄 arXiv](https://arxiv.org/abs/2603.14497) |
 | 2026-03-17 | **EyeWorld: A Generative World Model of Ocular State and Dynamics** [📄 arXiv](https://arxiv.org/abs/2603.14039) |
 | 2026-03-17 | **Egocentric World Model for Photorealistic Hand-Object Interaction Synthesis** [📄 arXiv](https://arxiv.org/abs/2603.13615) |
@@ -122,7 +122,7 @@ Last updated: 2026-03-18
 | 2026-03-16 | **Thinking in Dynamics: How Multimodal Large Language Models Perceive, Track, and Reason Dynamics in Physical 4D World** [📄 arXiv](https://arxiv.org/abs/2603.12746) |
 | 2026-03-16 | **VGGT-World: Transforming VGGT into an Autoregressive Geometry World Model** [📄 arXiv](https://arxiv.org/abs/2603.12655) |
 | 2026-03-16 | **RoboStereo: Dual-Tower 4D Embodied World Models for Unified Policy Optimization** [📄 arXiv](https://arxiv.org/abs/2603.12639) |
-| 2026-03-16 | **Representation Learning for Spatiotemporal Physical Systems** [📄 arXiv](https://arxiv.org/abs/2603.13227) [💻 Code](https://github.com/helenqu/physical-representation-learning) |
+| 2026-03-16 | **Representation Learning for Spatiotemporal Physical Systems** [📄 arXiv](https://arxiv.org/abs/2603.13227) [💻 Code ⭐ 2](https://github.com/helenqu/physical-representation-learning) |
 | 2026-03-16 | **Beyond Dense Futures: World Models as Structured Planners for Robotic Manipulation** [📄 arXiv](https://arxiv.org/abs/2603.12553) |<!-- END_SECTION -->
 
 ---
@@ -162,13 +162,13 @@ Last updated: 2026-03-18
 | Date | Paper |
 |------|-------|
 | 2026-03-17 | **Tri-Prompting: Video Diffusion with Unified Control over Scene, Subject, and Motion** [📄 arXiv](https://arxiv.org/abs/2603.15614) [🌐 Homepage](https://zhouzhenghong-gt.github.io/Tri-Prompting-Page/) |
-| 2026-03-17 | **ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer** [📄 arXiv](https://arxiv.org/abs/2603.15478) [💻 Code](https://github.com/Lexie-YU/ViFeEdit) |
+| 2026-03-17 | **ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer** [📄 arXiv](https://arxiv.org/abs/2603.15478) [💻 Code ⭐ 41](https://github.com/Lexie-YU/ViFeEdit) |
 | 2026-03-17 | **Next-Frame Decoding for Ultra-Low-Bitrate Image Compression with Video Diffusion Priors** [📄 arXiv](https://arxiv.org/abs/2603.15129) |
 | 2026-03-17 | **GeoNVS: Geometry Grounded Video Diffusion for Novel View Synthesis** [📄 arXiv](https://arxiv.org/abs/2603.14965) [🌐 Homepage](https://sites.google.com/view/minjun-kang/geonvs-arxiv26) |
 | 2026-03-17 | **LatSearch: Latent Reward-Guided Search for Faster Inference-Time Scaling in Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2603.14526) |
 | 2026-03-17 | **Early Failure Detection and Intervention in Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2603.14320) |
 | 2026-03-17 | **CamLit: Unified Video Diffusion with Explicit Camera and Lighting Control** [📄 arXiv](https://arxiv.org/abs/2603.14241) |
-| 2026-03-17 | **Anchor Forcing: Anchor Memory and Tri-Region RoPE for Interactive Streaming Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2603.13405) [💻 Code](https://github.com/vivoCameraResearch/Anchor-Forcing) |<!-- END_SECTION -->
+| 2026-03-17 | **Anchor Forcing: Anchor Memory and Tri-Region RoPE for Interactive Streaming Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2603.13405) [💻 Code ⭐ 8](https://github.com/vivoCameraResearch/Anchor-Forcing) |<!-- END_SECTION -->
 
 ---
 
