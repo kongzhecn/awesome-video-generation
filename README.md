@@ -166,6 +166,8 @@ Last updated: 2026-03-18
 <!-- SECTION:digital_human_3d -->
 | Date | Paper |
 |------|-------|
+| 2026-03-17 | **FreeTalk: Emotional Topology-Free 3D Talking Heads** [📄 arXiv](https://arxiv.org/abs/2603.15512) |
+| 2026-03-17 | **OAHuman: Occlusion-Aware 3D Human Reconstruction from Monocular Images** [📄 arXiv](https://arxiv.org/abs/2603.14249) |
 | 2026-03-18 | **SOMA: Unifying Parametric Human Body Models** [📄 arXiv](https://arxiv.org/abs/2603.16858) |
 | 2026-03-18 | **Learning Human-Object Interaction for 3D Human Pose Estimation from LiDAR Point Clouds** [📄 arXiv](https://arxiv.org/abs/2603.16343) |
 | 2026-03-17 | **Zero-Shot Reconstruction of Animatable 3D Avatars with Cloth Dynamics from a Single Image** [📄 arXiv](https://arxiv.org/abs/2603.14772) |
