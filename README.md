@@ -3,51 +3,172 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Auto Updated](https://img.shields.io/badge/auto--updated-daily-brightgreen)](https://github.com/kongzhecn/awesome-video-generation)
 
-> A curated list of papers on **Video Generation**, **Video Diffusion Models**, and **Digital Human / Talking Head** — auto-updated daily from arXiv cs.CV.
+> A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
+> Papers are classified by **task type**. A paper may appear in multiple sections.
 
 Last updated: 2026-03-18
 
 ## 📑 Table of Contents
 
-- [🎬 Video Generation](#-video-generation)
-- [🌊 Video Diffusion Models](#-video-diffusion-models)
-- [🧑 Digital Human / Talking Head / Avatar](#-digital-human--talking-head--avatar)
+- [📝 Text-to-Video Generation](#text-to-video-generation)
+- [🖼️ Image-to-Video / Image Animation](#image-to-video-image-animation)
+- [✂️ Video Editing](#video-editing)
+- [🔄 Video-to-Video Translation & Enhancement](#video-to-video-translation-enhancement)
+- [🔮 Video Prediction & Completion](#video-prediction-completion)
+- [🎞️ Video Interpolation](#video-interpolation)
+- [📽️ Long Video Generation](#long-video-generation)
+- [🎮 Controllable Video Generation](#controllable-video-generation)
+- [🌍 World Models & Video Simulation](#world-models-video-simulation)
+- [🔊 Audio-Visual / Music Video Generation](#audio-visual-music-video-generation)
+- [🗣️ Talking Head & Face Animation](#talking-head-face-animation)
+- [🧑 Human Avatar & Body Animation](#human-avatar-body-animation)
+- [🌊 Video Diffusion Architecture](#video-diffusion-architecture)
+- [🧩 Video Tokenizer & VAE](#video-tokenizer-vae)
+- [🔁 Video Autoregressive Models](#video-autoregressive-models)
+- [🏗️ Video Foundation Models & Pretraining](#video-foundation-models-pretraining)
 
 ---
 
-## 🎬 Video Generation
+## 📝 Text-to-Video Generation
 
-Papers on text-to-video, image-to-video, video editing, video synthesis, world models, etc.
-
-<!-- SECTION:video_generation -->
-| Date | Paper |
-|------|-------|
-| 2026-03-18 | **SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation** [📄 arXiv](https://arxiv.org/abs/2603.16864) |
-| 2026-03-18 | **Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation** [📄 arXiv](https://arxiv.org/abs/2603.16669) [🌐 Homepage](https://mutianxu.github.io/Kinema4D-project-page/) |
-| 2026-03-18 | **Diffusion Models for Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.16093) |
-<!-- END_SECTION -->
-
----
-
-## 🌊 Video Diffusion Models
-
-Papers on video diffusion architectures, video DiT, video tokenizers, video VAE, etc.
-
-<!-- SECTION:video_diffusion -->
+<!-- SECTION:text_to_video -->
 | Date | Paper |
 |------|-------|
 <!-- END_SECTION -->
 
 ---
 
-## 🧑 Digital Human / Talking Head / Avatar
+## 🖼️ Image-to-Video / Image Animation
 
-Papers on talking head, talking face, digital human, lip sync, audio-driven avatar, etc.
-
-<!-- SECTION:digital_human -->
+<!-- SECTION:image_to_video -->
 | Date | Paper |
 |------|-------|
-| 2026-03-18 | **ProgressiveAvatars: Progressive Animatable 3D Gaussian Avatars** [📄 arXiv](https://arxiv.org/abs/2603.16447) |
+<!-- END_SECTION -->
+
+---
+
+## ✂️ Video Editing
+
+<!-- SECTION:video_editing -->
+| Date | Paper |
+|------|-------|
+<!-- END_SECTION -->
+
+---
+
+## 🔄 Video-to-Video Translation & Enhancement
+
+<!-- SECTION:video_to_video -->
+| Date | Paper |
+|------|-------|
+<!-- END_SECTION -->
+
+---
+
+## 🔮 Video Prediction & Completion
+
+<!-- SECTION:video_prediction -->
+| Date | Paper |
+|------|-------|
+<!-- END_SECTION -->
+
+---
+
+## 🎞️ Video Interpolation
+
+<!-- SECTION:video_interpolation -->
+| Date | Paper |
+|------|-------|
+<!-- END_SECTION -->
+
+---
+
+## 📽️ Long Video Generation
+
+<!-- SECTION:long_video -->
+| Date | Paper |
+|------|-------|
+<!-- END_SECTION -->
+
+---
+
+## 🎮 Controllable Video Generation
+
+<!-- SECTION:controllable_video -->
+| Date | Paper |
+|------|-------|
+<!-- END_SECTION -->
+
+---
+
+## 🌍 World Models & Video Simulation
+
+<!-- SECTION:world_model -->
+| Date | Paper |
+|------|-------|
+<!-- END_SECTION -->
+
+---
+
+## 🔊 Audio-Visual / Music Video Generation
+
+<!-- SECTION:audio_visual -->
+| Date | Paper |
+|------|-------|
+<!-- END_SECTION -->
+
+---
+
+## 🗣️ Talking Head & Face Animation
+
+<!-- SECTION:talking_head -->
+| Date | Paper |
+|------|-------|
+<!-- END_SECTION -->
+
+---
+
+## 🧑 Human Avatar & Body Animation
+
+<!-- SECTION:human_avatar -->
+| Date | Paper |
+|------|-------|
+<!-- END_SECTION -->
+
+---
+
+## 🌊 Video Diffusion Architecture
+
+<!-- SECTION:video_diffusion_arch -->
+| Date | Paper |
+|------|-------|
+<!-- END_SECTION -->
+
+---
+
+## 🧩 Video Tokenizer & VAE
+
+<!-- SECTION:video_tokenizer -->
+| Date | Paper |
+|------|-------|
+<!-- END_SECTION -->
+
+---
+
+## 🔁 Video Autoregressive Models
+
+<!-- SECTION:video_autoregressive -->
+| Date | Paper |
+|------|-------|
+<!-- END_SECTION -->
+
+---
+
+## 🏗️ Video Foundation Models & Pretraining
+
+<!-- SECTION:video_foundation -->
+| Date | Paper |
+|------|-------|
 <!-- END_SECTION -->
 
 ---
