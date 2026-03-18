@@ -22,6 +22,9 @@ Papers on text-to-video, image-to-video, video editing, video synthesis, world m
 <!-- SECTION:video_generation -->
 | Date | Paper |
 |------|-------|
+| 2026-03-18 | **SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation** [📄 arXiv](https://arxiv.org/abs/2603.16864) |
+| 2026-03-18 | **Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation** [📄 arXiv](https://arxiv.org/abs/2603.16669) [🌐 Homepage](https://mutianxu.github.io/Kinema4D-project-page/) |
+| 2026-03-18 | **Diffusion Models for Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.16093) |
 <!-- END_SECTION -->
 
 ---
@@ -44,6 +47,7 @@ Papers on talking head, talking face, digital human, lip sync, audio-driven avat
 <!-- SECTION:digital_human -->
 | Date | Paper |
 |------|-------|
+| 2026-03-18 | **ProgressiveAvatars: Progressive Animatable 3D Gaussian Avatars** [📄 arXiv](https://arxiv.org/abs/2603.16447) |
 <!-- END_SECTION -->
 
 ---
