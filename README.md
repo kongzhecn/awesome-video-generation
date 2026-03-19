@@ -34,6 +34,7 @@ Last updated: 2026-03-19
 <!-- SECTION:text_to_video -->
 | Date | Paper |
 |------|-------|
+| 2024-12-11 | **Generate Any Scene: Scene Graph Driven Data Synthesis for Visual Generation Training** [📄 arXiv](https://arxiv.org/abs/2412.08221) |
 | 2026-03-17 | **GenState-AI: State-Aware Dataset for Text-to-Video Retrieval on AI-Generated Videos** [📄 arXiv](https://arxiv.org/abs/2603.14426) |
 <!-- END_SECTION -->
 
@@ -108,6 +109,7 @@ Last updated: 2026-03-19
 <!-- SECTION:controllable_video -->
 | Date | Paper |
 |------|-------|
+| 2026-03-18 | **Persistent Story World Simulation with Continuous Character Customization** [📄 arXiv](https://arxiv.org/abs/2603.16285) |
 | 2026-03-06 | **FlowMotion: Training-Free Flow Guidance for Video Motion Transfer** [📄 arXiv](https://arxiv.org/abs/2603.06289) [💻 Code ⭐ 1](https://github.com/HKUST-LongGroup/FlowMotion) |
 | 2026-03-19 | **MosaicMem: Hybrid Spatial Memory for Controllable Video World Models** [📄 arXiv](https://arxiv.org/abs/2603.17117) |
 | 2026-03-18 | **Search2Motion: Training-Free Object-Level Motion Control via Attention-Consensus Search** [📄 arXiv](https://arxiv.org/abs/2603.16711) |
@@ -122,6 +124,8 @@ Last updated: 2026-03-19
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2025-10-11 | **VideoVerse: Does Your T2V Generator Have World Model Capability to Synthesize Videos?** [📄 arXiv](https://arxiv.org/abs/2510.08398) |
+| 2026-03-18 | **World Reconstruction From Inconsistent Views** [📄 arXiv](https://arxiv.org/abs/2603.16736) [🌐 Homepage](https://lukashoel.github.io/video_to_world) [💻 Code ⭐ 76](https://github.com/lukasHoel/video_to_world) |
 | 2025-12-15 | **World Models for Learning Dexterous Hand-Object Interactions from Human Videos** [📄 arXiv](https://arxiv.org/abs/2512.13644) |
 | 2026-03-18 | **WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation** [📄 arXiv](https://arxiv.org/abs/2603.16871) [🌐 Homepage](https://cvlab-kaist.github.io/WorldCam/) [💻 Code ⭐ 88](https://github.com/cvlab-kaist/WorldCam) |
 | 2026-03-19 | **Stereo World Model: Camera-Guided Stereo Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.17375) |
@@ -173,6 +177,7 @@ Last updated: 2026-03-19
 <!-- SECTION:digital_human_3d -->
 | Date | Paper |
 |------|-------|
+| 2026-03-18 | **Feed-forward Gaussian Registration for Head Avatar Creation and Editing** [📄 arXiv](https://arxiv.org/abs/2603.15811) [🌐 Homepage](https://malteprinzler.github.io/projects/match) |
 | 2026-03-19 | **AHOY! Animatable Humans under Occlusion from YouTube Videos with Gaussian Splatting and Video Diffusion Priors** [📄 arXiv](https://arxiv.org/abs/2603.17975) |
 | 2026-03-18 | **SOMA: Unifying Parametric Human Body Models** [📄 arXiv](https://arxiv.org/abs/2603.16858) |
 | 2026-03-18 | **Learning Human-Object Interaction for 3D Human Pose Estimation from LiDAR Point Clouds** [📄 arXiv](https://arxiv.org/abs/2603.16343) |
@@ -233,6 +238,11 @@ Last updated: 2026-03-19
 <!-- SECTION:video_foundation -->
 | Date | Paper |
 |------|-------|
+| 2026-01-07 | **Diffusion-DRF: Free, Rich, and Differentiable Reward for Video Diffusion Fine-Tuning** [📄 arXiv](https://arxiv.org/abs/2601.04153) [🌐 Homepage](https://snap-research.github.io/diffusion-drf/) |
+| 2025-11-28 | **Rethinking Reward Signals in Video GRPO: When Scores Become Targets** [📄 arXiv](https://arxiv.org/abs/2511.19356) |
+| 2026-03-18 | **VideoMatGen: PBR Materials through Joint Generative Modeling** [📄 arXiv](https://arxiv.org/abs/2603.16566) |
+| 2026-03-18 | **VIGOR: VIdeo Geometry-Oriented Reward for Temporal Generative Alignment** [📄 arXiv](https://arxiv.org/abs/2603.16271) |
+| 2026-03-18 | **S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight** [📄 arXiv](https://arxiv.org/abs/2603.16195) [🌐 Homepage](https://haodong-yan.github.io/S-VAM/) |
 | 2026-03-17 | **Demystifing Video Reasoning** [📄 arXiv](https://arxiv.org/abs/2603.16870) |
 <!-- END_SECTION -->
 
