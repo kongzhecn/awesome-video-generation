@@ -201,7 +201,6 @@ Last updated: 2026-03-19
 | 2026-03-17 | **ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer** [📄 arXiv](https://arxiv.org/abs/2603.15478) [💻 Code ⭐ 44](https://github.com/Lexie-YU/ViFeEdit) |
 | 2026-03-17 | **Next-Frame Decoding for Ultra-Low-Bitrate Image Compression with Video Diffusion Priors** [📄 arXiv](https://arxiv.org/abs/2603.15129) |
 | 2026-03-17 | **GeoNVS: Geometry Grounded Video Diffusion for Novel View Synthesis** [📄 arXiv](https://arxiv.org/abs/2603.14965) [🌐 Homepage](https://sites.google.com/view/minjun-kang/geonvs-arxiv26) |
-| 2026-03-17 | **LatSearch: Latent Reward-Guided Search for Faster Inference-Time Scaling in Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2603.14526) |
 | 2026-03-17 | **Early Failure Detection and Intervention in Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2603.14320) |
 | 2026-03-17 | **CamLit: Unified Video Diffusion with Explicit Camera and Lighting Control** [📄 arXiv](https://arxiv.org/abs/2603.14241) |
 | 2026-03-17 | **Anchor Forcing: Anchor Memory and Tri-Region RoPE for Interactive Streaming Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2603.13405) [💻 Code ⭐ 9](https://github.com/vivoCameraResearch/Anchor-Forcing) |
@@ -227,21 +226,32 @@ Last updated: 2026-03-19
 |------|-------|
 | 2026-03-18 | **WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation** [📄 arXiv](https://arxiv.org/abs/2603.16871) [🌐 Homepage](https://cvlab-kaist.github.io/WorldCam/) [💻 Code ⭐ 88](https://github.com/cvlab-kaist/WorldCam) |
 | 2026-03-19 | **AR-CoPO: Align Autoregressive Video Generation with Contrastive Policy Optimization** [📄 arXiv](https://arxiv.org/abs/2603.17461) |
-| 2026-03-19 | **Astrolabe: Steering Forward-Process Reinforcement Learning for Distilled Autoregressive Video Models** [📄 arXiv](https://arxiv.org/abs/2603.17051) |
 | 2026-03-17 | **FAR-Drive: Frame-AutoRegressive Video Generation in Closed-Loop Autonomous Driving** [📄 arXiv](https://arxiv.org/abs/2603.14938) |
 <!-- END_SECTION -->
 
 ---
+
+## 🎯 强化学习 & Reward Model
+
+> 视频生成中的强化学习、奖励模型、RLHF、GRPO 等对齐与后训练技术。
+
+<!-- SECTION:rl_reward_model -->
+| Date | Paper |
+|------|-------|
+| 2026-01-07 | **Diffusion-DRF: Free, Rich, and Differentiable Reward for Video Diffusion Fine-Tuning** [📄 arXiv](https://arxiv.org/abs/2601.04153) [🌐 Homepage](https://snap-research.github.io/diffusion-drf/) |
+| 2025-11-28 | **Rethinking Reward Signals in Video GRPO: When Scores Become Targets** [📄 arXiv](https://arxiv.org/abs/2511.19356) |
+| 2026-03-18 | **VIGOR: VIdeo Geometry-Oriented Reward for Temporal Generative Alignment** [📄 arXiv](https://arxiv.org/abs/2603.16271) |
+| 2026-03-17 | **LatSearch: Latent Reward-Guided Search for Faster Inference-Time Scaling in Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2603.14526) |
+| 2026-03-19 | **Astrolabe: Steering Forward-Process Reinforcement Learning for Distilled Autoregressive Video Models** [📄 arXiv](https://arxiv.org/abs/2603.17051) |
+<!-- END_SECTION -->
+
 
 ## 🏗️ Video Foundation Models & Pretraining
 
 <!-- SECTION:video_foundation -->
 | Date | Paper |
 |------|-------|
-| 2026-01-07 | **Diffusion-DRF: Free, Rich, and Differentiable Reward for Video Diffusion Fine-Tuning** [📄 arXiv](https://arxiv.org/abs/2601.04153) [🌐 Homepage](https://snap-research.github.io/diffusion-drf/) |
-| 2025-11-28 | **Rethinking Reward Signals in Video GRPO: When Scores Become Targets** [📄 arXiv](https://arxiv.org/abs/2511.19356) |
 | 2026-03-18 | **VideoMatGen: PBR Materials through Joint Generative Modeling** [📄 arXiv](https://arxiv.org/abs/2603.16566) |
-| 2026-03-18 | **VIGOR: VIdeo Geometry-Oriented Reward for Temporal Generative Alignment** [📄 arXiv](https://arxiv.org/abs/2603.16271) |
 | 2026-03-18 | **S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight** [📄 arXiv](https://arxiv.org/abs/2603.16195) [🌐 Homepage](https://haodong-yan.github.io/S-VAM/) |
 | 2026-03-17 | **Demystifing Video Reasoning** [📄 arXiv](https://arxiv.org/abs/2603.16870) |
 <!-- END_SECTION -->
