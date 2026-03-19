@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-03-18
+Last updated: 2026-03-19
 
 ## 📑 Table of Contents
 
@@ -44,6 +44,8 @@ Last updated: 2026-03-18
 <!-- SECTION:image_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-03-19 | **TransText: Transparency Aware Image-to-Video Typography Animation** [📄 arXiv](https://arxiv.org/abs/2603.17944) |
+| 2026-03-19 | **FrescoDiffusion: 4K Image-to-Video with Prior-Regularized Tiled Diffusion** [📄 arXiv](https://arxiv.org/abs/2603.17555) |
 | 2026-03-17 | **PhysAlign: Physics-Coherent Image-to-Video Generation through Feature and 3D Representation Alignment** [📄 arXiv](https://arxiv.org/abs/2603.13770) |
 <!-- END_SECTION -->
 
@@ -93,6 +95,7 @@ Last updated: 2026-03-18
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-03-19 | **VideoAtlas: Navigating Long-Form Video in Logarithmic Compute** [📄 arXiv](https://arxiv.org/abs/2603.17948) |
 | 2026-03-17 | **LongVidSearch: An Agentic Benchmark for Multi-hop Evidence Retrieval Planning in Long Videos** [📄 arXiv](https://arxiv.org/abs/2603.14468) |
 | 2026-03-17 | **A Multi-Agent Perception-Action Alliance for Efficient Long Video Reasoning** [📄 arXiv](https://arxiv.org/abs/2603.14052) [💻 Code](https://github.com/git-disl/A4VL) |
 | 2026-03-16 | **VCBench: A Streaming Counting Benchmark for Spatial-Temporal State Maintenance in Long Videos** [📄 arXiv](https://arxiv.org/abs/2603.12703) |
@@ -105,6 +108,7 @@ Last updated: 2026-03-18
 <!-- SECTION:controllable_video -->
 | Date | Paper |
 |------|-------|
+| 2026-03-19 | **MosaicMem: Hybrid Spatial Memory for Controllable Video World Models** [📄 arXiv](https://arxiv.org/abs/2603.17117) |
 | 2026-03-18 | **Search2Motion: Training-Free Object-Level Motion Control via Attention-Consensus Search** [📄 arXiv](https://arxiv.org/abs/2603.16711) |
 | 2026-03-18 | **ECHO: Edge-Cloud Humanoid Orchestration for Language-to-Motion Control** [📄 arXiv](https://arxiv.org/abs/2603.16188) |
 | 2026-03-17 | **LibraGen: Playing a Balance Game in Subject-Driven Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.13506) |
@@ -117,6 +121,8 @@ Last updated: 2026-03-18
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-03-19 | **Stereo World Model: Camera-Guided Stereo Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.17375) |
+| 2026-03-19 | **VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs** [📄 arXiv](https://arxiv.org/abs/2603.17652) [💻 Code ⭐ 3](https://github.com/jiangchaokang/VectorWorld) |
 | 2026-03-18 | **Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation** [📄 arXiv](https://arxiv.org/abs/2603.16669) [🌐 Homepage](https://mutianxu.github.io/Kinema4D-project-page/) |
 | 2026-03-17 | **Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation** [📄 arXiv](https://arxiv.org/abs/2603.14948) [💻 Code ⭐ 10](https://github.com/TabGuigui/WorldDrive) |
 | 2026-03-17 | **WorldVLM: Combining World Model Forecasting and Vision-Language Reasoning** [📄 arXiv](https://arxiv.org/abs/2603.14497) |
@@ -139,6 +145,7 @@ Last updated: 2026-03-18
 <!-- SECTION:audio_visual -->
 | Date | Paper |
 |------|-------|
+| 2026-03-19 | **Identity as Presence: Towards Appearance and Voice Personalized Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.17889) [🌐 Homepage](https://chen-yingjie.github.io/projects/Identity-as-Presence) |
 | 2026-03-18 | **Diffusion Models for Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.16093) |
 <!-- END_SECTION -->
 
@@ -163,6 +170,7 @@ Last updated: 2026-03-18
 <!-- SECTION:digital_human_3d -->
 | Date | Paper |
 |------|-------|
+| 2026-03-19 | **AHOY! Animatable Humans under Occlusion from YouTube Videos with Gaussian Splatting and Video Diffusion Priors** [📄 arXiv](https://arxiv.org/abs/2603.17975) |
 | 2026-03-18 | **SOMA: Unifying Parametric Human Body Models** [📄 arXiv](https://arxiv.org/abs/2603.16858) |
 | 2026-03-18 | **Learning Human-Object Interaction for 3D Human Pose Estimation from LiDAR Point Clouds** [📄 arXiv](https://arxiv.org/abs/2603.16343) |
 | 2026-03-17 | **FreeTalk: Emotional Topology-Free 3D Talking Heads** [📄 arXiv](https://arxiv.org/abs/2603.15512) |
@@ -178,6 +186,9 @@ Last updated: 2026-03-18
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-03-19 | **Steering Video Diffusion Transformers with Massive Activations** [📄 arXiv](https://arxiv.org/abs/2603.17825) |
+| 2026-03-19 | **ChopGrad: Pixel-Wise Losses for Latent Video Diffusion via Truncated Backpropagation** [📄 arXiv](https://arxiv.org/abs/2603.17812) |
+| 2026-03-19 | **SHIFT: Motion Alignment in Video Diffusion Models with Adversarial Hybrid Fine-Tuning** [📄 arXiv](https://arxiv.org/abs/2603.17426) |
 | 2026-03-17 | **Tri-Prompting: Video Diffusion with Unified Control over Scene, Subject, and Motion** [📄 arXiv](https://arxiv.org/abs/2603.15614) [🌐 Homepage](https://zhouzhenghong-gt.github.io/Tri-Prompting-Page/) |
 | 2026-03-17 | **ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer** [📄 arXiv](https://arxiv.org/abs/2603.15478) [💻 Code ⭐ 44](https://github.com/Lexie-YU/ViFeEdit) |
 | 2026-03-17 | **Next-Frame Decoding for Ultra-Low-Bitrate Image Compression with Video Diffusion Priors** [📄 arXiv](https://arxiv.org/abs/2603.15129) |
@@ -195,6 +206,7 @@ Last updated: 2026-03-18
 <!-- SECTION:video_tokenizer -->
 | Date | Paper |
 |------|-------|
+| 2026-03-19 | **ProGVC: Progressive-based Generative Video Compression via Auto-Regressive Context Modeling** [📄 arXiv](https://arxiv.org/abs/2603.17546) |
 | 2026-03-17 | **Generative Video Compression with One-Dimensional Latent Representation** [📄 arXiv](https://arxiv.org/abs/2603.15302) [🌐 Homepage](http://methods.Project) |
 <!-- END_SECTION -->
 
@@ -205,6 +217,8 @@ Last updated: 2026-03-18
 <!-- SECTION:video_autoregressive -->
 | Date | Paper |
 |------|-------|
+| 2026-03-19 | **AR-CoPO: Align Autoregressive Video Generation with Contrastive Policy Optimization** [📄 arXiv](https://arxiv.org/abs/2603.17461) |
+| 2026-03-19 | **Astrolabe: Steering Forward-Process Reinforcement Learning for Distilled Autoregressive Video Models** [📄 arXiv](https://arxiv.org/abs/2603.17051) |
 | 2026-03-17 | **FAR-Drive: Frame-AutoRegressive Video Generation in Closed-Loop Autonomous Driving** [📄 arXiv](https://arxiv.org/abs/2603.14938) |
 <!-- END_SECTION -->
 
