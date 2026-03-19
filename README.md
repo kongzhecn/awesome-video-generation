@@ -121,7 +121,7 @@ Last updated: 2026-03-19
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
-| 2026-03-18 | **WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation** [arxiv](https://arxiv.org/abs/2603.16871) [project](https://cvlab-kaist.github.io/WorldCam/) [code](https://github.com/cvlab-kaist/WorldCam) |
+| 2026-03-18 | **WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation** [📄 arXiv](https://arxiv.org/abs/2603.16871) [🌐 Homepage](https://cvlab-kaist.github.io/WorldCam/) [💻 Code ⭐ 88](https://github.com/cvlab-kaist/WorldCam) |
 | 2026-03-19 | **Stereo World Model: Camera-Guided Stereo Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.17375) |
 | 2026-03-19 | **VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs** [📄 arXiv](https://arxiv.org/abs/2603.17652) [💻 Code ⭐ 3](https://github.com/jiangchaokang/VectorWorld) |
 | 2026-03-18 | **Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation** [📄 arXiv](https://arxiv.org/abs/2603.16669) [🌐 Homepage](https://mutianxu.github.io/Kinema4D-project-page/) |
@@ -218,7 +218,7 @@ Last updated: 2026-03-19
 <!-- SECTION:video_autoregressive -->
 | Date | Paper |
 |------|-------|
-| 2026-03-18 | **WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation** [arxiv](https://arxiv.org/abs/2603.16871) [project](https://cvlab-kaist.github.io/WorldCam/) [code](https://github.com/cvlab-kaist/WorldCam) |
+| 2026-03-18 | **WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation** [📄 arXiv](https://arxiv.org/abs/2603.16871) [🌐 Homepage](https://cvlab-kaist.github.io/WorldCam/) [💻 Code ⭐ 88](https://github.com/cvlab-kaist/WorldCam) |
 | 2026-03-19 | **AR-CoPO: Align Autoregressive Video Generation with Contrastive Policy Optimization** [📄 arXiv](https://arxiv.org/abs/2603.17461) |
 | 2026-03-19 | **Astrolabe: Steering Forward-Process Reinforcement Learning for Distilled Autoregressive Video Models** [📄 arXiv](https://arxiv.org/abs/2603.17051) |
 | 2026-03-17 | **FAR-Drive: Frame-AutoRegressive Video Generation in Closed-Loop Autonomous Driving** [📄 arXiv](https://arxiv.org/abs/2603.14938) |
