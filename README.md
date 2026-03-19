@@ -25,6 +25,7 @@ Last updated: 2026-03-19
 - [🌊 Video Diffusion Architecture](#video-diffusion-architecture)
 - [🧩 Video Tokenizer & VAE](#video-tokenizer-vae)
 - [🔁 Video Autoregressive Models](#video-autoregressive-models)
+- [🎯 Reinforcement Learning & Reward Model](#reinforcement-learning-reward-model)
 - [🏗️ Video Foundation Models & Pretraining](#video-foundation-models-pretraining)
 
 ---
@@ -231,9 +232,8 @@ Last updated: 2026-03-19
 
 ---
 
-## 🎯 强化学习 & Reward Model
+## 🎯 Reinforcement Learning & Reward Model
 
-> 视频生成中的强化学习、奖励模型、RLHF、GRPO 等对齐与后训练技术。
 
 <!-- SECTION:rl_reward_model -->
 | Date | Paper |
