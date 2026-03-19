@@ -108,6 +108,7 @@ Last updated: 2026-03-19
 <!-- SECTION:controllable_video -->
 | Date | Paper |
 |------|-------|
+| 2026-03-06 | **FlowMotion: Training-Free Flow Guidance for Video Motion Transfer** [📄 arXiv](https://arxiv.org/abs/2603.06289) [💻 Code ⭐ 1](https://github.com/HKUST-LongGroup/FlowMotion) |
 | 2026-03-19 | **MosaicMem: Hybrid Spatial Memory for Controllable Video World Models** [📄 arXiv](https://arxiv.org/abs/2603.17117) |
 | 2026-03-18 | **Search2Motion: Training-Free Object-Level Motion Control via Attention-Consensus Search** [📄 arXiv](https://arxiv.org/abs/2603.16711) |
 | 2026-03-18 | **ECHO: Edge-Cloud Humanoid Orchestration for Language-to-Motion Control** [📄 arXiv](https://arxiv.org/abs/2603.16188) |
@@ -121,6 +122,7 @@ Last updated: 2026-03-19
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2025-12-15 | **World Models for Learning Dexterous Hand-Object Interactions from Human Videos** [📄 arXiv](https://arxiv.org/abs/2512.13644) |
 | 2026-03-18 | **WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation** [📄 arXiv](https://arxiv.org/abs/2603.16871) [🌐 Homepage](https://cvlab-kaist.github.io/WorldCam/) [💻 Code ⭐ 88](https://github.com/cvlab-kaist/WorldCam) |
 | 2026-03-19 | **Stereo World Model: Camera-Guided Stereo Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.17375) |
 | 2026-03-19 | **VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs** [📄 arXiv](https://arxiv.org/abs/2603.17652) [💻 Code ⭐ 3](https://github.com/jiangchaokang/VectorWorld) |
@@ -231,6 +233,7 @@ Last updated: 2026-03-19
 <!-- SECTION:video_foundation -->
 | Date | Paper |
 |------|-------|
+| 2026-03-17 | **Demystifing Video Reasoning** [📄 arXiv](https://arxiv.org/abs/2603.16870) |
 <!-- END_SECTION -->
 
 ---
