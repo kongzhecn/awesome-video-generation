@@ -16,7 +16,7 @@ Last updated: 2026-03-20
 - [🔄 Video-to-Video Translation & Enhancement](#video-to-video-translation-enhancement)
 - [🔮 Video Prediction & Completion](#video-prediction-completion)
 - [🎞️ Video Interpolation](#video-interpolation)
-- [📽️ Long Video Generation](#long-video-generation)
+- [📽️ Long Video Generation & Acceleration](#long-video-generation--acceleration)
 - [🎮 Controllable Video Generation](#controllable-video-generation)
 - [🌍 World Models & Video Simulation](#world-models-video-simulation)
 - [🔊 Audio-Visual / Music Video Generation](#audio-visual-music-video-generation)
@@ -27,6 +27,7 @@ Last updated: 2026-03-20
 - [🔁 Video Autoregressive Models](#video-autoregressive-models)
 - [🎯 Reinforcement Learning & Reward Model](#reinforcement-learning-reward-model)
 - [🏗️ Video Foundation Models & Pretraining](#video-foundation-models-pretraining)
+- [👥 Multi Subject / Object / ID](#multi-subject--object--id)
 
 ---
 
@@ -95,7 +96,7 @@ Last updated: 2026-03-20
 
 ---
 
-## 📽️ Long Video Generation
+## 📽️ Long Video Generation & Acceleration
 
 <!-- SECTION:long_video -->
 | Date | Paper |
@@ -159,6 +160,7 @@ Last updated: 2026-03-20
 <!-- SECTION:audio_visual -->
 | Date | Paper |
 |------|-------|
+| 2026-03-20 | **Improving Joint Audio-Video Generation with Cross-Modal Context Learning** [📄 arXiv](https://arxiv.org/abs/2603.18600) |
 | 2026-03-18 | **Diffusion Models for Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.16093) |
 <!-- END_SECTION -->
 
@@ -272,7 +274,6 @@ Last updated: 2026-03-20
 <!-- SECTION:multi_subject -->
 | Date | Paper |
 |------|-------|
-| 2026-03-20 | **Improving Joint Audio-Video Generation with Cross-Modal Context Learning** [📄 arXiv](https://arxiv.org/abs/2603.18600) |
 | 2026-03-19 | **Identity as Presence: Towards Appearance and Voice Personalized Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.17889) [🌐 Homepage](https://chen-yingjie.github.io/projects/Identity-as-Presence) |
 <!-- END_SECTION -->
 
