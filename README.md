@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-03-19
+Last updated: 2026-03-20
 
 ## 📑 Table of Contents
 
@@ -58,6 +58,8 @@ Last updated: 2026-03-19
 <!-- SECTION:video_editing -->
 | Date | Paper |
 |------|-------|
+| 2026-03-20 | **SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing** [📄 arXiv](https://arxiv.org/abs/2603.19228) |
+| 2026-03-20 | **EffectErase: Joint Video Object Removal and Insertion for High-Quality Effect Erasing** [📄 arXiv](https://arxiv.org/abs/2603.19224) |
 <!-- END_SECTION -->
 
 ---
@@ -97,6 +99,7 @@ Last updated: 2026-03-19
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-03-20 | **HiMu: Hierarchical Multimodal Frame Selection for Long Video Question Answering** [📄 arXiv](https://arxiv.org/abs/2603.18558) |
 | 2026-03-19 | **VideoAtlas: Navigating Long-Form Video in Logarithmic Compute** [📄 arXiv](https://arxiv.org/abs/2603.17948) |
 | 2026-03-17 | **LongVidSearch: An Agentic Benchmark for Multi-hop Evidence Retrieval Planning in Long Videos** [📄 arXiv](https://arxiv.org/abs/2603.14468) |
 | 2026-03-17 | **A Multi-Agent Perception-Action Alliance for Efficient Long Video Reasoning** [📄 arXiv](https://arxiv.org/abs/2603.14052) [💻 Code](https://github.com/git-disl/A4VL) |
@@ -110,6 +113,7 @@ Last updated: 2026-03-19
 <!-- SECTION:controllable_video -->
 | Date | Paper |
 |------|-------|
+| 2026-03-20 | **3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model** [📄 arXiv](https://arxiv.org/abs/2603.18524) [💻 Code](https://github.com/Ko-Lani/3DreamBooth) |
 | 2026-03-18 | **Persistent Story World Simulation with Continuous Character Customization** [📄 arXiv](https://arxiv.org/abs/2603.16285) |
 | 2026-03-06 | **FlowMotion: Training-Free Flow Guidance for Video Motion Transfer** [📄 arXiv](https://arxiv.org/abs/2603.06289) [💻 Code ⭐ 1](https://github.com/HKUST-LongGroup/FlowMotion) |
 | 2026-03-19 | **MosaicMem: Hybrid Spatial Memory for Controllable Video World Models** [📄 arXiv](https://arxiv.org/abs/2603.17117) |
@@ -153,6 +157,7 @@ Last updated: 2026-03-19
 <!-- SECTION:audio_visual -->
 | Date | Paper |
 |------|-------|
+| 2026-03-20 | **Improving Joint Audio-Video Generation with Cross-Modal Context Learning** [📄 arXiv](https://arxiv.org/abs/2603.18600) |
 | 2026-03-19 | **Identity as Presence: Towards Appearance and Voice Personalized Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.17889) [🌐 Homepage](https://chen-yingjie.github.io/projects/Identity-as-Presence) |
 | 2026-03-18 | **Diffusion Models for Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.16093) |
 <!-- END_SECTION -->
@@ -195,6 +200,8 @@ Last updated: 2026-03-19
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-03-20 | **6Bit-Diffusion: Inference-Time Mixed-Precision Quantization for Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2603.18742) |
+| 2026-03-20 | **Efficient Video Diffusion with Sparse Information Transmission for Video Compression** [📄 arXiv](https://arxiv.org/abs/2603.18501) [💻 Code](https://github.com/MingdeZhou/Diff-SIT) |
 | 2026-03-19 | **Steering Video Diffusion Transformers with Massive Activations** [📄 arXiv](https://arxiv.org/abs/2603.17825) |
 | 2026-03-19 | **ChopGrad: Pixel-Wise Losses for Latent Video Diffusion via Truncated Backpropagation** [📄 arXiv](https://arxiv.org/abs/2603.17812) |
 | 2026-03-19 | **SHIFT: Motion Alignment in Video Diffusion Models with Adversarial Hybrid Fine-Tuning** [📄 arXiv](https://arxiv.org/abs/2603.17426) |
@@ -214,6 +221,7 @@ Last updated: 2026-03-19
 <!-- SECTION:video_tokenizer -->
 | Date | Paper |
 |------|-------|
+| 2026-03-20 | **LRConv-NeRV: Low Rank Convolution for Efficient Neural Video Compression** [📄 arXiv](https://arxiv.org/abs/2603.18261) |
 | 2026-03-19 | **ProGVC: Progressive-based Generative Video Compression via Auto-Regressive Context Modeling** [📄 arXiv](https://arxiv.org/abs/2603.17546) |
 | 2026-03-17 | **Generative Video Compression with One-Dimensional Latent Representation** [📄 arXiv](https://arxiv.org/abs/2603.15302) [🌐 Homepage](http://methods.Project) |
 <!-- END_SECTION -->
