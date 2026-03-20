@@ -59,7 +59,6 @@ Last updated: 2026-03-20
 <!-- SECTION:video_editing -->
 | Date | Paper |
 |------|-------|
-| 2026-03-20 | **SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model** [📄 arXiv](https://arxiv.org/abs/2602.21818) |
 | 2026-03-20 | **SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing** [📄 arXiv](https://arxiv.org/abs/2603.19228) |
 | 2026-03-20 | **EffectErase: Joint Video Object Removal and Insertion for High-Quality Effect Erasing** [📄 arXiv](https://arxiv.org/abs/2603.19224) |
 <!-- END_SECTION -->
