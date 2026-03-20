@@ -59,6 +59,7 @@ Last updated: 2026-03-20
 <!-- SECTION:video_editing -->
 | Date | Paper |
 |------|-------|
+| 2026-03-20 | **SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model** [📄 arXiv](https://arxiv.org/abs/2602.21818) |
 | 2026-03-20 | **SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing** [📄 arXiv](https://arxiv.org/abs/2603.19228) |
 | 2026-03-20 | **EffectErase: Joint Video Object Removal and Insertion for High-Quality Effect Erasing** [📄 arXiv](https://arxiv.org/abs/2603.19224) |
 <!-- END_SECTION -->
@@ -170,6 +171,7 @@ Last updated: 2026-03-20
 <!-- SECTION:digital_human_diffusion -->
 | Date | Paper |
 |------|-------|
+| 2026-03-20 | **AvatarForcing: One-Step Streaming Talking Avatars via Local-Future Sliding-Window Denoising** [📄 arXiv](https://arxiv.org/abs/2603.14331) |
 | 2026-03-18 | **Ground Reaction Inertial Poser: Physics-based Human Motion Capture from Sparse IMUs and Insole Pressure Sensors** [📄 arXiv](https://arxiv.org/abs/2603.16233) |
 | 2026-03-17 | **Kimodo: Scaling Controllable Human Motion Generation** [📄 arXiv](https://arxiv.org/abs/2603.15546) [🌐 Homepage](https://research.nvidia.com/labs/sil/projects/kimodo/) |
 | 2026-03-17 | **Riemannian Motion Generation: A Unified Framework for Human Motion Representation and Generation via Riemannian Flow Matching** [📄 arXiv](https://arxiv.org/abs/2603.15016) |
