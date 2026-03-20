@@ -101,6 +101,7 @@ Last updated: 2026-03-20
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-03-20 | **Towards One-step Causal Video Generation via Adversarial Self-Distillation** [📄 arXiv](https://arxiv.org/abs/2511.01419) |
 | 2026-03-20 | **HiMu: Hierarchical Multimodal Frame Selection for Long Video Question Answering** [📄 arXiv](https://arxiv.org/abs/2603.18558) |
 | 2026-03-19 | **VideoAtlas: Navigating Long-Form Video in Logarithmic Compute** [📄 arXiv](https://arxiv.org/abs/2603.17948) |
 | 2026-03-17 | **LongVidSearch: An Agentic Benchmark for Multi-hop Evidence Retrieval Planning in Long Videos** [📄 arXiv](https://arxiv.org/abs/2603.14468) |
@@ -263,6 +264,7 @@ Last updated: 2026-03-20
 <!-- SECTION:video_foundation -->
 | Date | Paper |
 |------|-------|
+| 2026-03-20 | **SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model** [📄 arXiv](https://arxiv.org/abs/2602.21818) |
 | 2026-03-18 | **VideoMatGen: PBR Materials through Joint Generative Modeling** [📄 arXiv](https://arxiv.org/abs/2603.16566) |
 | 2026-03-18 | **S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight** [📄 arXiv](https://arxiv.org/abs/2603.16195) [🌐 Homepage](https://haodong-yan.github.io/S-VAM/) |
 | 2026-03-17 | **Demystifing Video Reasoning** [📄 arXiv](https://arxiv.org/abs/2603.16870) |
