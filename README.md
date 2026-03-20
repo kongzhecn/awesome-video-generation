@@ -46,6 +46,7 @@ Last updated: 2026-03-20
 <!-- SECTION:image_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-03-20 | **HyperMotionX: The Dataset and Benchmark with DiT-Based Pose-Guided Human Image Animation of Complex Motions** [📄 arXiv](https://arxiv.org/abs/2505.22977) |
 | 2026-03-19 | **TransText: Transparency Aware Image-to-Video Typography Animation** [📄 arXiv](https://arxiv.org/abs/2603.17944) |
 | 2026-03-19 | **FrescoDiffusion: 4K Image-to-Video with Prior-Regularized Tiled Diffusion** [📄 arXiv](https://arxiv.org/abs/2603.17555) |
 | 2026-03-17 | **PhysAlign: Physics-Coherent Image-to-Video Generation through Feature and 3D Representation Alignment** [📄 arXiv](https://arxiv.org/abs/2603.13770) |
@@ -200,6 +201,7 @@ Last updated: 2026-03-20
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-03-20 | **Rolling Sink: Bridging Limited-Horizon Training and Open-Ended Testing in Autoregressive Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2602.07775) |
 | 2026-03-20 | **6Bit-Diffusion: Inference-Time Mixed-Precision Quantization for Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2603.18742) |
 | 2026-03-20 | **Efficient Video Diffusion with Sparse Information Transmission for Video Compression** [📄 arXiv](https://arxiv.org/abs/2603.18501) [💻 Code](https://github.com/MingdeZhou/Diff-SIT) |
 | 2026-03-19 | **Steering Video Diffusion Transformers with Massive Activations** [📄 arXiv](https://arxiv.org/abs/2603.17825) |
