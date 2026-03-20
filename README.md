@@ -203,7 +203,7 @@ Last updated: 2026-03-20
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
-| 2026-03-20 | **Rolling Sink: Bridging Limited-Horizon Training and Open-Ended Testing in Autoregressive Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2602.07775) |
+| 2026-03-20 | **Rolling Sink: Bridging Limited-Horizon Training and Open-Ended Testing in Autoregressive Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2602.07775) [🌐 Project](https://rolling-sink.github.io/) [💻 Code](https://github.com/Rolling-Sink/Rolling-Sink) ⭐ 74 |
 | 2026-03-20 | **6Bit-Diffusion: Inference-Time Mixed-Precision Quantization for Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2603.18742) |
 | 2026-03-20 | **Efficient Video Diffusion with Sparse Information Transmission for Video Compression** [📄 arXiv](https://arxiv.org/abs/2603.18501) [💻 Code](https://github.com/MingdeZhou/Diff-SIT) |
 | 2026-03-19 | **Steering Video Diffusion Transformers with Massive Activations** [📄 arXiv](https://arxiv.org/abs/2603.17825) |
