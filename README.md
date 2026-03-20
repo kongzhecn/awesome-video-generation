@@ -160,7 +160,6 @@ Last updated: 2026-03-20
 | Date | Paper |
 |------|-------|
 | 2026-03-20 | **Improving Joint Audio-Video Generation with Cross-Modal Context Learning** [📄 arXiv](https://arxiv.org/abs/2603.18600) |
-| 2026-03-19 | **Identity as Presence: Towards Appearance and Voice Personalized Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.17889) [🌐 Homepage](https://chen-yingjie.github.io/projects/Identity-as-Presence) |
 | 2026-03-18 | **Diffusion Models for Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.16093) |
 <!-- END_SECTION -->
 
@@ -268,6 +267,15 @@ Last updated: 2026-03-20
 | 2026-03-18 | **S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight** [📄 arXiv](https://arxiv.org/abs/2603.16195) [🌐 Homepage](https://haodong-yan.github.io/S-VAM/) |
 | 2026-03-17 | **Demystifing Video Reasoning** [📄 arXiv](https://arxiv.org/abs/2603.16870) |
 <!-- END_SECTION -->
+
+## 👥 Multi Subject / Object / ID
+
+<!-- SECTION:multi_subject -->
+| Date | Paper |
+|------|-------|
+| 2026-03-19 | **Identity as Presence: Towards Appearance and Voice Personalized Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.17889) [🌐 Homepage](https://chen-yingjie.github.io/projects/Identity-as-Presence) |
+<!-- END_SECTION -->
+
 
 ---
 
