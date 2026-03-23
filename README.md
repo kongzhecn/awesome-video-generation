@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-03-20
+Last updated: 2026-03-23
 
 ## 📑 Table of Contents
 
@@ -102,6 +102,7 @@ Last updated: 2026-03-20
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-03-23 | **Adaptive Greedy Frame Selection for Long Video Understanding** [📄 arXiv](https://arxiv.org/abs/2603.20180) |
 | 2026-03-20 | **Towards One-step Causal Video Generation via Adversarial Self-Distillation** [📄 arXiv](https://arxiv.org/abs/2511.01419) |
 | 2026-03-20 | **HiMu: Hierarchical Multimodal Frame Selection for Long Video Question Answering** [📄 arXiv](https://arxiv.org/abs/2603.18558) |
 | 2026-03-19 | **VideoAtlas: Navigating Long-Form Video in Logarithmic Compute** [📄 arXiv](https://arxiv.org/abs/2603.17948) |
@@ -133,6 +134,9 @@ Last updated: 2026-03-20
 <!-- SECTION:camera_control -->
 | Date | Paper |
 |------|-------|
+| 2026-03-23 | **LagerNVS: Latent Geometry for Fully Neural Real-time Novel View Synthesis** [📄 arXiv](https://arxiv.org/abs/2603.20176) [🌐 Homepage](http://szymanowiczs.github.io/lagernvs) [💻 Code ⭐ 4](https://github.com/facebookresearch/lagernvs) |
+| 2026-03-23 | **OrbitNVS: Harnessing Video Diffusion Priors for Novel View Synthesis** [📄 arXiv](https://arxiv.org/abs/2603.19613) |
+| 2026-03-23 | **Investigating a Policy-Based Formulation for Endoscopic Camera Pose Recovery** [📄 arXiv](https://arxiv.org/abs/2603.20045) |
 | 2026-03-18 | **WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation** [📄 arXiv](https://arxiv.org/abs/2603.16871) [🌐 Homepage](https://cvlab-kaist.github.io/WorldCam/) [💻 Code ⭐ 88](https://github.com/cvlab-kaist/WorldCam) |
 | 2026-03-19 | **Stereo World Model: Camera-Guided Stereo Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.17375) |
 | 2026-03-17 | **GeoNVS: Geometry Grounded Video Diffusion for Novel View Synthesis** [📄 arXiv](https://arxiv.org/abs/2603.14965) [🌐 Homepage](https://sites.google.com/view/minjun-kang/geonvs-arxiv26) |
@@ -147,6 +151,10 @@ Last updated: 2026-03-20
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-03-23 | **EgoForge: Goal-Directed Egocentric World Simulator** [📄 arXiv](https://arxiv.org/abs/2603.20169) |
+| 2026-03-23 | **X-World: Controllable Ego-Centric Multi-Camera World Models for Scalable End-to-End Driving** [📄 arXiv](https://arxiv.org/abs/2603.19979) |
+| 2026-03-23 | **WorldAgents: Can Foundation Image Models be Agents for 3D World Models?** [📄 arXiv](https://arxiv.org/abs/2603.19708) |
+| 2026-03-23 | **DynFlowDrive: Flow-Based Dynamic World Modeling for Autonomous Driving** [📄 arXiv](https://arxiv.org/abs/2603.19675) [💻 Code ⭐ 1](https://github.com/xiaolul2/DynFlowDrive) |
 | 2025-10-11 | **VideoVerse: Does Your T2V Generator Have World Model Capability to Synthesize Videos?** [📄 arXiv](https://arxiv.org/abs/2510.08398) |
 | 2026-03-18 | **World Reconstruction From Inconsistent Views** [📄 arXiv](https://arxiv.org/abs/2603.16736) [🌐 Homepage](https://lukashoel.github.io/video_to_world) [💻 Code ⭐ 76](https://github.com/lukasHoel/video_to_world) |
 | 2025-12-15 | **World Models for Learning Dexterous Hand-Object Interactions from Human Videos** [📄 arXiv](https://arxiv.org/abs/2512.13644) |
@@ -184,6 +192,7 @@ Last updated: 2026-03-20
 <!-- SECTION:digital_human_diffusion -->
 | Date | Paper |
 |------|-------|
+| 2026-03-23 | **FlashCap: Millisecond-Accurate Human Motion Capture via Flashing LEDs and Event-Based Vision** [📄 arXiv](https://arxiv.org/abs/2603.19770) |
 | 2026-03-20 | **AvatarForcing: One-Step Streaming Talking Avatars via Local-Future Sliding-Window Denoising** [📄 arXiv](https://arxiv.org/abs/2603.14331) |
 | 2026-03-18 | **Ground Reaction Inertial Poser: Physics-based Human Motion Capture from Sparse IMUs and Insole Pressure Sensors** [📄 arXiv](https://arxiv.org/abs/2603.16233) |
 | 2026-03-17 | **Kimodo: Scaling Controllable Human Motion Generation** [📄 arXiv](https://arxiv.org/abs/2603.15546) [🌐 Homepage](https://research.nvidia.com/labs/sil/projects/kimodo/) |
@@ -199,6 +208,8 @@ Last updated: 2026-03-20
 <!-- SECTION:digital_human_3d -->
 | Date | Paper |
 |------|-------|
+| 2026-03-23 | **RAM: Recover Any 3D Human Motion in-the-Wild** [📄 arXiv](https://arxiv.org/abs/2603.19929) |
+| 2026-03-23 | **PerformRecast: Expression and Head Pose Disentanglement for Portrait Video Editing** [📄 arXiv](https://arxiv.org/abs/2603.19731) [🌐 Homepage](https://youku-aigc.github.io/PerformRecast) |
 | 2026-03-18 | **Feed-forward Gaussian Registration for Head Avatar Creation and Editing** [📄 arXiv](https://arxiv.org/abs/2603.15811) [🌐 Homepage](https://malteprinzler.github.io/projects/match) |
 | 2026-03-19 | **AHOY! Animatable Humans under Occlusion from YouTube Videos with Gaussian Splatting and Video Diffusion Priors** [📄 arXiv](https://arxiv.org/abs/2603.17975) |
 | 2026-03-18 | **SOMA: Unifying Parametric Human Body Models** [📄 arXiv](https://arxiv.org/abs/2603.16858) |
