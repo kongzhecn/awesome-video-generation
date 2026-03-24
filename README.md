@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-03-23
+Last updated: 2026-03-24
 
 ## 📑 Table of Contents
 
@@ -37,6 +37,11 @@ Last updated: 2026-03-23
 <!-- SECTION:text_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-03-24 | **PROBE: Diagnosing Residual Concept Capacity in Erased Text-to-Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2603.21547) [💻 Code ⭐ 0](https://github.com/YiweiXie/PRObingBasedEvaluation) |
+| 2026-03-24 | **OSCBench: Benchmarking Object State Change in Text-to-Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.11698) [🌐 Homepage](https://hanxjing.github.io/OSCBench) [💻 Code ⭐ 4.7k](https://github.com/eliahuhorwitz/Academic-project-page-template) |
+| 2026-03-24 | **NEGATE: Constrained Semantic Guidance for Linguistic Negation in Text-to-Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2603.06533) |
+| 2026-03-24 | **SKeDA: A Generative Watermarking Framework for Text-to-video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2603.00194) |
+| 2026-03-24 | **CHAI: CacHe Attention Inference for text2video** [📄 arXiv](https://arxiv.org/abs/2602.16132) |
 | 2024-12-11 | **Generate Any Scene: Scene Graph Driven Data Synthesis for Visual Generation Training** [📄 arXiv](https://arxiv.org/abs/2412.08221) |
 | 2026-03-17 | **GenState-AI: State-Aware Dataset for Text-to-Video Retrieval on AI-Generated Videos** [📄 arXiv](https://arxiv.org/abs/2603.14426) |
 <!-- END_SECTION -->
@@ -92,6 +97,7 @@ Last updated: 2026-03-23
 <!-- SECTION:video_interpolation -->
 | Date | Paper |
 |------|-------|
+| 2026-03-24 | **FC-VFI: Faithful and Consistent Video Frame Interpolation for High-FPS Slow Motion Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.04899) |
 | 2026-03-17 | **Edit2Interp: Adapting Image Foundation Models from Spatial Editing to Video Frame Interpolation with Few-Shot Learning** [📄 arXiv](https://arxiv.org/abs/2603.15003) |
 <!-- END_SECTION -->
 
@@ -102,6 +108,10 @@ Last updated: 2026-03-23
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-03-24 | **Adaptive Video Distillation: Mitigating Oversaturation and Temporal Collapse in Few-Step Generation** [📄 arXiv](https://arxiv.org/abs/2603.21864) |
+| 2026-03-24 | **Relax Forcing: Relaxed KV-Memory for Consistent Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.21366) [🌐 Homepage](https://zengqunzhao.github.io/Relax-Forcing) [💻 Code ⭐ 1](https://github.com/zengqunzhao/Relax-Forcing) |
+| 2026-03-24 | **EchoLVFM: One-Step Video Generation via Latent Flow Matching for Echocardiogram Synthesis** [📄 arXiv](https://arxiv.org/abs/2603.13967) [💻 Code ⭐ 1](https://github.com/EngEmmanuel/EchoLVFM) |
+| 2026-03-24 | **ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation** [📄 arXiv](https://arxiv.org/abs/2603.11421) |
 | 2026-03-23 | **Adaptive Greedy Frame Selection for Long Video Understanding** [📄 arXiv](https://arxiv.org/abs/2603.20180) |
 | 2026-03-20 | **Towards One-step Causal Video Generation via Adversarial Self-Distillation** [📄 arXiv](https://arxiv.org/abs/2511.01419) |
 | 2026-03-20 | **HiMu: Hierarchical Multimodal Frame Selection for Long Video Question Answering** [📄 arXiv](https://arxiv.org/abs/2603.18558) |
@@ -118,6 +128,13 @@ Last updated: 2026-03-23
 <!-- SECTION:controllable_video -->
 | Date | Paper |
 |------|-------|
+| 2026-03-24 | **Identity-Consistent Video Generation under Large Facial-Angle Variations** [📄 arXiv](https://arxiv.org/abs/2603.21299) |
+| 2026-03-24 | **FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance** [📄 arXiv](https://arxiv.org/abs/2603.12146) |
+| 2026-03-24 | **DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning** [📄 arXiv](https://arxiv.org/abs/2603.12257) [🌐 Homepage](https://dreamvideo-omni.github.io) |
+| 2026-03-24 | **ID-LoRA: Identity-Driven Audio-Video Personalization with In-Context LoRA** [📄 arXiv](https://arxiv.org/abs/2603.10256) |
+| 2026-03-24 | **ConfCtrl: Enabling Precise Camera Control in Video Diffusion via Confidence-Aware Interpolation** [📄 arXiv](https://arxiv.org/abs/2603.09819) |
+| 2026-03-24 | **Towards Controllable Video Synthesis of Routine and Rare OR Events** [📄 arXiv](https://arxiv.org/abs/2602.21365) |
+| 2026-03-24 | **Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control** [📄 arXiv](https://arxiv.org/abs/2602.18422) [🌐 Homepage](https://codeysun.github.io/generated-reality) |
 | 2026-03-20 | **3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model** [📄 arXiv](https://arxiv.org/abs/2603.18524) [💻 Code](https://github.com/Ko-Lani/3DreamBooth) |
 | 2026-03-18 | **Persistent Story World Simulation with Continuous Character Customization** [📄 arXiv](https://arxiv.org/abs/2603.16285) |
 | 2026-03-06 | **FlowMotion: Training-Free Flow Guidance for Video Motion Transfer** [📄 arXiv](https://arxiv.org/abs/2603.06289) [💻 Code ⭐ 1](https://github.com/HKUST-LongGroup/FlowMotion) |
@@ -134,6 +151,8 @@ Last updated: 2026-03-23
 <!-- SECTION:camera_control -->
 | Date | Paper |
 |------|-------|
+| 2026-03-24 | **WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories** [📄 arXiv](https://arxiv.org/abs/2603.02049) |
+| 2026-03-24 | **PoseCraft: Tokenized 3D Body Landmark and Camera Conditioning for Photorealistic Human Image Synthesis** [📄 arXiv](https://arxiv.org/abs/2602.19350) |
 | 2026-03-23 | **LagerNVS: Latent Geometry for Fully Neural Real-time Novel View Synthesis** [📄 arXiv](https://arxiv.org/abs/2603.20176) [🌐 Homepage](http://szymanowiczs.github.io/lagernvs) [💻 Code ⭐ 4](https://github.com/facebookresearch/lagernvs) |
 | 2026-03-23 | **OrbitNVS: Harnessing Video Diffusion Priors for Novel View Synthesis** [📄 arXiv](https://arxiv.org/abs/2603.19613) |
 | 2026-03-23 | **Investigating a Policy-Based Formulation for Endoscopic Camera Pose Recovery** [📄 arXiv](https://arxiv.org/abs/2603.20045) |
@@ -151,6 +170,8 @@ Last updated: 2026-03-23
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-03-24 | **World2Act: Latent Action Post-Training via Skill-Compositional World Models** [📄 arXiv](https://arxiv.org/abs/2603.10422) [🌐 Homepage](https://wm2act.github.io/) |
+| 2026-03-24 | **Orthogonal Spatial-temporal Distributional Transfer for 4D Generation** [📄 arXiv](https://arxiv.org/abs/2603.05081) |
 | 2026-03-23 | **EgoForge: Goal-Directed Egocentric World Simulator** [📄 arXiv](https://arxiv.org/abs/2603.20169) |
 | 2026-03-23 | **X-World: Controllable Ego-Centric Multi-Camera World Models for Scalable End-to-End Driving** [📄 arXiv](https://arxiv.org/abs/2603.19979) |
 | 2026-03-23 | **WorldAgents: Can Foundation Image Models be Agents for 3D World Models?** [📄 arXiv](https://arxiv.org/abs/2603.19708) |
@@ -192,6 +213,42 @@ Last updated: 2026-03-23
 <!-- SECTION:digital_human_diffusion -->
 | Date | Paper |
 |------|-------|
+| 2026-03-24 | **EARTalking: End-to-end GPT-style Autoregressive Talking Head Synthesis with Frame-wise Control** [📄 arXiv](https://arxiv.org/abs/2603.20307) |
+| 2026-03-24 | **SoulX-LiveAct: Towards Hour-Scale Real-Time Human Animation with Neighbor Forcing and ConvKV Memory** [📄 arXiv](https://arxiv.org/abs/2603.11746) |
+| 2026-03-24 | **Controllable Complex Human Motion Video Generation via Text-to-Skeleton Cascades** [📄 arXiv](https://arxiv.org/abs/2603.08028) |
+| 2026-03-24 | **Text-Driven Emotionally Continuous Talking Face Generation** [📄 arXiv](https://arxiv.org/abs/2603.06071) |
+| 2026-03-24 | **TempoSyncDiff: Distilled Temporally-Consistent Diffusion for Low-Latency Audio-Driven Talking Head Generation** [📄 arXiv](https://arxiv.org/abs/2603.06057) [🌐 Homepage](https://mazumdarsoumya.github.io/TempoSyncDiff) [💻 Code ⭐ 2](https://github.com/mazumdarsoumya/TempoSyncDiff.git) |
+| 2026-03-24 | **Dual Diffusion Models for Multi-modal Guided 3D Avatar Generation** [📄 arXiv](https://arxiv.org/abs/2603.04307) |
+| 2026-03-24 | **DyaDiT: A Multi-Modal Diffusion Transformer for Socially Favorable Dyadic Gesture Generation** [📄 arXiv](https://arxiv.org/abs/2602.23165) |
+| 2026-03-24 | **FlowPortrait: Reinforcement Learning for Audio-Driven Portrait Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.00159) |
+| 2026-03-24 | **Human Video Generation from a Single Image with 3D Pose and View Control** [📄 arXiv](https://arxiv.org/abs/2602.21188) |
+| 2026-03-24 | **Ani3DHuman: Photorealistic 3D Human Animation with Self-guided Stochastic Sampling** [📄 arXiv](https://arxiv.org/abs/2602.19089) [💻 Code ⭐ 13](https://github.com/qiisun/ani3dhuman) |
+| 2026-03-24 | **AUHead: Realistic Emotional Talking Head Generation via Action Units Control** [📄 arXiv](https://arxiv.org/abs/2602.09534) [💻 Code ⭐ 5](https://github.com/laura990501/AUHead_ICLR) |
+| 2026-03-24 | **SoulX-FlashHead: Oracle-guided Generation of Infinite Real-time Streaming Talking Heads** [📄 arXiv](https://arxiv.org/abs/2602.07449) |
+| 2026-03-24 | **EditYourself: Audio-Driven Generation and Manipulation of Talking Head Videos with Diffusion Transformers** [📄 arXiv](https://arxiv.org/abs/2601.22127) [🌐 Homepage](https://edit-yourself.github.io/) [💻 Code ⭐ 5.5k](https://github.com/bytedance/LatentSync/) |
+| 2026-03-24 | **Exploring Talking Head Models With Adjacent Frame Prior for Speech-Preserving Facial Expression Manipulation** [📄 arXiv](https://arxiv.org/abs/2601.12876) |
+| 2026-03-24 | **Now You See Me, Now You Don't: A Unified Framework for Expression Consistent Anonymization in Talking Head Videos** [📄 arXiv](https://arxiv.org/abs/2601.11635) |
+| 2026-03-24 | **DyStream: Streaming Dyadic Talking Heads Generation via Flow Matching-based Autoregressive Model** [📄 arXiv](https://arxiv.org/abs/2512.24408) [🌐 Homepage](https://robinwitch.github.io/DyStream-Page) [💻 Code ⭐ 28](https://github.com/RobinWitch/DyStream) |
+| 2026-03-24 | **StreamAvatar: Streaming Diffusion Models for Real-Time Interactive Human Avatars** [📄 arXiv](https://arxiv.org/abs/2512.22065) [🌐 Homepage](https://streamavatar.github.io) |
+| 2026-03-24 | **SyncAnyone: Implicit Disentanglement via Progressive Self-Correction for Lip-Syncing in the wild** [📄 arXiv](https://arxiv.org/abs/2512.21736) [🌐 Homepage](https://humanaigc.github.io/sync_anyone_demo_page/) [💻 Code ⭐ 4.7k](https://github.com/eliahuhorwitz/Academic-project-page-template) |
+| 2026-03-24 | **Efficient and Robust Video Defense Framework against 3D-field Personalized Talking Face** [📄 arXiv](https://arxiv.org/abs/2512.21019) [💻 Code](https://github.com/Richen7418/VDF) |
+| 2026-03-24 | **SynergyWarpNet: Attention-Guided Cooperative Warping for Neural Portrait Animation** [📄 arXiv](https://arxiv.org/abs/2512.17331) |
+| 2026-03-24 | **FacEDiT: Unified Talking Face Editing and Generation via Facial Motion Infilling** [📄 arXiv](https://arxiv.org/abs/2512.14056) [🌐 Homepage](https://facedit.github.io/) |
+| 2026-03-24 | **Towards Interactive Intelligence for Digital Humans** [📄 arXiv](https://arxiv.org/abs/2512.13674) |
+| 2026-03-24 | **Soul: Breathe Life into Digital Human for High-fidelity Long-term Multimodal Animation** [📄 arXiv](https://arxiv.org/abs/2512.13495) [🌐 Homepage](https://zhangzjn.github.io/projects/Soul/) [💻 Code ⭐ 58](https://github.com/zhangzjn/Soul) |
+| 2026-03-24 | **REST: Diffusion-based Real-time End-to-end Streaming Talking Head Generation via ID-Context Caching and Asynchronous Streaming Distillation** [📄 arXiv](https://arxiv.org/abs/2512.11229) |
+| 2026-03-24 | **AI killed the video star. Audio-driven diffusion model for expressive talking head generation** [📄 arXiv](https://arxiv.org/abs/2511.22488) |
+| 2026-03-24 | **IMTalker: Efficient Audio-driven Talking Face Generation with Implicit Motion Transfer** [📄 arXiv](https://arxiv.org/abs/2511.22167) |
+| 2026-03-24 | **Hi-Reco: High-Fidelity Real-Time Conversational Digital Humans** [📄 arXiv](https://arxiv.org/abs/2511.12662) |
+| 2026-03-24 | **ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search** [📄 arXiv](https://arxiv.org/abs/2511.06833) |
+| 2026-03-24 | **THEval. Evaluation Framework for Talking Head Video Generation** [📄 arXiv](https://arxiv.org/abs/2511.04520) |
+| 2026-03-24 | **Assessing Identity Leakage in Talking Face Generation: Metrics and Evaluation Framework** [📄 arXiv](https://arxiv.org/abs/2511.08613) |
+| 2026-03-24 | **See the Speaker: Crafting High-Resolution Talking Faces from Speech with Prior Guidance and Region Refinement** [📄 arXiv](https://arxiv.org/abs/2510.26819) |
+| 2026-03-24 | **MAGIC-Talk: Motion-aware Audio-Driven Talking Face Generation with Customizable Identity Control** [📄 arXiv](https://arxiv.org/abs/2510.22810) |
+| 2026-03-24 | **MVP4D: Multi-View Portrait Video Diffusion for Animatable 4D Avatars** [📄 arXiv](https://arxiv.org/abs/2510.12785) |
+| 2026-03-24 | **DEMO: Disentangled Motion Latent Flow Matching for Fine-Grained Controllable Talking Portrait Synthesis** [📄 arXiv](https://arxiv.org/abs/2510.10650) |
+| 2026-03-24 | **Evaluating LLMs for Historical Document OCR: A Methodological Framework for Digital Humanities** [📄 arXiv](https://arxiv.org/abs/2510.06743) |
+| 2026-03-24 | **AvatarVTON: 4D Virtual Try-On for Animatable Avatars** [📄 arXiv](https://arxiv.org/abs/2510.04822) |
 | 2026-03-23 | **FlashCap: Millisecond-Accurate Human Motion Capture via Flashing LEDs and Event-Based Vision** [📄 arXiv](https://arxiv.org/abs/2603.19770) |
 | 2026-03-20 | **AvatarForcing: One-Step Streaming Talking Avatars via Local-Future Sliding-Window Denoising** [📄 arXiv](https://arxiv.org/abs/2603.14331) |
 | 2026-03-18 | **Ground Reaction Inertial Poser: Physics-based Human Motion Capture from Sparse IMUs and Insole Pressure Sensors** [📄 arXiv](https://arxiv.org/abs/2603.16233) |
@@ -208,6 +265,24 @@ Last updated: 2026-03-23
 <!-- SECTION:digital_human_3d -->
 | Date | Paper |
 |------|-------|
+| 2026-03-24 | **EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization** [📄 arXiv](https://arxiv.org/abs/2603.21332) [🌐 Homepage](https://emotag26.github.io/) [💻 Code ⭐ 1.9k](https://github.com/google/nerfies/releases/tag/0.1) |
+| 2026-03-24 | **EmbedTalk: Triplane-Free Talking Head Synthesis using Embedding-Driven Gaussian Deformation** [📄 arXiv](https://arxiv.org/abs/2603.07604) |
+| 2026-03-24 | **HumanOrbit: 3D Human Reconstruction as 360° Orbit Generation** [📄 arXiv](https://arxiv.org/abs/2602.24148) |
+| 2026-03-24 | **3DXTalker: Unifying Identity, Lip Sync, Emotion, and Spatial Dynamics in Expressive 3D Talking Avatars** [📄 arXiv](https://arxiv.org/abs/2602.10516) |
+| 2026-03-24 | **Toward Fine-Grained Facial Control in 3D Talking Head Generation** [📄 arXiv](https://arxiv.org/abs/2602.09736) |
+| 2026-03-24 | **From Blurry to Believable: Enhancing Low-quality Talking Heads with 3D Generative Priors** [📄 arXiv](https://arxiv.org/abs/2602.06122) [🌐 Homepage](https://humansensinglab.github.io/super-head/) [💻 Code ⭐ 10](https://github.com/humansensinglab/super-head) |
+| 2026-03-24 | **Lightweight High-Fidelity Low-Bitrate Talking Face Compression for 3D Video Conference** [📄 arXiv](https://arxiv.org/abs/2601.21269) |
+| 2026-03-24 | **Splat-Portrait: Generalizing Talking Heads with Gaussian Splatting** [📄 arXiv](https://arxiv.org/abs/2601.18633) [💻 Code ⭐ 0](https://github.com/stonewalking/Splat-portrait) |
+| 2026-03-24 | **Audio-Driven Talking Face Generation with Blink Embedding and Hash Grid Landmarks Encoding** [📄 arXiv](https://arxiv.org/abs/2601.18849) |
+| 2026-03-24 | **RSATalker: Realistic Socially-Aware Talking Head Generation for Multi-Turn Conversation** [📄 arXiv](https://arxiv.org/abs/2601.10606) |
+| 2026-03-24 | **MANGO:Natural Multi-speaker 3D Talking Head Generation via 2D-Lifted Enhancement** [📄 arXiv](https://arxiv.org/abs/2601.01749) |
+| 2026-03-24 | **PTalker: Personalized Speech-Driven 3D Talking Head Animation via Style Disentanglement and Modality Alignment** [📄 arXiv](https://arxiv.org/abs/2512.22602) |
+| 2026-03-24 | **MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation** [📄 arXiv](https://arxiv.org/abs/2512.18181) [🌐 Homepage](https://macedance.github.io/) |
+| 2026-03-24 | **GaussianHeadTalk: Wobble-Free 3D Talking Heads with Audio Driven Gaussian Splatting** [📄 arXiv](https://arxiv.org/abs/2512.10939) |
+| 2026-03-24 | **EmoDiffTalk:Emotion-aware Diffusion for Editable 3D Gaussian Talking Head** [📄 arXiv](https://arxiv.org/abs/2512.05991) |
+| 2026-03-24 | **Is It Truly Necessary to Process and Fit Minutes-Long Reference Videos for Personalized Talking Face Generation?** [📄 arXiv](https://arxiv.org/abs/2511.07940) |
+| 2026-03-24 | **Learning Disentangled Speech- and Expression-Driven Blendshapes for 3D Talking Face Animation** [📄 arXiv](https://arxiv.org/abs/2510.25234) |
+| 2026-03-24 | **HGC-Avatar: Hierarchical Gaussian Compression for Streamable Dynamic 3D Avatars** [📄 arXiv](https://arxiv.org/abs/2510.16463) |
 | 2026-03-23 | **RAM: Recover Any 3D Human Motion in-the-Wild** [📄 arXiv](https://arxiv.org/abs/2603.19929) |
 | 2026-03-23 | **PerformRecast: Expression and Head Pose Disentanglement for Portrait Video Editing** [📄 arXiv](https://arxiv.org/abs/2603.19731) [🌐 Homepage](https://youku-aigc.github.io/PerformRecast) |
 | 2026-03-18 | **Feed-forward Gaussian Registration for Head Avatar Creation and Editing** [📄 arXiv](https://arxiv.org/abs/2603.15811) [🌐 Homepage](https://malteprinzler.github.io/projects/match) |
@@ -227,6 +302,16 @@ Last updated: 2026-03-23
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-03-24 | **Climate Prompting: Generating the Madden-Julian Oscillation using Video Diffusion and Low-Dimensional Conditioning** [📄 arXiv](https://arxiv.org/abs/2603.21856) |
+| 2026-03-24 | **Uni-Classifier: Leveraging Video Diffusion Priors for Universal Guidance Classifier** [📄 arXiv](https://arxiv.org/abs/2603.20382) |
+| 2026-03-24 | **When to Lock Attention: Training-Free KV Control in Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2603.09657) |
+| 2026-03-24 | **Phys4D: Fine-Grained Physics-Consistent 4D Modeling from Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2603.03485) |
+| 2026-03-24 | **Interpretable Motion-Attentive Maps: Spatio-Temporally Localizing Concepts in Video Diffusion Transformers** [📄 arXiv](https://arxiv.org/abs/2603.02919) |
+| 2026-03-24 | **SemanticDialect: Semantic-Aware Mixed-Format Quantization for Video Diffusion Transformers** [📄 arXiv](https://arxiv.org/abs/2603.02883) |
+| 2026-03-24 | **SIGMark: Scalable In-Generation Watermark with Blind Extraction for Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2603.02882) [🌐 Homepage](https://jeremyzhao1998.github.io/SIGMark-release/) [💻 Code ⭐ 3](https://github.com/JeremyZhao1998/SIGMark-release) |
+| 2026-03-24 | **PropFly: Learning to Propagate via On-the-Fly Supervision from Pre-trained Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2602.20583) |
+| 2026-03-24 | **Adapting VACE for Real-Time Autoregressive Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2602.14381) [💻 Code ⭐ 270](https://github.com/daydreamlive/scope) |
+| 2026-03-24 | **High-Fidelity Causal Video Diffusion Models for Real-Time Ultra-Low-Bitrate Semantic Communication** [📄 arXiv](https://arxiv.org/abs/2602.13837) |
 | 2026-03-20 | **Rolling Sink: Bridging Limited-Horizon Training and Open-Ended Testing in Autoregressive Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2602.07775) [🌐 Project](https://rolling-sink.github.io/) [💻 Code](https://github.com/Rolling-Sink/Rolling-Sink) ⭐ 74 |
 | 2026-03-20 | **6Bit-Diffusion: Inference-Time Mixed-Precision Quantization for Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2603.18742) |
 | 2026-03-20 | **Efficient Video Diffusion with Sparse Information Transmission for Video Compression** [📄 arXiv](https://arxiv.org/abs/2603.18501) [💻 Code](https://github.com/MingdeZhou/Diff-SIT) |
@@ -247,6 +332,7 @@ Last updated: 2026-03-23
 <!-- SECTION:video_tokenizer -->
 | Date | Paper |
 |------|-------|
+| 2026-03-24 | **EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation** [📄 arXiv](https://arxiv.org/abs/2603.12267) [🌐 Homepage](https://silentview.github.io/EVATok/) [💻 Code ⭐ 48](https://github.com/HKU-MMLab/EVATok) |
 | 2026-03-20 | **LRConv-NeRV: Low Rank Convolution for Efficient Neural Video Compression** [📄 arXiv](https://arxiv.org/abs/2603.18261) |
 | 2026-03-19 | **ProGVC: Progressive-based Generative Video Compression via Auto-Regressive Context Modeling** [📄 arXiv](https://arxiv.org/abs/2603.17546) |
 | 2026-03-17 | **Generative Video Compression with One-Dimensional Latent Representation** [📄 arXiv](https://arxiv.org/abs/2603.15302) [🌐 Homepage](http://methods.Project) |
@@ -259,6 +345,8 @@ Last updated: 2026-03-23
 <!-- SECTION:video_autoregressive -->
 | Date | Paper |
 |------|-------|
+| 2026-03-24 | **Streaming Autoregressive Video Generation via Diagonal Distillation** [📄 arXiv](https://arxiv.org/abs/2603.09488) |
+| 2026-03-24 | **Train Short, Inference Long: Training-free Horizon Extension for Autoregressive Video Generation** [📄 arXiv](https://arxiv.org/abs/2602.14027) [🌐 Homepage](https://ga-lee.github.io/FLEX_demo) [💻 Code ⭐ 110](https://github.com/Ga-Lee/Frequency-aware-Length-EXtension) |
 | 2026-03-19 | **AR-CoPO: Align Autoregressive Video Generation with Contrastive Policy Optimization** [📄 arXiv](https://arxiv.org/abs/2603.17461) |
 | 2026-03-17 | **FAR-Drive: Frame-AutoRegressive Video Generation in Closed-Loop Autonomous Driving** [📄 arXiv](https://arxiv.org/abs/2603.14938) |
 <!-- END_SECTION -->
@@ -284,6 +372,7 @@ Last updated: 2026-03-23
 <!-- SECTION:video_foundation -->
 | Date | Paper |
 |------|-------|
+| 2026-03-24 | **UniE2F: A Unified Diffusion Framework for Event-to-Frame Reconstruction with Video Foundation Models** [📄 arXiv](https://arxiv.org/abs/2602.19202) [💻 Code ⭐ 4](https://github.com/CS-GangXu/UniE2F) |
 | 2026-03-20 | **SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model** [📄 arXiv](https://arxiv.org/abs/2602.21818) |
 | 2026-03-18 | **VideoMatGen: PBR Materials through Joint Generative Modeling** [📄 arXiv](https://arxiv.org/abs/2603.16566) |
 | 2026-03-18 | **S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight** [📄 arXiv](https://arxiv.org/abs/2603.16195) [🌐 Homepage](https://haodong-yan.github.io/S-VAM/) |
@@ -295,6 +384,7 @@ Last updated: 2026-03-23
 <!-- SECTION:multi_subject -->
 | Date | Paper |
 |------|-------|
+| 2026-03-24 | **EraseAnything++: Enabling Concept Erasure in Rectified Flow Transformers Leveraging Multi-Object Optimization** [📄 arXiv](https://arxiv.org/abs/2603.00978) |
 | 2026-03-20 | **OmniDiT: Extending Diffusion Transformer to Omni-VTON Framework** [📄 arXiv](https://arxiv.org/abs/2603.19643) |
 | 2026-03-20 | **LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.20192) [🌐 Homepage](https://jiazheng-xing.github.io/lumosx-home/) |
 | 2026-03-19 | **Identity as Presence: Towards Appearance and Voice Personalized Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.17889) [🌐 Homepage](https://chen-yingjie.github.io/projects/Identity-as-Presence) |
