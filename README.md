@@ -372,7 +372,7 @@ Last updated: 2026-03-24
 <!-- SECTION:video_foundation -->
 | Date | Paper |
 |------|-------|
-| 2026-03-23 | **Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model (daVinci-MagiHuman)** [📄 arXiv](https://arxiv.org/abs/2603.21986) |
+| 2026-03-23 | **Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model (daVinci-MagiHuman)** [📄 arXiv](https://arxiv.org/abs/2603.21986) [💻 Code](https://github.com/GAIR-NLP/daVinci-MagiHuman) |
 | 2026-03-24 | **UniE2F: A Unified Diffusion Framework for Event-to-Frame Reconstruction with Video Foundation Models** [📄 arXiv](https://arxiv.org/abs/2602.19202) [💻 Code ⭐ 4](https://github.com/CS-GangXu/UniE2F) |
 | 2026-03-20 | **SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model** [📄 arXiv](https://arxiv.org/abs/2602.21818) |
 | 2026-03-18 | **VideoMatGen: PBR Materials through Joint Generative Modeling** [📄 arXiv](https://arxiv.org/abs/2603.16566) |
