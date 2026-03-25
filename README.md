@@ -37,6 +37,7 @@ Last updated: 2026-03-25
 <!-- SECTION:text_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-03-24 | **InterDyad: Interactive Dyadic Speech-to-Video Generation by Querying Intermediate Visual Guidance** [📄 arXiv](https://arxiv.org/abs/2603.23132) [🌐 Homepage](https://interdyad.github.io/) |
 | 2026-03-24 | **PROBE: Diagnosing Residual Concept Capacity in Erased Text-to-Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2603.21547) [💻 Code ⭐ 0](https://github.com/YiweiXie/PRObingBasedEvaluation) |
 | 2026-03-24 | **OSCBench: Benchmarking Object State Change in Text-to-Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.11698) [🌐 Homepage](https://hanxjing.github.io/OSCBench) [💻 Code ⭐ 4.7k](https://github.com/eliahuhorwitz/Academic-project-page-template) |
 | 2026-03-24 | **NEGATE: Constrained Semantic Guidance for Linguistic Negation in Text-to-Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2603.06533) |
