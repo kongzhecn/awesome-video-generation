@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-03-24
+Last updated: 2026-03-25
 
 ## 📑 Table of Contents
 
@@ -97,6 +97,7 @@ Last updated: 2026-03-24
 <!-- SECTION:video_interpolation -->
 | Date | Paper |
 |------|-------|
+| 2026-03-25 | **TETO: Tracking Events with Teacher Observation for Motion Estimation and Frame Interpolation** [📄 arXiv](https://arxiv.org/abs/2603.23487) |
 | 2026-03-24 | **FC-VFI: Faithful and Consistent Video Frame Interpolation for High-FPS Slow Motion Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.04899) |
 | 2026-03-17 | **Edit2Interp: Adapting Image Foundation Models from Spatial Editing to Video Frame Interpolation with Few-Shot Learning** [📄 arXiv](https://arxiv.org/abs/2603.15003) |
 <!-- END_SECTION -->
@@ -128,6 +129,8 @@ Last updated: 2026-03-24
 <!-- SECTION:controllable_video -->
 | Date | Paper |
 |------|-------|
+| 2026-03-25 | **I3DM: Implicit 3D-aware Memory Retrieval and Injection for Consistent Video Scene Generation** [📄 arXiv](https://arxiv.org/abs/2603.23413) [🌐 Homepage](https://riga2.github.io/i3dm) |
+| 2026-03-25 | **GO-Renderer: Generative Object Rendering with 3D-aware Controllable Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2603.23246) [🌐 Homepage](https://igl-hkust.github.io/GO-Renderer) [💻 Code ⭐ 0](https://github.com/IGL-HKUST/GO-Renderer) |
 | 2026-03-24 | **Identity-Consistent Video Generation under Large Facial-Angle Variations** [📄 arXiv](https://arxiv.org/abs/2603.21299) |
 | 2026-03-24 | **FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance** [📄 arXiv](https://arxiv.org/abs/2603.12146) |
 | 2026-03-24 | **DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning** [📄 arXiv](https://arxiv.org/abs/2603.12257) [🌐 Homepage](https://dreamvideo-omni.github.io) |
@@ -170,6 +173,9 @@ Last updated: 2026-03-24
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-03-25 | **WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG** [📄 arXiv](https://arxiv.org/abs/2603.23497) [🌐 Homepage](https://shandaai.github.io/wildworld-project/) [💻 Code ⭐ 13](https://github.com/ShandaAI/WildWorld) |
+| 2026-03-25 | **ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment** [📄 arXiv](https://arxiv.org/abs/2603.23376) |
+| 2026-03-25 | **Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models** [📄 arXiv](https://arxiv.org/abs/2603.22212) |
 | 2026-03-24 | **World2Act: Latent Action Post-Training via Skill-Compositional World Models** [📄 arXiv](https://arxiv.org/abs/2603.10422) [🌐 Homepage](https://wm2act.github.io/) |
 | 2026-03-24 | **Orthogonal Spatial-temporal Distributional Transfer for 4D Generation** [📄 arXiv](https://arxiv.org/abs/2603.05081) |
 | 2026-03-23 | **EgoForge: Goal-Directed Egocentric World Simulator** [📄 arXiv](https://arxiv.org/abs/2603.20169) |
