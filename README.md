@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-03-25
+Last updated: 2026-03-26
 
 ## 📑 Table of Contents
 
@@ -54,6 +54,7 @@ Last updated: 2026-03-25
 <!-- SECTION:image_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-03-26 | **Anti-I2V: Safeguarding your photos from malicious image-to-video generation** [📄 arXiv](https://arxiv.org/abs/2603.24570) |
 | 2026-03-20 | **HyperMotionX: The Dataset and Benchmark with DiT-Based Pose-Guided Human Image Animation of Complex Motions** [📄 arXiv](https://arxiv.org/abs/2505.22977) |
 | 2026-03-19 | **TransText: Transparency Aware Image-to-Video Typography Animation** [📄 arXiv](https://arxiv.org/abs/2603.17944) |
 | 2026-03-19 | **FrescoDiffusion: 4K Image-to-Video with Prior-Regularized Tiled Diffusion** [📄 arXiv](https://arxiv.org/abs/2603.17555) |
@@ -67,6 +68,7 @@ Last updated: 2026-03-25
 <!-- SECTION:video_editing -->
 | Date | Paper |
 |------|-------|
+| 2026-03-26 | **Accelerating Diffusion-based Video Editing via Heterogeneous Caching: Beyond Full Computing at Sampled Denoising Timestep** [📄 arXiv](https://arxiv.org/abs/2603.24260) |
 | 2026-03-20 | **SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing** [📄 arXiv](https://arxiv.org/abs/2603.19228) |
 | 2026-03-20 | **EffectErase: Joint Video Object Removal and Insertion for High-Quality Effect Erasing** [📄 arXiv](https://arxiv.org/abs/2603.19224) |
 <!-- END_SECTION -->
@@ -174,6 +176,7 @@ Last updated: 2026-03-25
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-03-26 | **Toward Physically Consistent Driving Video World Models under Challenging Trajectories** [📄 arXiv](https://arxiv.org/abs/2603.24506) [🌐 Homepage](https://wm-research.github.io/PhyGenesis/) [💻 Code ⭐ 0](https://github.com/wm-research/PhyGenesis) |
 | 2026-03-25 | **WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG** [📄 arXiv](https://arxiv.org/abs/2603.23497) [🌐 Homepage](https://shandaai.github.io/wildworld-project/) [💻 Code ⭐ 13](https://github.com/ShandaAI/WildWorld) |
 | 2026-03-25 | **ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment** [📄 arXiv](https://arxiv.org/abs/2603.23376) |
 | 2026-03-25 | **Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models** [📄 arXiv](https://arxiv.org/abs/2603.22212) |
@@ -309,6 +312,7 @@ Last updated: 2026-03-25
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-03-26 | **ScrollScape: Unlocking 32K Image Generation With Video Diffusion Priors** [📄 arXiv](https://arxiv.org/abs/2603.24270) |
 | 2026-03-24 | **Climate Prompting: Generating the Madden-Julian Oscillation using Video Diffusion and Low-Dimensional Conditioning** [📄 arXiv](https://arxiv.org/abs/2603.21856) |
 | 2026-03-24 | **Uni-Classifier: Leveraging Video Diffusion Priors for Universal Guidance Classifier** [📄 arXiv](https://arxiv.org/abs/2603.20382) |
 | 2026-03-24 | **When to Lock Attention: Training-Free KV Control in Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2603.09657) |
