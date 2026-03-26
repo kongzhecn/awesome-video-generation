@@ -134,7 +134,6 @@ Last updated: 2026-03-26
 |------|-------|
 | 2026-03-25 | **I3DM: Implicit 3D-aware Memory Retrieval and Injection for Consistent Video Scene Generation** [📄 arXiv](https://arxiv.org/abs/2603.23413) [🌐 Homepage](https://riga2.github.io/i3dm) |
 | 2026-03-25 | **GO-Renderer: Generative Object Rendering with 3D-aware Controllable Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2603.23246) [🌐 Homepage](https://igl-hkust.github.io/GO-Renderer) [💻 Code ⭐ 0](https://github.com/IGL-HKUST/GO-Renderer) |
-| 2026-03-24 | **Identity-Consistent Video Generation under Large Facial-Angle Variations** [📄 arXiv](https://arxiv.org/abs/2603.21299) |
 | 2026-03-24 | **FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance** [📄 arXiv](https://arxiv.org/abs/2603.12146) |
 | 2026-03-24 | **DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning** [📄 arXiv](https://arxiv.org/abs/2603.12257) [🌐 Homepage](https://dreamvideo-omni.github.io) |
 | 2026-03-24 | **ID-LoRA: Identity-Driven Audio-Video Personalization with In-Context LoRA** [📄 arXiv](https://arxiv.org/abs/2603.10256) |
@@ -397,6 +396,7 @@ Last updated: 2026-03-26
 <!-- SECTION:multi_subject -->
 | Date | Paper |
 |------|-------|
+| 2026-03-24 | **Identity-Consistent Video Generation under Large Facial-Angle Variations** [📄 arXiv](https://arxiv.org/abs/2603.21299) |
 | 2026-03-24 | **EraseAnything++: Enabling Concept Erasure in Rectified Flow Transformers Leveraging Multi-Object Optimization** [📄 arXiv](https://arxiv.org/abs/2603.00978) |
 | 2026-03-20 | **OmniDiT: Extending Diffusion Transformer to Omni-VTON Framework** [📄 arXiv](https://arxiv.org/abs/2603.19643) |
 | 2026-03-20 | **LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.20192) [🌐 Homepage](https://jiazheng-xing.github.io/lumosx-home/) |
