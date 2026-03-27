@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-03-26
+Last updated: 2026-03-27
 
 ## 📑 Table of Contents
 
@@ -80,6 +80,7 @@ Last updated: 2026-03-26
 <!-- SECTION:video_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-03-27 | **VideoWeaver: Multimodal Multi-View Video-to-Video Transfer for Embodied Agents** [📄 arXiv](https://arxiv.org/abs/2603.25420) |
 | 2026-03-18 | **SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation** [📄 arXiv](https://arxiv.org/abs/2603.16864) |
 | 2026-03-17 | **TextOVSR: Text-Guided Real-World Opera Video Super-Resolution** [📄 arXiv](https://arxiv.org/abs/2603.15153) [💻 Code ⭐ 2](https://github.com/ChangHua0/TextOVSR) |
 <!-- END_SECTION -->
@@ -112,6 +113,10 @@ Last updated: 2026-03-26
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-03-27 | **ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling** [📄 arXiv](https://arxiv.org/abs/2603.25746) [🌐 Homepage](https://luo0207.github.io/ShotStream/) [💻 Code ⭐ 11](https://github.com/KlingAIResearch/ShotStream) |
+| 2026-03-27 | **PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference** [📄 arXiv](https://arxiv.org/abs/2603.25730) [💻 Code ⭐ 5](https://github.com/ShandaAI/PackForcing) |
+| 2026-03-27 | **Free-Lunch Long Video Generation via Layer-Adaptive O.O.D Correction** [📄 arXiv](https://arxiv.org/abs/2603.25209) [💻 Code ⭐ 2](https://github.com/Westlake-AGI-Lab/FreeLOC) |
+| 2026-03-27 | **VideoTIR: Accurate Understanding for Long Videos with Efficient Tool-Integrated Reasoning** [📄 arXiv](https://arxiv.org/abs/2603.25021) |
 | 2026-03-24 | **Adaptive Video Distillation: Mitigating Oversaturation and Temporal Collapse in Few-Step Generation** [📄 arXiv](https://arxiv.org/abs/2603.21864) |
 | 2026-03-24 | **Relax Forcing: Relaxed KV-Memory for Consistent Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.21366) [🌐 Homepage](https://zengqunzhao.github.io/Relax-Forcing) [💻 Code ⭐ 1](https://github.com/zengqunzhao/Relax-Forcing) |
 | 2026-03-24 | **EchoLVFM: One-Step Video Generation via Latent Flow Matching for Echocardiogram Synthesis** [📄 arXiv](https://arxiv.org/abs/2603.13967) [💻 Code ⭐ 1](https://github.com/EngEmmanuel/EchoLVFM) |
@@ -175,6 +180,8 @@ Last updated: 2026-03-26
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-03-27 | **Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models** [📄 arXiv](https://arxiv.org/abs/2603.25716) |
+| 2026-03-27 | **Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning** [📄 arXiv](https://arxiv.org/abs/2603.25685) |
 | 2026-03-26 | **Toward Physically Consistent Driving Video World Models under Challenging Trajectories** [📄 arXiv](https://arxiv.org/abs/2603.24506) [🌐 Homepage](https://wm-research.github.io/PhyGenesis/) [💻 Code ⭐ 0](https://github.com/wm-research/PhyGenesis) |
 | 2026-03-25 | **WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG** [📄 arXiv](https://arxiv.org/abs/2603.23497) [🌐 Homepage](https://shandaai.github.io/wildworld-project/) [💻 Code ⭐ 13](https://github.com/ShandaAI/WildWorld) |
 | 2026-03-25 | **ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment** [📄 arXiv](https://arxiv.org/abs/2603.23376) |
@@ -222,6 +229,7 @@ Last updated: 2026-03-26
 <!-- SECTION:digital_human_diffusion -->
 | Date | Paper |
 |------|-------|
+| 2026-03-27 | **OpenCap Monocular: 3D Human Kinematics and Musculoskeletal Dynamics from a Single Smartphone Video** [📄 arXiv](https://arxiv.org/abs/2603.24733) |
 | 2026-03-24 | **EARTalking: End-to-end GPT-style Autoregressive Talking Head Synthesis with Frame-wise Control** [📄 arXiv](https://arxiv.org/abs/2603.20307) |
 | 2026-03-24 | **SoulX-LiveAct: Towards Hour-Scale Real-Time Human Animation with Neighbor Forcing and ConvKV Memory** [📄 arXiv](https://arxiv.org/abs/2603.11746) |
 | 2026-03-24 | **Controllable Complex Human Motion Video Generation via Text-to-Skeleton Cascades** [📄 arXiv](https://arxiv.org/abs/2603.08028) |
