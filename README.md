@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-03-30
+Last updated: 2026-03-31
 
 ## 📑 Table of Contents
 
@@ -37,6 +37,7 @@ Last updated: 2026-03-30
 <!-- SECTION:text_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-03-31 | **TokenDial: Continuous Attribute Control in Text-to-Video via Spatiotemporal Token Offsets** [📄 arXiv](https://arxiv.org/abs/2603.27520) [🌐 Homepage](https://tokendial.github.io/) |
 | 2026-03-24 | **InterDyad: Interactive Dyadic Speech-to-Video Generation by Querying Intermediate Visual Guidance** [📄 arXiv](https://arxiv.org/abs/2603.23132) [🌐 Homepage](https://interdyad.github.io/) |
 | 2026-03-24 | **PROBE: Diagnosing Residual Concept Capacity in Erased Text-to-Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2603.21547) [💻 Code ⭐ 0](https://github.com/YiweiXie/PRObingBasedEvaluation) |
 | 2026-03-24 | **OSCBench: Benchmarking Object State Change in Text-to-Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.11698) [🌐 Homepage](https://hanxjing.github.io/OSCBench) [💻 Code ⭐ 4.7k](https://github.com/eliahuhorwitz/Academic-project-page-template) |
@@ -54,6 +55,8 @@ Last updated: 2026-03-30
 <!-- SECTION:image_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-03-31 | **From Static to Dynamic: Exploring Self-supervised Image-to-Video Representation Transfer Learning** [📄 arXiv](https://arxiv.org/abs/2603.26597) [💻 Code ⭐ 7](https://github.com/yafeng19/Co-Settle) |
+| 2026-03-31 | **IP-Bench: Benchmark for Image Protection Methods in Image-to-Video Generation Scenarios** [📄 arXiv](https://arxiv.org/abs/2603.26154) |
 | 2026-03-26 | **Anti-I2V: Safeguarding your photos from malicious image-to-video generation** [📄 arXiv](https://arxiv.org/abs/2603.24570) |
 | 2026-03-20 | **HyperMotionX: The Dataset and Benchmark with DiT-Based Pose-Guided Human Image Animation of Complex Motions** [📄 arXiv](https://arxiv.org/abs/2505.22977) |
 | 2026-03-19 | **TransText: Transparency Aware Image-to-Video Typography Animation** [📄 arXiv](https://arxiv.org/abs/2603.17944) |
@@ -113,6 +116,7 @@ Last updated: 2026-03-30
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-03-31 | **EFlow: Fast Few-Step Video Generator Training from Scratch via Efficient Solution Flow** [📄 arXiv](https://arxiv.org/abs/2603.27086) |
 | 2026-03-27 | **ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling** [📄 arXiv](https://arxiv.org/abs/2603.25746) [🌐 Homepage](https://luo0207.github.io/ShotStream/) [💻 Code ⭐ 11](https://github.com/KlingAIResearch/ShotStream) |
 | 2026-03-27 | **PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference** [📄 arXiv](https://arxiv.org/abs/2603.25730) [💻 Code ⭐ 5](https://github.com/ShandaAI/PackForcing) |
 | 2026-03-27 | **Free-Lunch Long Video Generation via Layer-Adaptive O.O.D Correction** [📄 arXiv](https://arxiv.org/abs/2603.25209) [💻 Code ⭐ 2](https://github.com/Westlake-AGI-Lab/FreeLOC) |
@@ -137,6 +141,9 @@ Last updated: 2026-03-30
 <!-- SECTION:controllable_video -->
 | Date | Paper |
 |------|-------|
+| 2026-03-31 | **LightCtrl: Training-free Controllable Video Relighting** [📄 arXiv](https://arxiv.org/abs/2603.27083) [💻 Code ⭐ 10](https://github.com/GVCLab/LightCtrl) |
+| 2026-03-31 | **VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward** [📄 arXiv](https://arxiv.org/abs/2603.26599) [🌐 Homepage](https://zhaochongan.github.io/projects/VGGRPO) |
+| 2026-03-31 | **MemCam: Memory-Augmented Camera Control for Consistent Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.26193) |
 | 2026-03-25 | **I3DM: Implicit 3D-aware Memory Retrieval and Injection for Consistent Video Scene Generation** [📄 arXiv](https://arxiv.org/abs/2603.23413) [🌐 Homepage](https://riga2.github.io/i3dm) |
 | 2026-03-25 | **GO-Renderer: Generative Object Rendering with 3D-aware Controllable Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2603.23246) [🌐 Homepage](https://igl-hkust.github.io/GO-Renderer) [💻 Code ⭐ 0](https://github.com/IGL-HKUST/GO-Renderer) |
 | 2026-03-24 | **FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance** [📄 arXiv](https://arxiv.org/abs/2603.12146) |
@@ -180,6 +187,7 @@ Last updated: 2026-03-30
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-03-31 | **LOME: Learning Human-Object Manipulation with Action-Conditioned Egocentric World Model** [📄 arXiv](https://arxiv.org/abs/2603.27449) |
 | 2026-03-27 | **Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models** [📄 arXiv](https://arxiv.org/abs/2603.25716) |
 | 2026-03-27 | **Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning** [📄 arXiv](https://arxiv.org/abs/2603.25685) |
 | 2026-03-26 | **Toward Physically Consistent Driving Video World Models under Challenging Trajectories** [📄 arXiv](https://arxiv.org/abs/2603.24506) [🌐 Homepage](https://wm-research.github.io/PhyGenesis/) [💻 Code ⭐ 0](https://github.com/wm-research/PhyGenesis) |
@@ -390,6 +398,10 @@ Last updated: 2026-03-30
 <!-- SECTION:video_foundation -->
 | Date | Paper |
 |------|-------|
+| 2026-03-31 | **Wan-R1: Verifiable-Reinforcement Learning for Video Reasoning** [📄 arXiv](https://arxiv.org/abs/2603.27866) |
+| 2026-03-31 | **TrackMAE: Video Representation Learning via Track Mask and Predict** [📄 arXiv](https://arxiv.org/abs/2603.27268) [💻 Code ⭐ 1](https://github.com/rvandeghen/TrackMAE) |
+| 2026-03-31 | **THFM: A Unified Video Foundation Model for 4D Human Perception and Beyond** [📄 arXiv](https://arxiv.org/abs/2603.25892) |
+| 2026-03-31 | **Learning Transferable Temporal Primitives for Video Reasoning via Synthetic Videos** [📄 arXiv](https://arxiv.org/abs/2603.17693) |
 | 2026-03-25 | **OmniWeaving: Towards Unified Video Generation with Free-form Composition and Reasoning** [📄 arXiv](https://arxiv.org/abs/2603.24458) [🌐 Homepage](https://omniweaving.github.io) |
 | 2026-03-23 | **Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model (daVinci-MagiHuman)** [📄 arXiv](https://arxiv.org/abs/2603.21986) [💻 Code ⭐ 222](https://github.com/GAIR-NLP/daVinci-MagiHuman) |
 | 2026-03-24 | **UniE2F: A Unified Diffusion Framework for Event-to-Frame Reconstruction with Video Foundation Models** [📄 arXiv](https://arxiv.org/abs/2602.19202) [💻 Code ⭐ 4](https://github.com/CS-GangXu/UniE2F) |
