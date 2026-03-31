@@ -29,6 +29,7 @@ Last updated: 2026-03-31
 - [🎯 Reinforcement Learning & Reward Model](#reinforcement-learning-reward-model)
 - [🏗️ Video Foundation Models & Pretraining](#video-foundation-models-pretraining)
 - [👥 Multi Subject / Object / ID](#multi-subject--object--id)
+- [📖 Story Visualization & Narrative Generation](#-story-visualization--narrative-generation)
 
 ---
 
@@ -422,6 +423,17 @@ Last updated: 2026-03-31
 | 2026-03-20 | **LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.20192) [🌐 Homepage](https://jiazheng-xing.github.io/lumosx-home/) |
 | 2026-03-19 | **Identity as Presence: Towards Appearance and Voice Personalized Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.17889) [🌐 Homepage](https://chen-yingjie.github.io/projects/Identity-as-Presence) |
 <!-- END_SECTION -->
+
+## 📖 Story Visualization & Narrative Generation
+
+<!-- SECTION:story_visualization -->
+| Date | Paper |
+|------|-------|
+| 2026-03-31 | **LogiStory: A Logic-Aware Framework for Multi-Image Story Visualization** [📄 arXiv](https://arxiv.org/abs/2603.28082) |
+<!-- END_SECTION -->
+
+---
+
 
 
 ---
