@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-03-31
+Last updated: 2026-04-01
 
 ## 📑 Table of Contents
 
@@ -72,6 +72,7 @@ Last updated: 2026-03-31
 <!-- SECTION:video_editing -->
 | Date | Paper |
 |------|-------|
+| 2026-04-01 | **CutClaw: Agentic Hours-Long Video Editing via Music Synchronization** [📄 arXiv](https://arxiv.org/abs/2603.29664) [💻 Code ⭐ 14](https://github.com/GVCLab/CutClaw) |
 | 2026-03-26 | **Accelerating Diffusion-based Video Editing via Heterogeneous Caching: Beyond Full Computing at Sampled Denoising Timestep** [📄 arXiv](https://arxiv.org/abs/2603.24260) |
 | 2026-03-20 | **SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing** [📄 arXiv](https://arxiv.org/abs/2603.19228) |
 | 2026-03-20 | **EffectErase: Joint Video Object Removal and Insertion for High-Quality Effect Erasing** [📄 arXiv](https://arxiv.org/abs/2603.19224) |
@@ -117,6 +118,7 @@ Last updated: 2026-03-31
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-04-01 | **SLVMEval: Synthetic Meta Evaluation Benchmark for Text-to-Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.29186) |
 | 2026-03-31 | **EFlow: Fast Few-Step Video Generator Training from Scratch via Efficient Solution Flow** [📄 arXiv](https://arxiv.org/abs/2603.27086) |
 | 2026-03-27 | **ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling** [📄 arXiv](https://arxiv.org/abs/2603.25746) [🌐 Homepage](https://luo0207.github.io/ShotStream/) [💻 Code ⭐ 11](https://github.com/KlingAIResearch/ShotStream) |
 | 2026-03-27 | **PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference** [📄 arXiv](https://arxiv.org/abs/2603.25730) [💻 Code ⭐ 5](https://github.com/ShandaAI/PackForcing) |
