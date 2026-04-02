@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-04-01
+Last updated: 2026-04-02
 
 ## 📑 Table of Contents
 
@@ -419,6 +419,7 @@ Last updated: 2026-04-01
 <!-- SECTION:multi_subject -->
 | Date | Paper |
 |------|-------|
+| 2026-04-02 | **MotionGrounder: Grounded Multi-Object Motion Transfer via Diffusion Transformer** [📄 arXiv](https://arxiv.org/abs/2604.00853) [🌐 Homepage](https://kaist-viclab.github.io/motiongrounder-site/) [💻 Code ⭐ 4.1k](https://github.com/nerfies/nerfies.github.io) |
 | 2026-03-24 | **Identity-Consistent Video Generation under Large Facial-Angle Variations** [📄 arXiv](https://arxiv.org/abs/2603.21299) |
 | 2026-03-24 | **EraseAnything++: Enabling Concept Erasure in Rectified Flow Transformers Leveraging Multi-Object Optimization** [📄 arXiv](https://arxiv.org/abs/2603.00978) |
 | 2026-03-20 | **OmniDiT: Extending Diffusion Transformer to Omni-VTON Framework** [📄 arXiv](https://arxiv.org/abs/2603.19643) |
