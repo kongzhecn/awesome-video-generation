@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-04-02
+Last updated: 2026-04-03
 
 ## 📑 Table of Contents
 
@@ -56,6 +56,7 @@ Last updated: 2026-04-02
 <!-- SECTION:image_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-04-03 | **Control-DINO: Feature Space Conditioning for Controllable Image-to-Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2604.01761) [🌐 Homepage](https://dedoardo.github.io/projects/control-dino/) [💻 Code ⭐ 1](https://github.com/d3ixi/ControlDINO) |
 | 2026-03-31 | **From Static to Dynamic: Exploring Self-supervised Image-to-Video Representation Transfer Learning** [📄 arXiv](https://arxiv.org/abs/2603.26597) [💻 Code ⭐ 7](https://github.com/yafeng19/Co-Settle) |
 | 2026-03-31 | **IP-Bench: Benchmark for Image Protection Methods in Image-to-Video Generation Scenarios** [📄 arXiv](https://arxiv.org/abs/2603.26154) |
 | 2026-03-26 | **Anti-I2V: Safeguarding your photos from malicious image-to-video generation** [📄 arXiv](https://arxiv.org/abs/2603.24570) |
@@ -72,6 +73,7 @@ Last updated: 2026-04-02
 <!-- SECTION:video_editing -->
 | Date | Paper |
 |------|-------|
+| 2026-04-03 | **From Understanding to Erasing: Towards Complete and Stable Video Object Removal** [📄 arXiv](https://arxiv.org/abs/2604.01693) [💻 Code](https://github.com/WeChatCV/UnderEraser) |
 | 2026-04-01 | **CutClaw: Agentic Hours-Long Video Editing via Music Synchronization** [📄 arXiv](https://arxiv.org/abs/2603.29664) [💻 Code ⭐ 14](https://github.com/GVCLab/CutClaw) |
 | 2026-03-26 | **Accelerating Diffusion-based Video Editing via Heterogeneous Caching: Beyond Full Computing at Sampled Denoising Timestep** [📄 arXiv](https://arxiv.org/abs/2603.24260) |
 | 2026-03-20 | **SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing** [📄 arXiv](https://arxiv.org/abs/2603.19228) |
@@ -330,6 +332,7 @@ Last updated: 2026-04-02
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-04-03 | **Can Video Diffusion Models Predict Past Frames? Bidirectional Cycle Consistency for Reversible Interpolation** [📄 arXiv](https://arxiv.org/abs/2604.01700) |
 | 2026-03-26 | **ScrollScape: Unlocking 32K Image Generation With Video Diffusion Priors** [📄 arXiv](https://arxiv.org/abs/2603.24270) |
 | 2026-03-24 | **Climate Prompting: Generating the Madden-Julian Oscillation using Video Diffusion and Low-Dimensional Conditioning** [📄 arXiv](https://arxiv.org/abs/2603.21856) |
 | 2026-03-24 | **Uni-Classifier: Leveraging Video Diffusion Priors for Universal Guidance Classifier** [📄 arXiv](https://arxiv.org/abs/2603.20382) |
@@ -419,6 +422,7 @@ Last updated: 2026-04-02
 <!-- SECTION:multi_subject -->
 | Date | Paper |
 |------|-------|
+| 2026-04-03 | **ActionParty: Multi-Subject Action Binding in Generative Video Games** [📄 arXiv](https://arxiv.org/abs/2604.02330) [🌐 Homepage](https://action-party.github.io/) [💻 Code ⭐ 2](https://github.com/action-party/action-party) |
 | 2026-04-02 | **MotionGrounder: Grounded Multi-Object Motion Transfer via Diffusion Transformer** [📄 arXiv](https://arxiv.org/abs/2604.00853) [🌐 Homepage](https://kaist-viclab.github.io/motiongrounder-site/) [💻 Code ⭐ 4.1k](https://github.com/nerfies/nerfies.github.io) |
 | 2026-03-24 | **Identity-Consistent Video Generation under Large Facial-Angle Variations** [📄 arXiv](https://arxiv.org/abs/2603.21299) |
 | 2026-03-24 | **EraseAnything++: Enabling Concept Erasure in Rectified Flow Transformers Leveraging Multi-Object Optimization** [📄 arXiv](https://arxiv.org/abs/2603.00978) |
