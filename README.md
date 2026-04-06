@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-04-03
+Last updated: 2026-04-06
 
 ## 📑 Table of Contents
 
@@ -173,6 +173,7 @@ Last updated: 2026-04-03
 <!-- SECTION:camera_control -->
 | Date | Paper |
 |------|-------|
+| 2026-04-06 | **Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model** [📄 arXiv](https://arxiv.org/abs/2604.03181) [🌐 Homepage](https://lpy1219.github.io/MV-VDP-Web/) |
 | 2026-03-24 | **WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories** [📄 arXiv](https://arxiv.org/abs/2603.02049) |
 | 2026-03-24 | **PoseCraft: Tokenized 3D Body Landmark and Camera Conditioning for Photorealistic Human Image Synthesis** [📄 arXiv](https://arxiv.org/abs/2602.19350) |
 | 2026-03-23 | **LagerNVS: Latent Geometry for Fully Neural Real-time Novel View Synthesis** [📄 arXiv](https://arxiv.org/abs/2603.20176) [🌐 Homepage](http://szymanowiczs.github.io/lagernvs) [💻 Code ⭐ 4](https://github.com/facebookresearch/lagernvs) |
@@ -242,6 +243,7 @@ Last updated: 2026-04-03
 <!-- SECTION:digital_human_diffusion -->
 | Date | Paper |
 |------|-------|
+| 2026-04-06 | **SentiAvatar: Towards Expressive and Interactive Digital Humans** [📄 arXiv](https://arxiv.org/abs/2604.02908) [🌐 Homepage](https://sentiavatar.github.io) [💻 Code](https://github.com/yourorg/yourrepo) |
 | 2026-03-27 | **OpenCap Monocular: 3D Human Kinematics and Musculoskeletal Dynamics from a Single Smartphone Video** [📄 arXiv](https://arxiv.org/abs/2603.24733) |
 | 2026-03-24 | **EARTalking: End-to-end GPT-style Autoregressive Talking Head Synthesis with Frame-wise Control** [📄 arXiv](https://arxiv.org/abs/2603.20307) |
 | 2026-03-24 | **SoulX-LiveAct: Towards Hour-Scale Real-Time Human Animation with Neighbor Forcing and ConvKV Memory** [📄 arXiv](https://arxiv.org/abs/2603.11746) |
@@ -295,6 +297,7 @@ Last updated: 2026-04-03
 <!-- SECTION:digital_human_3d -->
 | Date | Paper |
 |------|-------|
+| 2026-04-06 | **MMTalker: Multiresolution 3D Talking Head Synthesis with Multimodal Feature Fusion** [📄 arXiv](https://arxiv.org/abs/2604.02941) |
 | 2026-03-24 | **EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization** [📄 arXiv](https://arxiv.org/abs/2603.21332) [🌐 Homepage](https://emotag26.github.io/) [💻 Code ⭐ 1.9k](https://github.com/google/nerfies/releases/tag/0.1) |
 | 2026-03-24 | **EmbedTalk: Triplane-Free Talking Head Synthesis using Embedding-Driven Gaussian Deformation** [📄 arXiv](https://arxiv.org/abs/2603.07604) |
 | 2026-03-24 | **HumanOrbit: 3D Human Reconstruction as 360° Orbit Generation** [📄 arXiv](https://arxiv.org/abs/2602.24148) |
@@ -377,6 +380,7 @@ Last updated: 2026-04-03
 <!-- SECTION:video_autoregressive -->
 | Date | Paper |
 |------|-------|
+| 2026-04-06 | **Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation** [📄 arXiv](https://arxiv.org/abs/2604.02979) |
 | 2026-03-24 | **Streaming Autoregressive Video Generation via Diagonal Distillation** [📄 arXiv](https://arxiv.org/abs/2603.09488) |
 | 2026-03-24 | **Train Short, Inference Long: Training-free Horizon Extension for Autoregressive Video Generation** [📄 arXiv](https://arxiv.org/abs/2602.14027) [🌐 Homepage](https://ga-lee.github.io/FLEX_demo) [💻 Code ⭐ 110](https://github.com/Ga-Lee/Frequency-aware-Length-EXtension) |
 | 2026-03-19 | **AR-CoPO: Align Autoregressive Video Generation with Contrastive Policy Optimization** [📄 arXiv](https://arxiv.org/abs/2603.17461) |
