@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-04-06
+Last updated: 2026-04-07
 
 ## 📑 Table of Contents
 
@@ -56,6 +56,7 @@ Last updated: 2026-04-06
 <!-- SECTION:image_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-04-07 | **Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision** [📄 arXiv](https://arxiv.org/abs/2604.04934) [🌐 Homepage](https://hyunsoocha.github.io/vanast/) [💻 Code ⭐ 6](https://github.com/snuvclab/vanast) |
 | 2026-04-03 | **Control-DINO: Feature Space Conditioning for Controllable Image-to-Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2604.01761) [🌐 Homepage](https://dedoardo.github.io/projects/control-dino/) [💻 Code ⭐ 1](https://github.com/d3ixi/ControlDINO) |
 | 2026-03-31 | **From Static to Dynamic: Exploring Self-supervised Image-to-Video Representation Transfer Learning** [📄 arXiv](https://arxiv.org/abs/2603.26597) [💻 Code ⭐ 7](https://github.com/yafeng19/Co-Settle) |
 | 2026-03-31 | **IP-Bench: Benchmark for Image Protection Methods in Image-to-Video Generation Scenarios** [📄 arXiv](https://arxiv.org/abs/2603.26154) |
@@ -120,6 +121,7 @@ Last updated: 2026-04-06
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-04-07 | **Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.03738) |
 | 2026-04-01 | **SLVMEval: Synthetic Meta Evaluation Benchmark for Text-to-Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.29186) |
 | 2026-03-31 | **EFlow: Fast Few-Step Video Generator Training from Scratch via Efficient Solution Flow** [📄 arXiv](https://arxiv.org/abs/2603.27086) |
 | 2026-03-27 | **ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling** [📄 arXiv](https://arxiv.org/abs/2603.25746) [🌐 Homepage](https://luo0207.github.io/ShotStream/) [💻 Code ⭐ 11](https://github.com/KlingAIResearch/ShotStream) |
@@ -173,6 +175,7 @@ Last updated: 2026-04-06
 <!-- SECTION:camera_control -->
 | Date | Paper |
 |------|-------|
+| 2026-04-07 | **SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.03723) [🌐 Homepage](https://grenoble-zhang.github.io/SymphoMotion/) [💻 Code ⭐ 1](https://github.com/grenoble-zhang/SymphoMotion) |
 | 2026-04-06 | **Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model** [📄 arXiv](https://arxiv.org/abs/2604.03181) [🌐 Homepage](https://lpy1219.github.io/MV-VDP-Web/) |
 | 2026-03-24 | **WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories** [📄 arXiv](https://arxiv.org/abs/2603.02049) |
 | 2026-03-24 | **PoseCraft: Tokenized 3D Body Landmark and Camera Conditioning for Photorealistic Human Image Synthesis** [📄 arXiv](https://arxiv.org/abs/2602.19350) |
@@ -335,6 +338,8 @@ Last updated: 2026-04-06
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-04-07 | **Beyond Few-Step Inference: Accelerating Video Diffusion Transformer Model Serving with Inter-Request Caching Reuse** [📄 arXiv](https://arxiv.org/abs/2604.04451) |
+| 2026-04-07 | **CRAFT: Video Diffusion for Bimanual Robot Data Generation** [📄 arXiv](https://arxiv.org/abs/2604.03552) [🌐 Homepage](https://craftaug.github.io/) |
 | 2026-04-03 | **Can Video Diffusion Models Predict Past Frames? Bidirectional Cycle Consistency for Reversible Interpolation** [📄 arXiv](https://arxiv.org/abs/2604.01700) |
 | 2026-03-26 | **ScrollScape: Unlocking 32K Image Generation With Video Diffusion Priors** [📄 arXiv](https://arxiv.org/abs/2603.24270) |
 | 2026-03-24 | **Climate Prompting: Generating the Madden-Julian Oscillation using Video Diffusion and Low-Dimensional Conditioning** [📄 arXiv](https://arxiv.org/abs/2603.21856) |
