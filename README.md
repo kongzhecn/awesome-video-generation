@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-04-07
+Last updated: 2026-04-08
 
 ## 📑 Table of Contents
 
@@ -148,6 +148,7 @@ Last updated: 2026-04-07
 <!-- SECTION:controllable_video -->
 | Date | Paper |
 |------|-------|
+| 2026-04-08 | **OmniCamera: A Unified Framework for Multi-task Video Generation with Arbitrary Camera Control** [📄 arXiv](https://arxiv.org/abs/2604.06010) |
 | 2026-03-31 | **LightCtrl: Training-free Controllable Video Relighting** [📄 arXiv](https://arxiv.org/abs/2603.27083) [💻 Code ⭐ 10](https://github.com/GVCLab/LightCtrl) |
 | 2026-03-31 | **VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward** [📄 arXiv](https://arxiv.org/abs/2603.26599) [🌐 Homepage](https://zhaochongan.github.io/projects/VGGRPO) |
 | 2026-03-31 | **MemCam: Memory-Augmented Camera Control for Consistent Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.26193) |
@@ -175,6 +176,7 @@ Last updated: 2026-04-07
 <!-- SECTION:camera_control -->
 | Date | Paper |
 |------|-------|
+| 2026-04-08 | **Action Images: End-to-End Policy Learning via Multiview Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.06168) [🌐 Homepage](https://actionimages.github.io/) [💻 Code ⭐ 2](https://github.com/UMass-Embodied-AGI/ActionImages) |
 | 2026-04-07 | **SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.03723) [🌐 Homepage](https://grenoble-zhang.github.io/SymphoMotion/) [💻 Code ⭐ 1](https://github.com/grenoble-zhang/SymphoMotion) |
 | 2026-04-06 | **Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model** [📄 arXiv](https://arxiv.org/abs/2604.03181) [🌐 Homepage](https://lpy1219.github.io/MV-VDP-Web/) |
 | 2026-03-24 | **WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories** [📄 arXiv](https://arxiv.org/abs/2603.02049) |
@@ -246,6 +248,7 @@ Last updated: 2026-04-07
 <!-- SECTION:digital_human_diffusion -->
 | Date | Paper |
 |------|-------|
+| 2026-04-08 | **HumANDiff: Articulated Noise Diffusion for Motion-Consistent Human Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.05961) [🌐 Homepage](https://taohuumd.github.io/projects/HumANDiff/) |
 | 2026-04-06 | **SentiAvatar: Towards Expressive and Interactive Digital Humans** [📄 arXiv](https://arxiv.org/abs/2604.02908) [🌐 Homepage](https://sentiavatar.github.io) [💻 Code](https://github.com/yourorg/yourrepo) |
 | 2026-03-27 | **OpenCap Monocular: 3D Human Kinematics and Musculoskeletal Dynamics from a Single Smartphone Video** [📄 arXiv](https://arxiv.org/abs/2603.24733) |
 | 2026-03-24 | **EARTalking: End-to-end GPT-style Autoregressive Talking Head Synthesis with Frame-wise Control** [📄 arXiv](https://arxiv.org/abs/2603.20307) |
@@ -338,6 +341,7 @@ Last updated: 2026-04-07
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-04-08 | **DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2604.06161) [🌐 Homepage](https://yzmblog.github.io/projects/DiffHDR/) |
 | 2026-04-07 | **Beyond Few-Step Inference: Accelerating Video Diffusion Transformer Model Serving with Inter-Request Caching Reuse** [📄 arXiv](https://arxiv.org/abs/2604.04451) |
 | 2026-04-07 | **CRAFT: Video Diffusion for Bimanual Robot Data Generation** [📄 arXiv](https://arxiv.org/abs/2604.03552) [🌐 Homepage](https://craftaug.github.io/) |
 | 2026-04-03 | **Can Video Diffusion Models Predict Past Frames? Bidirectional Cycle Consistency for Reversible Interpolation** [📄 arXiv](https://arxiv.org/abs/2604.01700) |
