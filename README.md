@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-04-08
+Last updated: 2026-04-09
 
 ## 📑 Table of Contents
 
@@ -198,6 +198,7 @@ Last updated: 2026-04-08
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-04-09 | **INSPATIO-WORLD: A Real-Time 4D World Simulator via Spatiotemporal Autoregressive Modeling** [📄 arXiv](https://arxiv.org/abs/2604.07209) |
 | 2026-03-31 | **LOME: Learning Human-Object Manipulation with Action-Conditioned Egocentric World Model** [📄 arXiv](https://arxiv.org/abs/2603.27449) |
 | 2026-03-27 | **Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models** [📄 arXiv](https://arxiv.org/abs/2603.25716) |
 | 2026-03-27 | **Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning** [📄 arXiv](https://arxiv.org/abs/2603.25685) |
@@ -376,6 +377,7 @@ Last updated: 2026-04-08
 <!-- SECTION:video_tokenizer -->
 | Date | Paper |
 |------|-------|
+| 2026-04-09 | **Controllable Generative Video Compression** [📄 arXiv](https://arxiv.org/abs/2604.06655) |
 | 2026-03-24 | **EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation** [📄 arXiv](https://arxiv.org/abs/2603.12267) [🌐 Homepage](https://silentview.github.io/EVATok/) [💻 Code ⭐ 48](https://github.com/HKU-MMLab/EVATok) |
 | 2026-03-20 | **LRConv-NeRV: Low Rank Convolution for Efficient Neural Video Compression** [📄 arXiv](https://arxiv.org/abs/2603.18261) |
 | 2026-03-19 | **ProGVC: Progressive-based Generative Video Compression via Auto-Regressive Context Modeling** [📄 arXiv](https://arxiv.org/abs/2603.17546) |
@@ -389,6 +391,7 @@ Last updated: 2026-04-08
 <!-- SECTION:video_autoregressive -->
 | Date | Paper |
 |------|-------|
+| 2026-04-09 | **Grounded Forcing: Bridging Time-Independent Semantics and Proximal Dynamics in Autoregressive Video Synthesis** [📄 arXiv](https://arxiv.org/abs/2604.06939) |
 | 2026-04-06 | **Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation** [📄 arXiv](https://arxiv.org/abs/2604.02979) |
 | 2026-03-24 | **Streaming Autoregressive Video Generation via Diagonal Distillation** [📄 arXiv](https://arxiv.org/abs/2603.09488) |
 | 2026-03-24 | **Train Short, Inference Long: Training-free Horizon Extension for Autoregressive Video Generation** [📄 arXiv](https://arxiv.org/abs/2602.14027) [🌐 Homepage](https://ga-lee.github.io/FLEX_demo) [💻 Code ⭐ 110](https://github.com/Ga-Lee/Frequency-aware-Length-EXtension) |
