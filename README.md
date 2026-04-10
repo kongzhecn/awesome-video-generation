@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-04-09
+Last updated: 2026-04-10
 
 ## 📑 Table of Contents
 
@@ -38,6 +38,7 @@ Last updated: 2026-04-09
 <!-- SECTION:text_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-04-10 | **When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2604.08546) [🌐 Homepage](https://h-embodvis.github.io/NUMINA) [💻 Code ⭐ 15](https://github.com/H-EmbodVis/NUMINA) |
 | 2026-03-31 | **TokenDial: Continuous Attribute Control in Text-to-Video via Spatiotemporal Token Offsets** [📄 arXiv](https://arxiv.org/abs/2603.27520) [🌐 Homepage](https://tokendial.github.io/) |
 | 2026-03-24 | **InterDyad: Interactive Dyadic Speech-to-Video Generation by Querying Intermediate Visual Guidance** [📄 arXiv](https://arxiv.org/abs/2603.23132) [🌐 Homepage](https://interdyad.github.io/) |
 | 2026-03-24 | **PROBE: Diagnosing Residual Concept Capacity in Erased Text-to-Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2603.21547) [💻 Code ⭐ 0](https://github.com/YiweiXie/PRObingBasedEvaluation) |
@@ -74,6 +75,7 @@ Last updated: 2026-04-09
 <!-- SECTION:video_editing -->
 | Date | Paper |
 |------|-------|
+| 2026-04-10 | **ImVideoEdit: Image-learning Video Editing via 2D Spatial Difference Attention Blocks** [📄 arXiv](https://arxiv.org/abs/2604.07958) |
 | 2026-04-03 | **From Understanding to Erasing: Towards Complete and Stable Video Object Removal** [📄 arXiv](https://arxiv.org/abs/2604.01693) [💻 Code](https://github.com/WeChatCV/UnderEraser) |
 | 2026-04-01 | **CutClaw: Agentic Hours-Long Video Editing via Music Synchronization** [📄 arXiv](https://arxiv.org/abs/2603.29664) [💻 Code ⭐ 14](https://github.com/GVCLab/CutClaw) |
 | 2026-03-26 | **Accelerating Diffusion-based Video Editing via Heterogeneous Caching: Beyond Full Computing at Sampled Denoising Timestep** [📄 arXiv](https://arxiv.org/abs/2603.24260) |
@@ -100,6 +102,7 @@ Last updated: 2026-04-09
 <!-- SECTION:video_prediction -->
 | Date | Paper |
 |------|-------|
+| 2026-04-10 | **Novel View Synthesis as Video Completion** [📄 arXiv](https://arxiv.org/abs/2604.08500) [🌐 Homepage](https://frame-crafter.github.io/) [💻 Code](https://github.com/szqwu/FrameCrafter) |
 <!-- END_SECTION -->
 
 ---
@@ -109,6 +112,7 @@ Last updated: 2026-04-09
 <!-- SECTION:video_interpolation -->
 | Date | Paper |
 |------|-------|
+| 2026-04-10 | **Stitch4D: Sparse Multi-Location 4D Urban Reconstruction via Spatio-Temporal Interpolation** [📄 arXiv](https://arxiv.org/abs/2604.07923) |
 | 2026-03-25 | **TETO: Tracking Events with Teacher Observation for Motion Estimation and Frame Interpolation** [📄 arXiv](https://arxiv.org/abs/2603.23487) |
 | 2026-03-24 | **FC-VFI: Faithful and Consistent Video Frame Interpolation for High-FPS Slow Motion Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.04899) |
 | 2026-03-17 | **Edit2Interp: Adapting Image Foundation Models from Spatial Editing to Video Frame Interpolation with Few-Shot Learning** [📄 arXiv](https://arxiv.org/abs/2603.15003) |
@@ -121,6 +125,7 @@ Last updated: 2026-04-09
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-04-10 | **Small Vision-Language Models are Smart Compressors for Long Video Understanding** [📄 arXiv](https://arxiv.org/abs/2604.08120) [🌐 Homepage](https://FeiElysia.github.io/tempo-page/) [💻 Code ⭐ 164](https://github.com/FeiElysia/ViECap) |
 | 2026-04-07 | **Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.03738) |
 | 2026-04-01 | **SLVMEval: Synthetic Meta Evaluation Benchmark for Text-to-Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.29186) |
 | 2026-03-31 | **EFlow: Fast Few-Step Video Generator Training from Scratch via Efficient Solution Flow** [📄 arXiv](https://arxiv.org/abs/2603.27086) |
@@ -198,6 +203,8 @@ Last updated: 2026-04-09
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-04-10 | **MotionScape: A Large-Scale Real-World Highly Dynamic UAV Video Dataset for World Models** [📄 arXiv](https://arxiv.org/abs/2604.07991) [💻 Code ⭐ 0](https://github.com/Thelegendzz/MotionScape) |
+| 2026-04-10 | **WorldMAP: Bootstrapping Vision-Language Navigation Trajectory Prediction with Generative World Models** [📄 arXiv](https://arxiv.org/abs/2604.07957) |
 | 2026-04-09 | **INSPATIO-WORLD: A Real-Time 4D World Simulator via Spatiotemporal Autoregressive Modeling** [📄 arXiv](https://arxiv.org/abs/2604.07209) |
 | 2026-03-31 | **LOME: Learning Human-Object Manipulation with Action-Conditioned Egocentric World Model** [📄 arXiv](https://arxiv.org/abs/2603.27449) |
 | 2026-03-27 | **Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models** [📄 arXiv](https://arxiv.org/abs/2603.25716) |
@@ -238,6 +245,7 @@ Last updated: 2026-04-09
 <!-- SECTION:audio_visual -->
 | Date | Paper |
 |------|-------|
+| 2026-04-10 | **AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.08540) |
 | 2026-03-20 | **Improving Joint Audio-Video Generation with Cross-Modal Context Learning** [📄 arXiv](https://arxiv.org/abs/2603.18600) |
 | 2026-03-18 | **Diffusion Models for Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.16093) |
 <!-- END_SECTION -->
@@ -249,6 +257,9 @@ Last updated: 2026-04-09
 <!-- SECTION:digital_human_diffusion -->
 | Date | Paper |
 |------|-------|
+| 2026-04-10 | **E-3DPSM: A State Machine for Event-Based Egocentric 3D Human Pose Estimation** [📄 arXiv](https://arxiv.org/abs/2604.08543) |
+| 2026-04-10 | **SyncBreaker:Stage-Aware Multimodal Adversarial Attacks on Audio-Driven Talking Head Generation** [📄 arXiv](https://arxiv.org/abs/2604.08405) [💻 Code](https://github.com/kitty384/SyncBreaker) |
+| 2026-04-10 | **Cross-Modal Emotion Transfer for Emotion Editing in Talking Face Video** [📄 arXiv](https://arxiv.org/abs/2604.07786) [🌐 Homepage](https://chanhyeok-choi.github.io/C-MET/) [💻 Code ⭐ 0](https://github.com/ChanHyeok-Choi/C-MET) |
 | 2026-04-08 | **HumANDiff: Articulated Noise Diffusion for Motion-Consistent Human Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.05961) [🌐 Homepage](https://taohuumd.github.io/projects/HumANDiff/) |
 | 2026-04-06 | **SentiAvatar: Towards Expressive and Interactive Digital Humans** [📄 arXiv](https://arxiv.org/abs/2604.02908) [🌐 Homepage](https://sentiavatar.github.io) [💻 Code](https://github.com/yourorg/yourrepo) |
 | 2026-03-27 | **OpenCap Monocular: 3D Human Kinematics and Musculoskeletal Dynamics from a Single Smartphone Video** [📄 arXiv](https://arxiv.org/abs/2603.24733) |
@@ -304,6 +315,7 @@ Last updated: 2026-04-09
 <!-- SECTION:digital_human_3d -->
 | Date | Paper |
 |------|-------|
+| 2026-04-10 | **ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Datasets** [📄 arXiv](https://arxiv.org/abs/2604.08548) [🌐 Homepage](https://xiaobenli00.github.io/ETCH-X/) [💻 Code ⭐ 0](https://github.com/XiaobenLi00/ETCH-X) |
 | 2026-04-06 | **MMTalker: Multiresolution 3D Talking Head Synthesis with Multimodal Feature Fusion** [📄 arXiv](https://arxiv.org/abs/2604.02941) |
 | 2026-03-24 | **EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization** [📄 arXiv](https://arxiv.org/abs/2603.21332) [🌐 Homepage](https://emotag26.github.io/) [💻 Code ⭐ 1.9k](https://github.com/google/nerfies/releases/tag/0.1) |
 | 2026-03-24 | **EmbedTalk: Triplane-Free Talking Head Synthesis using Embedding-Driven Gaussian Deformation** [📄 arXiv](https://arxiv.org/abs/2603.07604) |
@@ -420,6 +432,7 @@ Last updated: 2026-04-09
 <!-- SECTION:video_foundation -->
 | Date | Paper |
 |------|-------|
+| 2026-04-10 | **Uni-ViGU: Towards Unified Video Generation and Understanding via A Diffusion-Based Video Generator** [📄 arXiv](https://arxiv.org/abs/2604.08121) [🌐 Homepage](https://fr0zencrane.github.io/uni-vigu-page/) [💻 Code ⭐ 1](https://github.com/Fr0zenCrane/Uni-ViGU) |
 | 2026-03-31 | **Wan-R1: Verifiable-Reinforcement Learning for Video Reasoning** [📄 arXiv](https://arxiv.org/abs/2603.27866) |
 | 2026-03-31 | **TrackMAE: Video Representation Learning via Track Mask and Predict** [📄 arXiv](https://arxiv.org/abs/2603.27268) [💻 Code ⭐ 1](https://github.com/rvandeghen/TrackMAE) |
 | 2026-03-31 | **THFM: A Unified Video Foundation Model for 4D Human Perception and Beyond** [📄 arXiv](https://arxiv.org/abs/2603.25892) |
