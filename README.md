@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-04-10
+Last updated: 2026-04-13
 
 ## 📑 Table of Contents
 
@@ -153,6 +153,7 @@ Last updated: 2026-04-10
 <!-- SECTION:controllable_video -->
 | Date | Paper |
 |------|-------|
+| 2026-04-13 | **CT-1: Vision-Language-Camera Models Transfer Spatial Reasoning Knowledge to Camera-Controllable Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.09201) |
 | 2026-04-08 | **OmniCamera: A Unified Framework for Multi-task Video Generation with Arbitrary Camera Control** [📄 arXiv](https://arxiv.org/abs/2604.06010) |
 | 2026-03-31 | **LightCtrl: Training-free Controllable Video Relighting** [📄 arXiv](https://arxiv.org/abs/2603.27083) [💻 Code ⭐ 10](https://github.com/GVCLab/LightCtrl) |
 | 2026-03-31 | **VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward** [📄 arXiv](https://arxiv.org/abs/2603.26599) [🌐 Homepage](https://zhaochongan.github.io/projects/VGGRPO) |
@@ -203,6 +204,8 @@ Last updated: 2026-04-10
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-04-13 | **Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory** [📄 arXiv](https://arxiv.org/abs/2604.08995) [🌐 Homepage](https://matrix-game-v3.github.io/) [💻 Code ⭐ 2.1k](https://github.com/SkyworkAI/Matrix-Game/blob/main/Matrix-Game-3/assets/pdf/report.pdf) |
+| 2026-04-13 | **LMGenDrive: Bridging Multimodal Understanding and Generative World Modeling for End-to-End Driving** [📄 arXiv](https://arxiv.org/abs/2604.08719) |
 | 2026-04-10 | **MotionScape: A Large-Scale Real-World Highly Dynamic UAV Video Dataset for World Models** [📄 arXiv](https://arxiv.org/abs/2604.07991) [💻 Code ⭐ 0](https://github.com/Thelegendzz/MotionScape) |
 | 2026-04-10 | **WorldMAP: Bootstrapping Vision-Language Navigation Trajectory Prediction with Generative World Models** [📄 arXiv](https://arxiv.org/abs/2604.07957) |
 | 2026-04-09 | **INSPATIO-WORLD: A Real-Time 4D World Simulator via Spatiotemporal Autoregressive Modeling** [📄 arXiv](https://arxiv.org/abs/2604.07209) |
@@ -245,6 +248,7 @@ Last updated: 2026-04-10
 <!-- SECTION:audio_visual -->
 | Date | Paper |
 |------|-------|
+| 2026-04-13 | **Tora3: Trajectory-Guided Audio-Video Generation with Physical Coherence** [📄 arXiv](https://arxiv.org/abs/2604.09057) |
 | 2026-04-10 | **AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.08540) |
 | 2026-03-20 | **Improving Joint Audio-Video Generation with Cross-Modal Context Learning** [📄 arXiv](https://arxiv.org/abs/2603.18600) |
 | 2026-03-18 | **Diffusion Models for Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.16093) |
@@ -354,6 +358,7 @@ Last updated: 2026-04-10
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-04-13 | **InsEdit: Towards Instruction-based Visual Editing via Data-Efficient Video Diffusion Models Adaptation** [📄 arXiv](https://arxiv.org/abs/2604.08646) |
 | 2026-04-08 | **DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2604.06161) [🌐 Homepage](https://yzmblog.github.io/projects/DiffHDR/) |
 | 2026-04-07 | **Beyond Few-Step Inference: Accelerating Video Diffusion Transformer Model Serving with Inter-Request Caching Reuse** [📄 arXiv](https://arxiv.org/abs/2604.04451) |
 | 2026-04-07 | **CRAFT: Video Diffusion for Bimanual Robot Data Generation** [📄 arXiv](https://arxiv.org/abs/2604.03552) [🌐 Homepage](https://craftaug.github.io/) |
