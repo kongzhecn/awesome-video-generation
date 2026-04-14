@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-04-13
+Last updated: 2026-04-14
 
 ## 📑 Table of Contents
 
@@ -57,6 +57,7 @@ Last updated: 2026-04-13
 <!-- SECTION:image_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-04-14 | **Immune2V: Image Immunization Against Dual-Stream Image-to-Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.10837) |
 | 2026-04-07 | **Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision** [📄 arXiv](https://arxiv.org/abs/2604.04934) [🌐 Homepage](https://hyunsoocha.github.io/vanast/) [💻 Code ⭐ 6](https://github.com/snuvclab/vanast) |
 | 2026-04-03 | **Control-DINO: Feature Space Conditioning for Controllable Image-to-Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2604.01761) [🌐 Homepage](https://dedoardo.github.io/projects/control-dino/) [💻 Code ⭐ 1](https://github.com/d3ixi/ControlDINO) |
 | 2026-03-31 | **From Static to Dynamic: Exploring Self-supervised Image-to-Video Representation Transfer Learning** [📄 arXiv](https://arxiv.org/abs/2603.26597) [💻 Code ⭐ 7](https://github.com/yafeng19/Co-Settle) |
@@ -75,6 +76,7 @@ Last updated: 2026-04-13
 <!-- SECTION:video_editing -->
 | Date | Paper |
 |------|-------|
+| 2026-04-14 | **Empowering Video Translation using Multimodal Large Language Models** [📄 arXiv](https://arxiv.org/abs/2604.11283) |
 | 2026-04-10 | **ImVideoEdit: Image-learning Video Editing via 2D Spatial Difference Attention Blocks** [📄 arXiv](https://arxiv.org/abs/2604.07958) |
 | 2026-04-03 | **From Understanding to Erasing: Towards Complete and Stable Video Object Removal** [📄 arXiv](https://arxiv.org/abs/2604.01693) [💻 Code](https://github.com/WeChatCV/UnderEraser) |
 | 2026-04-01 | **CutClaw: Agentic Hours-Long Video Editing via Music Synchronization** [📄 arXiv](https://arxiv.org/abs/2603.29664) [💻 Code ⭐ 14](https://github.com/GVCLab/CutClaw) |
@@ -358,6 +360,7 @@ Last updated: 2026-04-13
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-04-14 | **Rein3D: Reinforced 3D Indoor Scene Generation with Panoramic Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2604.10578) |
 | 2026-04-13 | **InsEdit: Towards Instruction-based Visual Editing via Data-Efficient Video Diffusion Models Adaptation** [📄 arXiv](https://arxiv.org/abs/2604.08646) |
 | 2026-04-08 | **DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2604.06161) [🌐 Homepage](https://yzmblog.github.io/projects/DiffHDR/) |
 | 2026-04-07 | **Beyond Few-Step Inference: Accelerating Video Diffusion Transformer Model Serving with Inter-Request Caching Reuse** [📄 arXiv](https://arxiv.org/abs/2604.04451) |
