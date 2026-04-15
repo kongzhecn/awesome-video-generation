@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-04-14
+Last updated: 2026-04-15
 
 ## 📑 Table of Contents
 
@@ -397,6 +397,7 @@ Last updated: 2026-04-14
 <!-- SECTION:video_tokenizer -->
 | Date | Paper |
 |------|-------|
+| 2026-04-15 | **VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization** [📄 arXiv](https://arxiv.org/abs/2604.12887) |
 | 2026-04-09 | **Controllable Generative Video Compression** [📄 arXiv](https://arxiv.org/abs/2604.06655) |
 | 2026-03-24 | **EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation** [📄 arXiv](https://arxiv.org/abs/2603.12267) [🌐 Homepage](https://silentview.github.io/EVATok/) [💻 Code ⭐ 48](https://github.com/HKU-MMLab/EVATok) |
 | 2026-03-20 | **LRConv-NeRV: Low Rank Convolution for Efficient Neural Video Compression** [📄 arXiv](https://arxiv.org/abs/2603.18261) |
