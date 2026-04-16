@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-04-15
+Last updated: 2026-04-16
 
 ## 📑 Table of Contents
 
@@ -76,6 +76,7 @@ Last updated: 2026-04-15
 <!-- SECTION:video_editing -->
 | Date | Paper |
 |------|-------|
+| 2026-04-16 | **DiT as Real-Time Rerenderer: Streaming Video Stylization with Autoregressive Diffusion Transformer** [📄 arXiv](https://arxiv.org/abs/2604.13509) |
 | 2026-04-14 | **Empowering Video Translation using Multimodal Large Language Models** [📄 arXiv](https://arxiv.org/abs/2604.11283) |
 | 2026-04-10 | **ImVideoEdit: Image-learning Video Editing via 2D Spatial Difference Attention Blocks** [📄 arXiv](https://arxiv.org/abs/2604.07958) |
 | 2026-04-03 | **From Understanding to Erasing: Towards Complete and Stable Video Object Removal** [📄 arXiv](https://arxiv.org/abs/2604.01693) [💻 Code](https://github.com/WeChatCV/UnderEraser) |
