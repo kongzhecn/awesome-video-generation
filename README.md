@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-04-16
+Last updated: 2026-04-17
 
 ## 📑 Table of Contents
 
@@ -57,6 +57,7 @@ Last updated: 2026-04-16
 <!-- SECTION:image_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-04-17 | **Flow of Truth: Proactive Temporal Forensics for Image-to-Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.15003) |
 | 2026-04-14 | **Immune2V: Image Immunization Against Dual-Stream Image-to-Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.10837) |
 | 2026-04-07 | **Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision** [📄 arXiv](https://arxiv.org/abs/2604.04934) [🌐 Homepage](https://hyunsoocha.github.io/vanast/) [💻 Code ⭐ 6](https://github.com/snuvclab/vanast) |
 | 2026-04-03 | **Control-DINO: Feature Space Conditioning for Controllable Image-to-Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2604.01761) [🌐 Homepage](https://dedoardo.github.io/projects/control-dino/) [💻 Code ⭐ 1](https://github.com/d3ixi/ControlDINO) |
@@ -156,6 +157,7 @@ Last updated: 2026-04-16
 <!-- SECTION:controllable_video -->
 | Date | Paper |
 |------|-------|
+| 2026-04-17 | **Controllable Video Object Insertion via Multiview Priors** [📄 arXiv](https://arxiv.org/abs/2604.14556) |
 | 2026-04-13 | **CT-1: Vision-Language-Camera Models Transfer Spatial Reasoning Knowledge to Camera-Controllable Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.09201) |
 | 2026-04-08 | **OmniCamera: A Unified Framework for Multi-task Video Generation with Arbitrary Camera Control** [📄 arXiv](https://arxiv.org/abs/2604.06010) |
 | 2026-03-31 | **LightCtrl: Training-free Controllable Video Relighting** [📄 arXiv](https://arxiv.org/abs/2603.27083) [💻 Code ⭐ 10](https://github.com/GVCLab/LightCtrl) |
@@ -264,6 +266,8 @@ Last updated: 2026-04-16
 <!-- SECTION:digital_human_diffusion -->
 | Date | Paper |
 |------|-------|
+| 2026-04-17 | **Prompt-to-Gesture: Measuring the Capabilities of Image-to-Video Deictic Gesture Generation** [📄 arXiv](https://arxiv.org/abs/2604.14953) |
+| 2026-04-17 | **TurboTalk: Progressive Distillation for One-Step Audio-Driven Talking Avatar Generation** [📄 arXiv](https://arxiv.org/abs/2604.14580) |
 | 2026-04-10 | **E-3DPSM: A State Machine for Event-Based Egocentric 3D Human Pose Estimation** [📄 arXiv](https://arxiv.org/abs/2604.08543) |
 | 2026-04-10 | **SyncBreaker:Stage-Aware Multimodal Adversarial Attacks on Audio-Driven Talking Head Generation** [📄 arXiv](https://arxiv.org/abs/2604.08405) [💻 Code](https://github.com/kitty384/SyncBreaker) |
 | 2026-04-10 | **Cross-Modal Emotion Transfer for Emotion Editing in Talking Face Video** [📄 arXiv](https://arxiv.org/abs/2604.07786) [🌐 Homepage](https://chanhyeok-choi.github.io/C-MET/) [💻 Code ⭐ 0](https://github.com/ChanHyeok-Choi/C-MET) |
