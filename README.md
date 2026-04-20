@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-04-17
+Last updated: 2026-04-20
 
 ## 📑 Table of Contents
 
@@ -77,6 +77,7 @@ Last updated: 2026-04-17
 <!-- SECTION:video_editing -->
 | Date | Paper |
 |------|-------|
+| 2026-04-20 | **UniEditBench: A Unified and Cost-Effective Benchmark for Image and Video Editing via Distilled MLLMs** [📄 arXiv](https://arxiv.org/abs/2604.15871) [💻 Code ⭐ 1](https://github.com/wesar1/UniEditBench) |
 | 2026-04-16 | **DiT as Real-Time Rerenderer: Streaming Video Stylization with Autoregressive Diffusion Transformer** [📄 arXiv](https://arxiv.org/abs/2604.13509) |
 | 2026-04-14 | **Empowering Video Translation using Multimodal Large Language Models** [📄 arXiv](https://arxiv.org/abs/2604.11283) |
 | 2026-04-10 | **ImVideoEdit: Image-learning Video Editing via 2D Spatial Difference Attention Blocks** [📄 arXiv](https://arxiv.org/abs/2604.07958) |
@@ -365,6 +366,7 @@ Last updated: 2026-04-17
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-04-20 | **Efficient Video Diffusion Models: Advancements and Challenges** [📄 arXiv](https://arxiv.org/abs/2604.15911) |
 | 2026-04-14 | **Rein3D: Reinforced 3D Indoor Scene Generation with Panoramic Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2604.10578) |
 | 2026-04-13 | **InsEdit: Towards Instruction-based Visual Editing via Data-Efficient Video Diffusion Models Adaptation** [📄 arXiv](https://arxiv.org/abs/2604.08646) |
 | 2026-04-08 | **DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2604.06161) [🌐 Homepage](https://yzmblog.github.io/projects/DiffHDR/) |
