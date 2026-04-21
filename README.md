@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-04-20
+Last updated: 2026-04-21
 
 ## 📑 Table of Contents
 
@@ -77,6 +77,7 @@ Last updated: 2026-04-20
 <!-- SECTION:video_editing -->
 | Date | Paper |
 |------|-------|
+| 2026-04-21 | **LIVE: Leveraging Image Manipulation Priors for Instruction-based Video Editing** [📄 arXiv](https://arxiv.org/abs/2604.17021) |
 | 2026-04-20 | **UniEditBench: A Unified and Cost-Effective Benchmark for Image and Video Editing via Distilled MLLMs** [📄 arXiv](https://arxiv.org/abs/2604.15871) [💻 Code ⭐ 1](https://github.com/wesar1/UniEditBench) |
 | 2026-04-16 | **DiT as Real-Time Rerenderer: Streaming Video Stylization with Autoregressive Diffusion Transformer** [📄 arXiv](https://arxiv.org/abs/2604.13509) |
 | 2026-04-14 | **Empowering Video Translation using Multimodal Large Language Models** [📄 arXiv](https://arxiv.org/abs/2604.11283) |
@@ -210,6 +211,7 @@ Last updated: 2026-04-20
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-04-21 | **ICAT: Incident-Case-Grounded Adaptive Testing for Physical-Risk Prediction in Embodied World Models** [📄 arXiv](https://arxiv.org/abs/2604.16405) |
 | 2026-04-13 | **Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory** [📄 arXiv](https://arxiv.org/abs/2604.08995) [🌐 Homepage](https://matrix-game-v3.github.io/) [💻 Code ⭐ 2.1k](https://github.com/SkyworkAI/Matrix-Game/blob/main/Matrix-Game-3/assets/pdf/report.pdf) |
 | 2026-04-13 | **LMGenDrive: Bridging Multimodal Understanding and Generative World Modeling for End-to-End Driving** [📄 arXiv](https://arxiv.org/abs/2604.08719) |
 | 2026-04-10 | **MotionScape: A Large-Scale Real-World Highly Dynamic UAV Video Dataset for World Models** [📄 arXiv](https://arxiv.org/abs/2604.07991) [💻 Code ⭐ 0](https://github.com/Thelegendzz/MotionScape) |
@@ -366,6 +368,7 @@ Last updated: 2026-04-20
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-04-21 | **Latent-Compressed Variational Autoencoder for Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2604.16479) |
 | 2026-04-20 | **Efficient Video Diffusion Models: Advancements and Challenges** [📄 arXiv](https://arxiv.org/abs/2604.15911) |
 | 2026-04-14 | **Rein3D: Reinforced 3D Indoor Scene Generation with Panoramic Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2604.10578) |
 | 2026-04-13 | **InsEdit: Towards Instruction-based Visual Editing via Data-Efficient Video Diffusion Models Adaptation** [📄 arXiv](https://arxiv.org/abs/2604.08646) |
@@ -419,6 +422,7 @@ Last updated: 2026-04-20
 <!-- SECTION:video_autoregressive -->
 | Date | Paper |
 |------|-------|
+| 2026-04-21 | **Speculative Decoding for Autoregressive Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.17397) |
 | 2026-04-09 | **Grounded Forcing: Bridging Time-Independent Semantics and Proximal Dynamics in Autoregressive Video Synthesis** [📄 arXiv](https://arxiv.org/abs/2604.06939) |
 | 2026-04-06 | **Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation** [📄 arXiv](https://arxiv.org/abs/2604.02979) |
 | 2026-03-24 | **Streaming Autoregressive Video Generation via Diagonal Distillation** [📄 arXiv](https://arxiv.org/abs/2603.09488) |
@@ -481,6 +485,7 @@ Last updated: 2026-04-20
 <!-- SECTION:story_visualization -->
 | Date | Paper |
 |------|-------|
+| 2026-04-21 | **DreamShot: Personalized Storyboard Synthesis with Video Diffusion Prior** [📄 arXiv](https://arxiv.org/abs/2604.17195) |
 | 2026-03-31 | **LogiStory: A Logic-Aware Framework for Multi-Image Story Visualization** [📄 arXiv](https://arxiv.org/abs/2603.28082) |
 <!-- END_SECTION -->
 
