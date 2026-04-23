@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-04-21
+Last updated: 2026-04-23
 
 ## 📑 Table of Contents
 
@@ -131,6 +131,7 @@ Last updated: 2026-04-21
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-04-23 | **DynamicRad: Content-Adaptive Sparse Attention for Long Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2604.20470) [💻 Code ⭐ 0](https://github.com/Adamlong3/DynamicRad) |
 | 2026-04-10 | **Small Vision-Language Models are Smart Compressors for Long Video Understanding** [📄 arXiv](https://arxiv.org/abs/2604.08120) [🌐 Homepage](https://FeiElysia.github.io/tempo-page/) [💻 Code ⭐ 164](https://github.com/FeiElysia/ViECap) |
 | 2026-04-07 | **Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.03738) |
 | 2026-04-01 | **SLVMEval: Synthetic Meta Evaluation Benchmark for Text-to-Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.29186) |
@@ -159,6 +160,7 @@ Last updated: 2026-04-21
 <!-- SECTION:controllable_video -->
 | Date | Paper |
 |------|-------|
+| 2026-04-23 | **Camera Control for Text-to-Image Generation via Learning Viewpoint Tokens** [📄 arXiv](https://arxiv.org/abs/2604.19954) [🌐 Homepage](https://randdl.github.io/viewtoken_control/) |
 | 2026-04-17 | **Controllable Video Object Insertion via Multiview Priors** [📄 arXiv](https://arxiv.org/abs/2604.14556) |
 | 2026-04-13 | **CT-1: Vision-Language-Camera Models Transfer Spatial Reasoning Knowledge to Camera-Controllable Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.09201) |
 | 2026-04-08 | **OmniCamera: A Unified Framework for Multi-task Video Generation with Arbitrary Camera Control** [📄 arXiv](https://arxiv.org/abs/2604.06010) |
@@ -211,6 +213,9 @@ Last updated: 2026-04-21
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-04-23 | **SurgCoT: Advancing Spatiotemporal Reasoning in Surgical Videos through a Chain-of-Thought Benchmark** [📄 arXiv](https://arxiv.org/abs/2604.20319) [💻 Code ⭐ 0](https://github.com/CVI-SZU/SurgCoT) |
+| 2026-04-23 | **X-Cache: Cross-Chunk Block Caching for Few-Step Autoregressive World Models Inference** [📄 arXiv](https://arxiv.org/abs/2604.20289) |
+| 2026-04-23 | **Diagnosing Urban Street Vitality via a Visual-Semantic and Spatiotemporal Framework for Street-Level Economics** [📄 arXiv](https://arxiv.org/abs/2604.19798) |
 | 2026-04-21 | **ICAT: Incident-Case-Grounded Adaptive Testing for Physical-Risk Prediction in Embodied World Models** [📄 arXiv](https://arxiv.org/abs/2604.16405) |
 | 2026-04-13 | **Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory** [📄 arXiv](https://arxiv.org/abs/2604.08995) [🌐 Homepage](https://matrix-game-v3.github.io/) [💻 Code ⭐ 2.1k](https://github.com/SkyworkAI/Matrix-Game/blob/main/Matrix-Game-3/assets/pdf/report.pdf) |
 | 2026-04-13 | **LMGenDrive: Bridging Multimodal Understanding and Generative World Modeling for End-to-End Driving** [📄 arXiv](https://arxiv.org/abs/2604.08719) |
@@ -269,6 +274,7 @@ Last updated: 2026-04-21
 <!-- SECTION:digital_human_diffusion -->
 | Date | Paper |
 |------|-------|
+| 2026-04-23 | **HumanScore: Benchmarking Human Motions in Generated Videos** [📄 arXiv](https://arxiv.org/abs/2604.20157) |
 | 2026-04-17 | **Prompt-to-Gesture: Measuring the Capabilities of Image-to-Video Deictic Gesture Generation** [📄 arXiv](https://arxiv.org/abs/2604.14953) |
 | 2026-04-17 | **TurboTalk: Progressive Distillation for One-Step Audio-Driven Talking Avatar Generation** [📄 arXiv](https://arxiv.org/abs/2604.14580) |
 | 2026-04-10 | **E-3DPSM: A State Machine for Event-Based Egocentric 3D Human Pose Estimation** [📄 arXiv](https://arxiv.org/abs/2604.08543) |
@@ -329,6 +335,7 @@ Last updated: 2026-04-21
 <!-- SECTION:digital_human_3d -->
 | Date | Paper |
 |------|-------|
+| 2026-04-23 | **UniCon3R: Contact-aware 3D Human-Scene Reconstruction from Monocular Video** [📄 arXiv](https://arxiv.org/abs/2604.19923) [🌐 Homepage](https://surtantheta.github.io/UniCon3R) [💻 Code ⭐ 0](https://github.com/surtantheta/UniCon3R) |
 | 2026-04-10 | **ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Datasets** [📄 arXiv](https://arxiv.org/abs/2604.08548) [🌐 Homepage](https://xiaobenli00.github.io/ETCH-X/) [💻 Code ⭐ 0](https://github.com/XiaobenLi00/ETCH-X) |
 | 2026-04-06 | **MMTalker: Multiresolution 3D Talking Head Synthesis with Multimodal Feature Fusion** [📄 arXiv](https://arxiv.org/abs/2604.02941) |
 | 2026-03-24 | **EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization** [📄 arXiv](https://arxiv.org/abs/2603.21332) [🌐 Homepage](https://emotag26.github.io/) [💻 Code ⭐ 1.9k](https://github.com/google/nerfies/releases/tag/0.1) |
@@ -471,6 +478,7 @@ Last updated: 2026-04-21
 <!-- SECTION:multi_subject -->
 | Date | Paper |
 |------|-------|
+| 2026-04-23 | **MAPRPose: Mask-Aware Proposal and Amodal Refinement for Multi-Object 6D Pose Estimation** [📄 arXiv](https://arxiv.org/abs/2604.20650) |
 | 2026-04-03 | **ActionParty: Multi-Subject Action Binding in Generative Video Games** [📄 arXiv](https://arxiv.org/abs/2604.02330) [🌐 Homepage](https://action-party.github.io/) [💻 Code ⭐ 2](https://github.com/action-party/action-party) |
 | 2026-04-02 | **MotionGrounder: Grounded Multi-Object Motion Transfer via Diffusion Transformer** [📄 arXiv](https://arxiv.org/abs/2604.00853) [🌐 Homepage](https://kaist-viclab.github.io/motiongrounder-site/) [💻 Code ⭐ 4.1k](https://github.com/nerfies/nerfies.github.io) |
 | 2026-03-24 | **Identity-Consistent Video Generation under Large Facial-Angle Variations** [📄 arXiv](https://arxiv.org/abs/2603.21299) |
