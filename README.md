@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-04-23
+Last updated: 2026-04-24
 
 ## 📑 Table of Contents
 
@@ -191,6 +191,7 @@ Last updated: 2026-04-23
 <!-- SECTION:camera_control -->
 | Date | Paper |
 |------|-------|
+| 2026-04-24 | **MultiWorld: Scalable Multi-Agent Multi-View Video World Models** [📄 arXiv](https://arxiv.org/abs/2604.18564) [🌐 Homepage](https://multi-world.github.io/) [💻 Code ⭐ 110](https://github.com/CIntellifusion/MultiWorld) |
 | 2026-04-08 | **Action Images: End-to-End Policy Learning via Multiview Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.06168) [🌐 Homepage](https://actionimages.github.io/) [💻 Code ⭐ 2](https://github.com/UMass-Embodied-AGI/ActionImages) |
 | 2026-04-07 | **SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.03723) [🌐 Homepage](https://grenoble-zhang.github.io/SymphoMotion/) [💻 Code ⭐ 1](https://github.com/grenoble-zhang/SymphoMotion) |
 | 2026-04-06 | **Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model** [📄 arXiv](https://arxiv.org/abs/2604.03181) [🌐 Homepage](https://lpy1219.github.io/MV-VDP-Web/) |
@@ -213,6 +214,7 @@ Last updated: 2026-04-23
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-04-24 | **WorldMark: A Unified Benchmark Suite for Interactive Video World Models** [📄 arXiv](https://arxiv.org/abs/2604.21686) |
 | 2026-04-23 | **SurgCoT: Advancing Spatiotemporal Reasoning in Surgical Videos through a Chain-of-Thought Benchmark** [📄 arXiv](https://arxiv.org/abs/2604.20319) [💻 Code ⭐ 0](https://github.com/CVI-SZU/SurgCoT) |
 | 2026-04-23 | **X-Cache: Cross-Chunk Block Caching for Few-Step Autoregressive World Models Inference** [📄 arXiv](https://arxiv.org/abs/2604.20289) |
 | 2026-04-23 | **Diagnosing Urban Street Vitality via a Visual-Semantic and Spatiotemporal Framework for Street-Level Economics** [📄 arXiv](https://arxiv.org/abs/2604.19798) |
@@ -261,6 +263,7 @@ Last updated: 2026-04-23
 <!-- SECTION:audio_visual -->
 | Date | Paper |
 |------|-------|
+| 2026-04-24 | **MMControl: Unified Multi-Modal Control for Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.19679) [🌐 Homepage](https://aim-uofa.github.io/MMControl/) [💻 Code ⭐ 4](https://github.com/aim-uofa/MMControl) |
 | 2026-04-13 | **Tora3: Trajectory-Guided Audio-Video Generation with Physical Coherence** [📄 arXiv](https://arxiv.org/abs/2604.09057) |
 | 2026-04-10 | **AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.08540) |
 | 2026-03-20 | **Improving Joint Audio-Video Generation with Cross-Modal Context Learning** [📄 arXiv](https://arxiv.org/abs/2603.18600) |
@@ -274,6 +277,7 @@ Last updated: 2026-04-23
 <!-- SECTION:digital_human_diffusion -->
 | Date | Paper |
 |------|-------|
+| 2026-04-24 | **MUA: Mobile Ultra-detailed Animatable Avatars** [📄 arXiv](https://arxiv.org/abs/2604.18583) [🌐 Homepage](https://vcai.mpi-inf.mpg.de/projects/MUA/) |
 | 2026-04-23 | **HumanScore: Benchmarking Human Motions in Generated Videos** [📄 arXiv](https://arxiv.org/abs/2604.20157) |
 | 2026-04-17 | **Prompt-to-Gesture: Measuring the Capabilities of Image-to-Video Deictic Gesture Generation** [📄 arXiv](https://arxiv.org/abs/2604.14953) |
 | 2026-04-17 | **TurboTalk: Progressive Distillation for One-Step Audio-Driven Talking Avatar Generation** [📄 arXiv](https://arxiv.org/abs/2604.14580) |
@@ -335,6 +339,7 @@ Last updated: 2026-04-23
 <!-- SECTION:digital_human_3d -->
 | Date | Paper |
 |------|-------|
+| 2026-04-24 | **ReImagine: Rethinking Controllable High-Quality Human Video Generation via Image-First Synthesis** [📄 arXiv](https://arxiv.org/abs/2604.19720) [💻 Code ⭐ 18](https://github.com/Taited/ReImagine) |
 | 2026-04-23 | **UniCon3R: Contact-aware 3D Human-Scene Reconstruction from Monocular Video** [📄 arXiv](https://arxiv.org/abs/2604.19923) [🌐 Homepage](https://surtantheta.github.io/UniCon3R) [💻 Code ⭐ 0](https://github.com/surtantheta/UniCon3R) |
 | 2026-04-10 | **ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Datasets** [📄 arXiv](https://arxiv.org/abs/2604.08548) [🌐 Homepage](https://xiaobenli00.github.io/ETCH-X/) [💻 Code ⭐ 0](https://github.com/XiaobenLi00/ETCH-X) |
 | 2026-04-06 | **MMTalker: Multiresolution 3D Talking Head Synthesis with Multimodal Feature Fusion** [📄 arXiv](https://arxiv.org/abs/2604.02941) |
@@ -375,6 +380,8 @@ Last updated: 2026-04-23
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-04-24 | **AttentionBender: Manipulating Cross-Attention in Video Diffusion Transformers as a Creative Probe** [📄 arXiv](https://arxiv.org/abs/2604.20936) |
+| 2026-04-24 | **AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model** [📄 arXiv](https://arxiv.org/abs/2604.19747) [🌐 Homepage](https://yutian10.github.io/AnyRecon/) [💻 Code ⭐ 134](https://github.com/OpenImagingLab/AnyRecon) |
 | 2026-04-21 | **Latent-Compressed Variational Autoencoder for Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2604.16479) |
 | 2026-04-20 | **Efficient Video Diffusion Models: Advancements and Challenges** [📄 arXiv](https://arxiv.org/abs/2604.15911) |
 | 2026-04-14 | **Rein3D: Reinforced 3D Indoor Scene Generation with Panoramic Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2604.10578) |
