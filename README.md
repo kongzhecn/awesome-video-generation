@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-04-27
+Last updated: 2026-04-28
 
 ## 📑 Table of Contents
 
@@ -263,6 +263,7 @@ Last updated: 2026-04-27
 <!-- SECTION:audio_visual -->
 | Date | Paper |
 |------|-------|
+| 2026-04-28 | **Talker-T2AV: Joint Talking Audio-Video Generation with Autoregressive Diffusion Modeling** [📄 arXiv](https://arxiv.org/abs/2604.23586) |
 | 2026-04-24 | **MMControl: Unified Multi-Modal Control for Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.19679) [🌐 Homepage](https://aim-uofa.github.io/MMControl/) [💻 Code ⭐ 4](https://github.com/aim-uofa/MMControl) |
 | 2026-04-13 | **Tora3: Trajectory-Guided Audio-Video Generation with Physical Coherence** [📄 arXiv](https://arxiv.org/abs/2604.09057) |
 | 2026-04-10 | **AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.08540) |
@@ -277,6 +278,7 @@ Last updated: 2026-04-27
 <!-- SECTION:digital_human_diffusion -->
 | Date | Paper |
 |------|-------|
+| 2026-04-28 | **EAD-Net: Emotion-Aware Talking Head Generation with Spatial Refinement and Temporal Coherence** [📄 arXiv](https://arxiv.org/abs/2604.23325) |
 | 2026-04-24 | **MUA: Mobile Ultra-detailed Animatable Avatars** [📄 arXiv](https://arxiv.org/abs/2604.18583) [🌐 Homepage](https://vcai.mpi-inf.mpg.de/projects/MUA/) |
 | 2026-04-23 | **HumanScore: Benchmarking Human Motions in Generated Videos** [📄 arXiv](https://arxiv.org/abs/2604.20157) |
 | 2026-04-17 | **Prompt-to-Gesture: Measuring the Capabilities of Image-to-Video Deictic Gesture Generation** [📄 arXiv](https://arxiv.org/abs/2604.14953) |
@@ -380,6 +382,7 @@ Last updated: 2026-04-27
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-04-28 | **FreqFormer: Hierarchical Frequency-Domain Attention with Adaptive Spectral Routing for Long-Sequence Video Diffusion Transformers** [📄 arXiv](https://arxiv.org/abs/2604.22808) |
 | 2026-04-24 | **AttentionBender: Manipulating Cross-Attention in Video Diffusion Transformers as a Creative Probe** [📄 arXiv](https://arxiv.org/abs/2604.20936) |
 | 2026-04-24 | **AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model** [📄 arXiv](https://arxiv.org/abs/2604.19747) [🌐 Homepage](https://yutian10.github.io/AnyRecon/) [💻 Code ⭐ 134](https://github.com/OpenImagingLab/AnyRecon) |
 | 2026-04-21 | **Latent-Compressed Variational Autoencoder for Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2604.16479) |
@@ -421,6 +424,7 @@ Last updated: 2026-04-27
 <!-- SECTION:video_tokenizer -->
 | Date | Paper |
 |------|-------|
+| 2026-04-28 | **Latent Inter-Frame Pruning: A Training-Free Method Bridging Traditional Video Compression and Modern Diffusion Transformers for Efficient Generation** [📄 arXiv](https://arxiv.org/abs/2604.23858) |
 | 2026-04-15 | **VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization** [📄 arXiv](https://arxiv.org/abs/2604.12887) |
 | 2026-04-09 | **Controllable Generative Video Compression** [📄 arXiv](https://arxiv.org/abs/2604.06655) |
 | 2026-03-24 | **EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation** [📄 arXiv](https://arxiv.org/abs/2603.12267) [🌐 Homepage](https://silentview.github.io/EVATok/) [💻 Code ⭐ 48](https://github.com/HKU-MMLab/EVATok) |
