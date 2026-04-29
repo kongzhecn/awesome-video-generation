@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-04-28
+Last updated: 2026-04-29
 
 ## 📑 Table of Contents
 
@@ -38,6 +38,7 @@ Last updated: 2026-04-28
 <!-- SECTION:text_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-04-29 | **World-R1: Reinforcing 3D Constraints for Text-to-Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.24764) [💻 Code](https://github.com/microsoft/World-R1) |
 | 2026-04-10 | **When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2604.08546) [🌐 Homepage](https://h-embodvis.github.io/NUMINA) [💻 Code ⭐ 15](https://github.com/H-EmbodVis/NUMINA) |
 | 2026-03-31 | **TokenDial: Continuous Attribute Control in Text-to-Video via Spatiotemporal Token Offsets** [📄 arXiv](https://arxiv.org/abs/2603.27520) [🌐 Homepage](https://tokendial.github.io/) |
 | 2026-03-24 | **InterDyad: Interactive Dyadic Speech-to-Video Generation by Querying Intermediate Visual Guidance** [📄 arXiv](https://arxiv.org/abs/2603.23132) [🌐 Homepage](https://interdyad.github.io/) |
