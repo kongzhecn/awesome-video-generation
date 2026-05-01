@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-04-30
+Last updated: 2026-05-01
 
 ## 📑 Table of Contents
 
@@ -78,6 +78,7 @@ Last updated: 2026-04-30
 <!-- SECTION:video_editing -->
 | Date | Paper |
 |------|-------|
+| 2026-05-01 | **YOSE: You Only Select Essential Tokens for Efficient DiT-based Video Object Removal** [📄 arXiv](https://arxiv.org/abs/2604.27322) [💻 Code ⭐ 7](https://github.com/Wucy0519/YOSE-CVPR26) |
 | 2026-04-21 | **LIVE: Leveraging Image Manipulation Priors for Instruction-based Video Editing** [📄 arXiv](https://arxiv.org/abs/2604.17021) |
 | 2026-04-20 | **UniEditBench: A Unified and Cost-Effective Benchmark for Image and Video Editing via Distilled MLLMs** [📄 arXiv](https://arxiv.org/abs/2604.15871) [💻 Code ⭐ 1](https://github.com/wesar1/UniEditBench) |
 | 2026-04-16 | **DiT as Real-Time Rerenderer: Streaming Video Stylization with Autoregressive Diffusion Transformer** [📄 arXiv](https://arxiv.org/abs/2604.13509) |
@@ -280,6 +281,7 @@ Last updated: 2026-04-30
 <!-- SECTION:digital_human_diffusion -->
 | Date | Paper |
 |------|-------|
+| 2026-05-01 | **Robot Learning from Human Videos: A Survey** [📄 arXiv](https://arxiv.org/abs/2604.27621) [💻 Code ⭐ 35](https://github.com/IRMVLab/awesome-robot-learning-from-human-videos) |
 | 2026-04-28 | **EAD-Net: Emotion-Aware Talking Head Generation with Spatial Refinement and Temporal Coherence** [📄 arXiv](https://arxiv.org/abs/2604.23325) |
 | 2026-04-24 | **MUA: Mobile Ultra-detailed Animatable Avatars** [📄 arXiv](https://arxiv.org/abs/2604.18583) [🌐 Homepage](https://vcai.mpi-inf.mpg.de/projects/MUA/) |
 | 2026-04-23 | **HumanScore: Benchmarking Human Motions in Generated Videos** [📄 arXiv](https://arxiv.org/abs/2604.20157) |
