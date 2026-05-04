@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-05-01
+Last updated: 2026-05-04
 
 ## 📑 Table of Contents
 
@@ -216,6 +216,7 @@ Last updated: 2026-05-01
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-05-04 | **World Model for Robot Learning: A Comprehensive Survey** [📄 arXiv](https://arxiv.org/abs/2605.00080) |
 | 2026-04-30 | **Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising** [📄 arXiv](https://arxiv.org/abs/2604.26694) [🌐 Homepage](https://sharinka0715.github.io/X-WAM/) [💻 Code ⭐ 0](https://github.com/sharinka0715/X-WAM) |
 | 2026-04-24 | **WorldMark: A Unified Benchmark Suite for Interactive Video World Models** [📄 arXiv](https://arxiv.org/abs/2604.21686) |
 | 2026-04-23 | **SurgCoT: Advancing Spatiotemporal Reasoning in Surgical Videos through a Chain-of-Thought Benchmark** [📄 arXiv](https://arxiv.org/abs/2604.20319) [💻 Code ⭐ 0](https://github.com/CVI-SZU/SurgCoT) |
