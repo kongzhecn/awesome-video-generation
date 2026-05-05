@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-05-04
+Last updated: 2026-05-05
 
 ## 📑 Table of Contents
 
@@ -38,6 +38,9 @@ Last updated: 2026-05-04
 <!-- SECTION:text_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-05-05 | **TrajShield: Trajectory-Level Safety Mediation for Defending Text-to-Video Models Against Jailbreak Attacks** [📄 arXiv](https://arxiv.org/abs/2605.01761) |
+| 2026-05-05 | **BRITE: A Benchmark for Reliable and Interpretable T2V Evaluation on Implausible Scenarios** [📄 arXiv](https://arxiv.org/abs/2605.00873) |
+| 2026-05-05 | **Understanding the Performance Plateau in Text-to-Video Retrieval: A Comprehensive Empirical and Linguistic Analysis** [📄 arXiv](https://arxiv.org/abs/2605.00826) |
 | 2026-04-29 | **World-R1: Reinforcing 3D Constraints for Text-to-Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.24764) [💻 Code](https://github.com/microsoft/World-R1) |
 | 2026-04-10 | **When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2604.08546) [🌐 Homepage](https://h-embodvis.github.io/NUMINA) [💻 Code ⭐ 15](https://github.com/H-EmbodVis/NUMINA) |
 | 2026-03-31 | **TokenDial: Continuous Attribute Control in Text-to-Video via Spatiotemporal Token Offsets** [📄 arXiv](https://arxiv.org/abs/2603.27520) [🌐 Homepage](https://tokendial.github.io/) |
@@ -98,6 +101,7 @@ Last updated: 2026-05-04
 <!-- SECTION:video_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-05-05 | **GameScope: A Multi-Attribute, Multi-Codec Benchmark Dataset for Gaming Video Quality Assessment** [📄 arXiv](https://arxiv.org/abs/2605.01272) [🌐 Homepage](https://rajeshsureddi.github.io/GameScope/) [💻 Code ⭐ 0](https://github.com/rajeshsureddi/GameScope) |
 | 2026-03-27 | **VideoWeaver: Multimodal Multi-View Video-to-Video Transfer for Embodied Agents** [📄 arXiv](https://arxiv.org/abs/2603.25420) |
 | 2026-03-18 | **SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation** [📄 arXiv](https://arxiv.org/abs/2603.16864) |
 | 2026-03-17 | **TextOVSR: Text-Guided Real-World Opera Video Super-Resolution** [📄 arXiv](https://arxiv.org/abs/2603.15153) [💻 Code ⭐ 2](https://github.com/ChangHua0/TextOVSR) |
@@ -133,6 +137,7 @@ Last updated: 2026-05-04
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-05-05 | **Video Active Perception: Effective Inference-Time Long-Form Video Understanding with Vision-Language Models** [📄 arXiv](https://arxiv.org/abs/2605.01662) |
 | 2026-04-23 | **DynamicRad: Content-Adaptive Sparse Attention for Long Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2604.20470) [💻 Code ⭐ 0](https://github.com/Adamlong3/DynamicRad) |
 | 2026-04-10 | **Small Vision-Language Models are Smart Compressors for Long Video Understanding** [📄 arXiv](https://arxiv.org/abs/2604.08120) [🌐 Homepage](https://FeiElysia.github.io/tempo-page/) [💻 Code ⭐ 164](https://github.com/FeiElysia/ViECap) |
 | 2026-04-07 | **Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.03738) |
@@ -216,6 +221,9 @@ Last updated: 2026-05-04
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-05-05 | **Divide and Conquer: Decoupled Representation Alignment for Multimodal World Models** [📄 arXiv](https://arxiv.org/abs/2605.01896) |
+| 2026-05-05 | **Embody4D: A Generalist 4D World Model for Embodied AI** [📄 arXiv](https://arxiv.org/abs/2605.01799) |
+| 2026-05-05 | **CNN-based Multi-In-Multi-Out Model for Efficient Spatiotemporal Prediction** [📄 arXiv](https://arxiv.org/abs/2605.01277) |
 | 2026-05-04 | **World Model for Robot Learning: A Comprehensive Survey** [📄 arXiv](https://arxiv.org/abs/2605.00080) |
 | 2026-04-30 | **Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising** [📄 arXiv](https://arxiv.org/abs/2604.26694) [🌐 Homepage](https://sharinka0715.github.io/X-WAM/) [💻 Code ⭐ 0](https://github.com/sharinka0715/X-WAM) |
 | 2026-04-24 | **WorldMark: A Unified Benchmark Suite for Interactive Video World Models** [📄 arXiv](https://arxiv.org/abs/2604.21686) |
@@ -282,6 +290,7 @@ Last updated: 2026-05-04
 <!-- SECTION:digital_human_diffusion -->
 | Date | Paper |
 |------|-------|
+| 2026-05-05 | **InterPhys: Physics-aware Human Motion Synthesis in a Dynamic Scene** [📄 arXiv](https://arxiv.org/abs/2605.01036) |
 | 2026-05-01 | **Robot Learning from Human Videos: A Survey** [📄 arXiv](https://arxiv.org/abs/2604.27621) [💻 Code ⭐ 35](https://github.com/IRMVLab/awesome-robot-learning-from-human-videos) |
 | 2026-04-28 | **EAD-Net: Emotion-Aware Talking Head Generation with Spatial Refinement and Temporal Coherence** [📄 arXiv](https://arxiv.org/abs/2604.23325) |
 | 2026-04-24 | **MUA: Mobile Ultra-detailed Animatable Avatars** [📄 arXiv](https://arxiv.org/abs/2604.18583) [🌐 Homepage](https://vcai.mpi-inf.mpg.de/projects/MUA/) |
@@ -387,6 +396,7 @@ Last updated: 2026-05-04
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-05-05 | **Exploring Data-Free LoRA Transferability for Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2605.01929) [💻 Code ⭐ 0](https://github.com/Noahwangyuchen/CASA) |
 | 2026-04-28 | **FreqFormer: Hierarchical Frequency-Domain Attention with Adaptive Spectral Routing for Long-Sequence Video Diffusion Transformers** [📄 arXiv](https://arxiv.org/abs/2604.22808) |
 | 2026-04-24 | **AttentionBender: Manipulating Cross-Attention in Video Diffusion Transformers as a Creative Probe** [📄 arXiv](https://arxiv.org/abs/2604.20936) |
 | 2026-04-24 | **AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model** [📄 arXiv](https://arxiv.org/abs/2604.19747) [🌐 Homepage](https://yutian10.github.io/AnyRecon/) [💻 Code ⭐ 134](https://github.com/OpenImagingLab/AnyRecon) |
@@ -429,6 +439,7 @@ Last updated: 2026-05-04
 <!-- SECTION:video_tokenizer -->
 | Date | Paper |
 |------|-------|
+| 2026-05-05 | **Active Sampling for Ultra-Low-Bit-Rate Video Compression via Conditional Controlled Diffusion** [📄 arXiv](https://arxiv.org/abs/2605.02849) |
 | 2026-04-28 | **Latent Inter-Frame Pruning: A Training-Free Method Bridging Traditional Video Compression and Modern Diffusion Transformers for Efficient Generation** [📄 arXiv](https://arxiv.org/abs/2604.23858) |
 | 2026-04-15 | **VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization** [📄 arXiv](https://arxiv.org/abs/2604.12887) |
 | 2026-04-09 | **Controllable Generative Video Compression** [📄 arXiv](https://arxiv.org/abs/2604.06655) |
@@ -445,6 +456,7 @@ Last updated: 2026-05-04
 <!-- SECTION:video_autoregressive -->
 | Date | Paper |
 |------|-------|
+| 2026-05-05 | **Motion-Aware Caching for Efficient Autoregressive Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.01725) [💻 Code ⭐ 1](https://github.com/ywlq/MotionCache) |
 | 2026-04-21 | **Speculative Decoding for Autoregressive Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.17397) |
 | 2026-04-09 | **Grounded Forcing: Bridging Time-Independent Semantics and Proximal Dynamics in Autoregressive Video Synthesis** [📄 arXiv](https://arxiv.org/abs/2604.06939) |
 | 2026-04-06 | **Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation** [📄 arXiv](https://arxiv.org/abs/2604.02979) |
@@ -475,6 +487,8 @@ Last updated: 2026-05-04
 <!-- SECTION:video_foundation -->
 | Date | Paper |
 |------|-------|
+| 2026-05-05 | **Act2See: Emergent Active Visual Perception for Video Reasoning** [📄 arXiv](https://arxiv.org/abs/2605.01657) |
+| 2026-05-05 | **Beyond Perceptual Shortcuts: Causal-Inspired Debiasing Optimization for Generalizable Video Reasoning in Lightweight MLLMs** [📄 arXiv](https://arxiv.org/abs/2605.01324) [💻 Code ⭐ 2](https://github.com/falonss703/VideoThinker) |
 | 2026-04-10 | **Uni-ViGU: Towards Unified Video Generation and Understanding via A Diffusion-Based Video Generator** [📄 arXiv](https://arxiv.org/abs/2604.08121) [🌐 Homepage](https://fr0zencrane.github.io/uni-vigu-page/) [💻 Code ⭐ 1](https://github.com/Fr0zenCrane/Uni-ViGU) |
 | 2026-03-31 | **Wan-R1: Verifiable-Reinforcement Learning for Video Reasoning** [📄 arXiv](https://arxiv.org/abs/2603.27866) |
 | 2026-03-31 | **TrackMAE: Video Representation Learning via Track Mask and Predict** [📄 arXiv](https://arxiv.org/abs/2603.27268) [💻 Code ⭐ 1](https://github.com/rvandeghen/TrackMAE) |
@@ -494,6 +508,8 @@ Last updated: 2026-05-04
 <!-- SECTION:multi_subject -->
 | Date | Paper |
 |------|-------|
+| 2026-05-05 | **ViewSAM: Learning View-aware Cross-modal Semantics for Weakly Supervised Cross-view Referring Multi-Object Tracking** [📄 arXiv](https://arxiv.org/abs/2605.02638) |
+| 2026-05-05 | **SwiftPie: Lightning-fast Subject-driven Image Personalization via One step Diffusion** [📄 arXiv](https://arxiv.org/abs/2605.01510) |
 | 2026-04-23 | **MAPRPose: Mask-Aware Proposal and Amodal Refinement for Multi-Object 6D Pose Estimation** [📄 arXiv](https://arxiv.org/abs/2604.20650) |
 | 2026-04-03 | **ActionParty: Multi-Subject Action Binding in Generative Video Games** [📄 arXiv](https://arxiv.org/abs/2604.02330) [🌐 Homepage](https://action-party.github.io/) [💻 Code ⭐ 2](https://github.com/action-party/action-party) |
 | 2026-04-02 | **MotionGrounder: Grounded Multi-Object Motion Transfer via Diffusion Transformer** [📄 arXiv](https://arxiv.org/abs/2604.00853) [🌐 Homepage](https://kaist-viclab.github.io/motiongrounder-site/) [💻 Code ⭐ 4.1k](https://github.com/nerfies/nerfies.github.io) |
