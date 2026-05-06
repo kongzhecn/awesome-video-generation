@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-05-05
+Last updated: 2026-05-06
 
 ## 📑 Table of Contents
 
@@ -290,6 +290,7 @@ Last updated: 2026-05-05
 <!-- SECTION:digital_human_diffusion -->
 | Date | Paper |
 |------|-------|
+| 2026-05-06 | **Enhancing Self-Supervised Talking Head Forgery Detection via a Training-Free Dual-System Framework** [📄 arXiv](https://arxiv.org/abs/2605.03390) |
 | 2026-05-05 | **InterPhys: Physics-aware Human Motion Synthesis in a Dynamic Scene** [📄 arXiv](https://arxiv.org/abs/2605.01036) |
 | 2026-05-01 | **Robot Learning from Human Videos: A Survey** [📄 arXiv](https://arxiv.org/abs/2604.27621) [💻 Code ⭐ 35](https://github.com/IRMVLab/awesome-robot-learning-from-human-videos) |
 | 2026-04-28 | **EAD-Net: Emotion-Aware Talking Head Generation with Spatial Refinement and Temporal Coherence** [📄 arXiv](https://arxiv.org/abs/2604.23325) |
