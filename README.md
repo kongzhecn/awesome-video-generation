@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-05-06
+Last updated: 2026-05-07
 
 ## 📑 Table of Contents
 
@@ -38,6 +38,7 @@ Last updated: 2026-05-06
 <!-- SECTION:text_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-05-07 | **FaithfulFaces: Pose-Faithful Facial Identity Preservation for Text-to-Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.04702) |
 | 2026-05-05 | **TrajShield: Trajectory-Level Safety Mediation for Defending Text-to-Video Models Against Jailbreak Attacks** [📄 arXiv](https://arxiv.org/abs/2605.01761) |
 | 2026-05-05 | **BRITE: A Benchmark for Reliable and Interpretable T2V Evaluation on Implausible Scenarios** [📄 arXiv](https://arxiv.org/abs/2605.00873) |
 | 2026-05-05 | **Understanding the Performance Plateau in Text-to-Video Retrieval: A Comprehensive Empirical and Linguistic Analysis** [📄 arXiv](https://arxiv.org/abs/2605.00826) |
@@ -221,6 +222,7 @@ Last updated: 2026-05-06
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-05-07 | **LoViF 2026 The First Challenge on Holistic Quality Assessment for 4D World Model (PhyScore)** [📄 arXiv](https://arxiv.org/abs/2605.05187) |
 | 2026-05-05 | **Divide and Conquer: Decoupled Representation Alignment for Multimodal World Models** [📄 arXiv](https://arxiv.org/abs/2605.01896) |
 | 2026-05-05 | **Embody4D: A Generalist 4D World Model for Embodied AI** [📄 arXiv](https://arxiv.org/abs/2605.01799) |
 | 2026-05-05 | **CNN-based Multi-In-Multi-Out Model for Efficient Spatiotemporal Prediction** [📄 arXiv](https://arxiv.org/abs/2605.01277) |
