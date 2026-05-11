@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-05-08
+Last updated: 2026-05-11
 
 ## 📑 Table of Contents
 
@@ -229,6 +229,7 @@ Last updated: 2026-05-08
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-05-11 | **Learning Visual Feature-Based World Models via Residual Latent Action** [📄 arXiv](https://arxiv.org/abs/2605.07079) [🌐 Homepage](https://mlzxy.github.io/rla-wm) [💻 Code ⭐ 4](https://github.com/mlzxy/rla-wm) |
 | 2026-05-08 | **Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models** [📄 arXiv](https://arxiv.org/abs/2605.06388) |
 | 2026-05-08 | **Earth-o1: A Grid-free Observation-native Atmospheric World Model** [📄 arXiv](https://arxiv.org/abs/2605.06337) |
 | 2026-05-08 | **Render, Don&#39;t Decode: Weight-Space World Models with Latent Structural Disentanglement** [📄 arXiv](https://arxiv.org/abs/2605.06298) |
@@ -288,6 +289,7 @@ Last updated: 2026-05-08
 <!-- SECTION:audio_visual -->
 | Date | Paper |
 |------|-------|
+| 2026-05-11 | **Do Joint Audio-Video Generation Models Understand Physics?** [📄 arXiv](https://arxiv.org/abs/2605.07061) |
 | 2026-04-28 | **Talker-T2AV: Joint Talking Audio-Video Generation with Autoregressive Diffusion Modeling** [📄 arXiv](https://arxiv.org/abs/2604.23586) |
 | 2026-04-24 | **MMControl: Unified Multi-Modal Control for Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.19679) [🌐 Homepage](https://aim-uofa.github.io/MMControl/) [💻 Code ⭐ 4](https://github.com/aim-uofa/MMControl) |
 | 2026-04-13 | **Tora3: Trajectory-Guided Audio-Video Generation with Physical Coherence** [📄 arXiv](https://arxiv.org/abs/2604.09057) |
@@ -371,6 +373,7 @@ Last updated: 2026-05-08
 <!-- SECTION:digital_human_3d -->
 | Date | Paper |
 |------|-------|
+| 2026-05-11 | **MoCoTalk: Multi-Conditional Diffusion with Adaptive Router for Controllable Talking Head Generation** [📄 arXiv](https://arxiv.org/abs/2605.08050) |
 | 2026-04-24 | **ReImagine: Rethinking Controllable High-Quality Human Video Generation via Image-First Synthesis** [📄 arXiv](https://arxiv.org/abs/2604.19720) [💻 Code ⭐ 18](https://github.com/Taited/ReImagine) |
 | 2026-04-23 | **UniCon3R: Contact-aware 3D Human-Scene Reconstruction from Monocular Video** [📄 arXiv](https://arxiv.org/abs/2604.19923) [🌐 Homepage](https://surtantheta.github.io/UniCon3R) [💻 Code ⭐ 0](https://github.com/surtantheta/UniCon3R) |
 | 2026-04-10 | **ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Datasets** [📄 arXiv](https://arxiv.org/abs/2604.08548) [🌐 Homepage](https://xiaobenli00.github.io/ETCH-X/) [💻 Code ⭐ 0](https://github.com/XiaobenLi00/ETCH-X) |
@@ -412,6 +415,8 @@ Last updated: 2026-05-08
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-05-11 | **SARA: Semantically Adaptive Relational Alignment for Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2605.07800) |
+| 2026-05-11 | **Diffusion-APO: Trajectory-Aware Direct Preference Alignment for Video Diffusion Transformers** [📄 arXiv](https://arxiv.org/abs/2605.07503) |
 | 2026-05-05 | **Exploring Data-Free LoRA Transferability for Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2605.01929) [💻 Code ⭐ 0](https://github.com/Noahwangyuchen/CASA) |
 | 2026-04-28 | **FreqFormer: Hierarchical Frequency-Domain Attention with Adaptive Spectral Routing for Long-Sequence Video Diffusion Transformers** [📄 arXiv](https://arxiv.org/abs/2604.22808) |
 | 2026-04-24 | **AttentionBender: Manipulating Cross-Attention in Video Diffusion Transformers as a Creative Probe** [📄 arXiv](https://arxiv.org/abs/2604.20936) |
