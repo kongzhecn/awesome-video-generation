@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-05-11
+Last updated: 2026-05-12
 
 ## 📑 Table of Contents
 
@@ -62,6 +62,7 @@ Last updated: 2026-05-11
 <!-- SECTION:image_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-05-12 | **Implicit Preference Alignment for Human Image Animation** [📄 arXiv](https://arxiv.org/abs/2605.07545) [💻 Code ⭐ 2](https://github.com/mdswyz/IPA) |
 | 2026-05-08 | **SwiftI2V: Efficient High-Resolution Image-to-Video Generation via Conditional Segment-wise Generation** [📄 arXiv](https://arxiv.org/abs/2605.06356) |
 | 2026-05-08 | **Eulerian Motion Guidance: Robust Image Animation via Bidirectional Geometric Consistency** [📄 arXiv](https://arxiv.org/abs/2605.06280) |
 | 2026-04-17 | **Flow of Truth: Proactive Temporal Forensics for Image-to-Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.15003) |
@@ -140,6 +141,7 @@ Last updated: 2026-05-11
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-05-12 | **A$^2$RD: Agentic Autoregressive Diffusion for Long Video Consistency** [📄 arXiv](https://arxiv.org/abs/2605.06924) [🌐 Homepage](http://dxlong2000.github.io/AARD) [💻 Code ⭐ 5](https://github.com/dxlong2000/AARD) |
 | 2026-05-08 | **FreeSpec: Training-Free Long Video Generation via Singular-Spectrum Reconstruction** [📄 arXiv](https://arxiv.org/abs/2605.06509) [🌐 Homepage](https://fdchen24.github.io/FreeSpec-Website/) |
 | 2026-05-08 | **AffectSeek: Agentic Affective Understanding in Long Videos under Vague User Queries** [📄 arXiv](https://arxiv.org/abs/2605.05640) |
 | 2026-05-08 | **Event-Causal RAG: A Retrieval-Augmented Generation Framework for Long Video Reasoning in Complex Scenarios** [📄 arXiv](https://arxiv.org/abs/2605.06185) |
@@ -206,6 +208,9 @@ Last updated: 2026-05-11
 <!-- SECTION:camera_control -->
 | Date | Paper |
 |------|-------|
+| 2026-05-12 | **Differentiable Ray Tracing with Gaussians for Unified Radio Propagation Simulation and View Synthesis** [📄 arXiv](https://arxiv.org/abs/2605.07781) |
+| 2026-05-12 | **SplatWeaver: Learning to Allocate Gaussian Primitives for Generalizable Novel View Synthesis** [📄 arXiv](https://arxiv.org/abs/2605.07287) |
+| 2026-05-12 | **TriDE: Triangle-Consistent Translation Directions for Global Camera Pose Estimation** [📄 arXiv](https://arxiv.org/abs/2605.06889) |
 | 2026-04-24 | **MultiWorld: Scalable Multi-Agent Multi-View Video World Models** [📄 arXiv](https://arxiv.org/abs/2604.18564) [🌐 Homepage](https://multi-world.github.io/) [💻 Code ⭐ 110](https://github.com/CIntellifusion/MultiWorld) |
 | 2026-04-08 | **Action Images: End-to-End Policy Learning via Multiview Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.06168) [🌐 Homepage](https://actionimages.github.io/) [💻 Code ⭐ 2](https://github.com/UMass-Embodied-AGI/ActionImages) |
 | 2026-04-07 | **SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.03723) [🌐 Homepage](https://grenoble-zhang.github.io/SymphoMotion/) [💻 Code ⭐ 1](https://github.com/grenoble-zhang/SymphoMotion) |
@@ -229,6 +234,11 @@ Last updated: 2026-05-11
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-05-12 | **One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy** [📄 arXiv](https://arxiv.org/abs/2605.07931) |
+| 2026-05-12 | **ST-Gen4D: Embedding 4D Spatiotemporal Cognition into World Model for 4D Generation** [📄 arXiv](https://arxiv.org/abs/2605.07390) |
+| 2026-05-12 | **GEM: Generating LiDAR World Model via Deformable Mamba** [📄 arXiv](https://arxiv.org/abs/2605.07326) [💻 Code ⭐ 6](https://github.com/wuyang98/GEM) |
+| 2026-05-12 | **Sword: Style-Robust World Models as Simulators via Dynamic Latent Bootstrapping for VLA Policy Post-Training** [📄 arXiv](https://arxiv.org/abs/2605.07288) |
+| 2026-05-12 | **Predictive but Not Plannable: RC-aux for Latent World Models** [📄 arXiv](https://arxiv.org/abs/2605.07278) [💻 Code ⭐ 1](https://github.com/Guang000/RC-aux) |
 | 2026-05-11 | **Learning Visual Feature-Based World Models via Residual Latent Action** [📄 arXiv](https://arxiv.org/abs/2605.07079) [🌐 Homepage](https://mlzxy.github.io/rla-wm) [💻 Code ⭐ 4](https://github.com/mlzxy/rla-wm) |
 | 2026-05-08 | **Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models** [📄 arXiv](https://arxiv.org/abs/2605.06388) |
 | 2026-05-08 | **Earth-o1: A Grid-free Observation-native Atmospheric World Model** [📄 arXiv](https://arxiv.org/abs/2605.06337) |
@@ -305,6 +315,9 @@ Last updated: 2026-05-11
 <!-- SECTION:digital_human_diffusion -->
 | Date | Paper |
 |------|-------|
+| 2026-05-12 | **Towards Highly-Constrained Human Motion Generation with Retrieval-Guided Diffusion Noise Optimization** [📄 arXiv](https://arxiv.org/abs/2605.08054) |
+| 2026-05-12 | **VIMCAN: Visual-Inertial 3D Human Pose Estimation with Hybrid Mamba-Cross-Attention Network** [📄 arXiv](https://arxiv.org/abs/2605.07552) |
+| 2026-05-12 | **PersonaGest: Personalized Co-Speech Gesture Generation with Semantic-Guided Hierarchical Motion Representation** [📄 arXiv](https://arxiv.org/abs/2605.07252) [🌐 Homepage](https://danny-nus.github.io/PersonaGest/) [💻 Code ⭐ 4.2k](https://github.com/nerfies/nerfies.github.io) |
 | 2026-05-08 | **PersonaGesture: Single-Reference Co-Speech Gesture Personalization for Unseen Speakers** [📄 arXiv](https://arxiv.org/abs/2605.06064) [🌐 Homepage](https://xiangyue-zhang.github.io/PersonaGesture) |
 | 2026-05-08 | **Jointly Learning Structured Representations and Stabilized Affinity for Human Motion Segmentation** [📄 arXiv](https://arxiv.org/abs/2605.05753) |
 | 2026-05-06 | **Enhancing Self-Supervised Talking Head Forgery Detection via a Training-Free Dual-System Framework** [📄 arXiv](https://arxiv.org/abs/2605.03390) |
@@ -508,6 +521,7 @@ Last updated: 2026-05-11
 <!-- SECTION:video_foundation -->
 | Date | Paper |
 |------|-------|
+| 2026-05-12 | **RCoT-Seg: Reinforced Chain-of-Thought for Video Reasoning and Segmentation** [📄 arXiv](https://arxiv.org/abs/2605.07334) [💻 Code ⭐ 2](https://github.com/Victor-wjw/RCoT-Seg) |
 | 2026-05-08 | **VISD: Enhancing Video Reasoning via Structured Self-Distillation** [📄 arXiv](https://arxiv.org/abs/2605.06094) |
 | 2026-05-05 | **Act2See: Emergent Active Visual Perception for Video Reasoning** [📄 arXiv](https://arxiv.org/abs/2605.01657) |
 | 2026-05-05 | **Beyond Perceptual Shortcuts: Causal-Inspired Debiasing Optimization for Generalizable Video Reasoning in Lightweight MLLMs** [📄 arXiv](https://arxiv.org/abs/2605.01324) [💻 Code ⭐ 2](https://github.com/falonss703/VideoThinker) |
