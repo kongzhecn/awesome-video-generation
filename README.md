@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-05-12
+Last updated: 2026-05-13
 
 ## 📑 Table of Contents
 
@@ -62,6 +62,7 @@ Last updated: 2026-05-12
 <!-- SECTION:image_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-05-13 | **Improving Human Image Animation via Semantic Representation Alignment** [📄 arXiv](https://arxiv.org/abs/2605.10523) |
 | 2026-05-12 | **Implicit Preference Alignment for Human Image Animation** [📄 arXiv](https://arxiv.org/abs/2605.07545) [💻 Code ⭐ 2](https://github.com/mdswyz/IPA) |
 | 2026-05-08 | **SwiftI2V: Efficient High-Resolution Image-to-Video Generation via Conditional Segment-wise Generation** [📄 arXiv](https://arxiv.org/abs/2605.06356) |
 | 2026-05-08 | **Eulerian Motion Guidance: Robust Image Animation via Bidirectional Geometric Consistency** [📄 arXiv](https://arxiv.org/abs/2605.06280) |
@@ -141,6 +142,9 @@ Last updated: 2026-05-12
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-05-13 | **CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives** [📄 arXiv](https://arxiv.org/abs/2605.12496) [🌐 Homepage](https://yihao-meng.github.io/CausalCine/) |
+| 2026-05-13 | **FIS-DiT: Breaking the Few-Step Video Inference Barrier via Training-Free Frame Interleaved Sparsity** [📄 arXiv](https://arxiv.org/abs/2605.11869) |
+| 2026-05-13 | **SWIFT: Prompt-Adaptive Memory for Efficient Interactive Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.09442) [💻 Code ⭐ 5](https://github.com/ShanwenTan/SWIFT) |
 | 2026-05-12 | **A$^2$RD: Agentic Autoregressive Diffusion for Long Video Consistency** [📄 arXiv](https://arxiv.org/abs/2605.06924) [🌐 Homepage](http://dxlong2000.github.io/AARD) [💻 Code ⭐ 5](https://github.com/dxlong2000/AARD) |
 | 2026-05-08 | **FreeSpec: Training-Free Long Video Generation via Singular-Spectrum Reconstruction** [📄 arXiv](https://arxiv.org/abs/2605.06509) [🌐 Homepage](https://fdchen24.github.io/FreeSpec-Website/) |
 | 2026-05-08 | **AffectSeek: Agentic Affective Understanding in Long Videos under Vague User Queries** [📄 arXiv](https://arxiv.org/abs/2605.05640) |
@@ -175,6 +179,7 @@ Last updated: 2026-05-12
 <!-- SECTION:controllable_video -->
 | Date | Paper |
 |------|-------|
+| 2026-05-13 | **$h$-control: Training-Free Camera Control via Block-Conditional Gibbs Refinement** [📄 arXiv](https://arxiv.org/abs/2605.11871) |
 | 2026-05-08 | **ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.06667) [🌐 Homepage](https://elkhomar.github.io/actcam/) |
 | 2026-05-08 | **RealCam: Real-Time Novel-View Video Generation with Interactive Camera Control** [📄 arXiv](https://arxiv.org/abs/2605.06051) [🌐 Homepage](https://xyc-fly.github.io/RealCam/) [💻 Code ⭐ 0](https://github.com/XYC-fly/RealCam) |
 | 2026-04-23 | **Camera Control for Text-to-Image Generation via Learning Viewpoint Tokens** [📄 arXiv](https://arxiv.org/abs/2604.19954) [🌐 Homepage](https://randdl.github.io/viewtoken_control/) |
@@ -234,6 +239,8 @@ Last updated: 2026-05-12
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-05-13 | **HorizonDrive: Self-Corrective Autoregressive World Model for Long-horizon Driving Simulation** [📄 arXiv](https://arxiv.org/abs/2605.11596) |
+| 2026-05-13 | **PhyGround: Benchmarking Physical Reasoning in Generative World Models** [📄 arXiv](https://arxiv.org/abs/2605.10806) [🌐 Homepage](https://phyground.github.io/) [💻 Code ⭐ 5](https://github.com/NU-World-Model-Embodied-AI/PhyGround) |
 | 2026-05-12 | **One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy** [📄 arXiv](https://arxiv.org/abs/2605.07931) |
 | 2026-05-12 | **ST-Gen4D: Embedding 4D Spatiotemporal Cognition into World Model for 4D Generation** [📄 arXiv](https://arxiv.org/abs/2605.07390) |
 | 2026-05-12 | **GEM: Generating LiDAR World Model via Deformable Mamba** [📄 arXiv](https://arxiv.org/abs/2605.07326) [💻 Code ⭐ 6](https://github.com/wuyang98/GEM) |
@@ -299,6 +306,9 @@ Last updated: 2026-05-12
 <!-- SECTION:audio_visual -->
 | Date | Paper |
 |------|-------|
+| 2026-05-13 | **OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.12480) [🌐 Homepage](https://zghhui.github.io/OmniNFT/) [💻 Code ⭐ 3](https://github.com/zghhui/OmniNFT) |
+| 2026-05-13 | **AllocMV: Optimal Resource Allocation for Music Video Generation via Structured Persistent State** [📄 arXiv](https://arxiv.org/abs/2605.10723) |
+| 2026-05-13 | **Unison: Harmonizing Motion, Speech, and Sound for Human-Centric Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.08729) |
 | 2026-05-11 | **Do Joint Audio-Video Generation Models Understand Physics?** [📄 arXiv](https://arxiv.org/abs/2605.07061) |
 | 2026-04-28 | **Talker-T2AV: Joint Talking Audio-Video Generation with Autoregressive Diffusion Modeling** [📄 arXiv](https://arxiv.org/abs/2604.23586) |
 | 2026-04-24 | **MMControl: Unified Multi-Modal Control for Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.19679) [🌐 Homepage](https://aim-uofa.github.io/MMControl/) [💻 Code ⭐ 4](https://github.com/aim-uofa/MMControl) |
@@ -315,6 +325,7 @@ Last updated: 2026-05-12
 <!-- SECTION:digital_human_diffusion -->
 | Date | Paper |
 |------|-------|
+| 2026-05-13 | **Enhancing Domain Generalization in 3D Human Pose Estimation through Controllable Generative Augmentation** [📄 arXiv](https://arxiv.org/abs/2605.12198) |
 | 2026-05-12 | **Towards Highly-Constrained Human Motion Generation with Retrieval-Guided Diffusion Noise Optimization** [📄 arXiv](https://arxiv.org/abs/2605.08054) |
 | 2026-05-12 | **VIMCAN: Visual-Inertial 3D Human Pose Estimation with Hybrid Mamba-Cross-Attention Network** [📄 arXiv](https://arxiv.org/abs/2605.07552) |
 | 2026-05-12 | **PersonaGest: Personalized Co-Speech Gesture Generation with Semantic-Guided Hierarchical Motion Representation** [📄 arXiv](https://arxiv.org/abs/2605.07252) [🌐 Homepage](https://danny-nus.github.io/PersonaGest/) [💻 Code ⭐ 4.2k](https://github.com/nerfies/nerfies.github.io) |
@@ -386,6 +397,7 @@ Last updated: 2026-05-12
 <!-- SECTION:digital_human_3d -->
 | Date | Paper |
 |------|-------|
+| 2026-05-13 | **SDTalk: Structured Facial Priors and Dual-Branch Motion Fields for Generalizable Gaussian Talking Head Synthesis** [📄 arXiv](https://arxiv.org/abs/2605.09956) |
 | 2026-05-11 | **MoCoTalk: Multi-Conditional Diffusion with Adaptive Router for Controllable Talking Head Generation** [📄 arXiv](https://arxiv.org/abs/2605.08050) |
 | 2026-04-24 | **ReImagine: Rethinking Controllable High-Quality Human Video Generation via Image-First Synthesis** [📄 arXiv](https://arxiv.org/abs/2604.19720) [💻 Code ⭐ 18](https://github.com/Taited/ReImagine) |
 | 2026-04-23 | **UniCon3R: Contact-aware 3D Human-Scene Reconstruction from Monocular Video** [📄 arXiv](https://arxiv.org/abs/2604.19923) [🌐 Homepage](https://surtantheta.github.io/UniCon3R) [💻 Code ⭐ 0](https://github.com/surtantheta/UniCon3R) |
@@ -428,6 +440,9 @@ Last updated: 2026-05-12
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-05-13 | **Single-Shot HDR Recovery via a Video Diffusion Prior** [📄 arXiv](https://arxiv.org/abs/2605.11628) |
+| 2026-05-13 | **VidSplat: Gaussian Splatting Reconstruction with Geometry-Guided Video Diffusion Priors** [📄 arXiv](https://arxiv.org/abs/2605.11424) [🌐 Homepage](https://tangjm24.github.io/VidSplat) [💻 Code ⭐ 8](https://github.com/tangjm24/VidSplat) |
+| 2026-05-13 | **Forcing-KV: Hybrid KV Cache Compression for Efficient Autoregressive Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2605.09681) [🌐 Homepage](https://zju-jiyicheng.github.io/Forcing-KV-Page) [💻 Code ⭐ 54](https://github.com/zju-jiyicheng/Forcing-KV) |
 | 2026-05-11 | **SARA: Semantically Adaptive Relational Alignment for Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2605.07800) |
 | 2026-05-11 | **Diffusion-APO: Trajectory-Aware Direct Preference Alignment for Video Diffusion Transformers** [📄 arXiv](https://arxiv.org/abs/2605.07503) |
 | 2026-05-05 | **Exploring Data-Free LoRA Transferability for Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2605.01929) [💻 Code ⭐ 0](https://github.com/Noahwangyuchen/CASA) |
@@ -521,6 +536,7 @@ Last updated: 2026-05-12
 <!-- SECTION:video_foundation -->
 | Date | Paper |
 |------|-------|
+| 2026-05-13 | **CollabVR: Collaborative Video Reasoning with Vision-Language and Video Generation Models** [📄 arXiv](https://arxiv.org/abs/2605.08735) [🌐 Homepage](https://joow0n-kim.github.io/collabvr-project-page) [💻 Code ⭐ 4](https://github.com/Joow0n-Kim/CollabVR) |
 | 2026-05-12 | **RCoT-Seg: Reinforced Chain-of-Thought for Video Reasoning and Segmentation** [📄 arXiv](https://arxiv.org/abs/2605.07334) [💻 Code ⭐ 2](https://github.com/Victor-wjw/RCoT-Seg) |
 | 2026-05-08 | **VISD: Enhancing Video Reasoning via Structured Self-Distillation** [📄 arXiv](https://arxiv.org/abs/2605.06094) |
 | 2026-05-05 | **Act2See: Emergent Active Visual Perception for Video Reasoning** [📄 arXiv](https://arxiv.org/abs/2605.01657) |
