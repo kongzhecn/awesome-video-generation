@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-05-13
+Last updated: 2026-05-14
 
 ## 📑 Table of Contents
 
@@ -106,6 +106,7 @@ Last updated: 2026-05-13
 <!-- SECTION:video_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-05-14 | **DiffST: Spatiotemporal-Aware Diffusion for Real-World Space-Time Video Super-Resolution** [📄 arXiv](https://arxiv.org/abs/2605.13182) [💻 Code](https://github.com/zhengchen1999/DiffST) |
 | 2026-05-05 | **GameScope: A Multi-Attribute, Multi-Codec Benchmark Dataset for Gaming Video Quality Assessment** [📄 arXiv](https://arxiv.org/abs/2605.01272) [🌐 Homepage](https://rajeshsureddi.github.io/GameScope/) [💻 Code ⭐ 0](https://github.com/rajeshsureddi/GameScope) |
 | 2026-03-27 | **VideoWeaver: Multimodal Multi-View Video-to-Video Transfer for Embodied Agents** [📄 arXiv](https://arxiv.org/abs/2603.25420) |
 | 2026-03-18 | **SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation** [📄 arXiv](https://arxiv.org/abs/2603.16864) |
@@ -142,6 +143,7 @@ Last updated: 2026-05-13
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-05-14 | **Pyramid Forcing: Head-Aware Pyramid KV Cache Policy for High-Quality Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.13111) [🌐 Homepage](https://if-lab-pku.github.io/Pyramid-Forcing/) |
 | 2026-05-13 | **CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives** [📄 arXiv](https://arxiv.org/abs/2605.12496) [🌐 Homepage](https://yihao-meng.github.io/CausalCine/) |
 | 2026-05-13 | **FIS-DiT: Breaking the Few-Step Video Inference Barrier via Training-Free Frame Interleaved Sparsity** [📄 arXiv](https://arxiv.org/abs/2605.11869) |
 | 2026-05-13 | **SWIFT: Prompt-Adaptive Memory for Efficient Interactive Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.09442) [💻 Code ⭐ 5](https://github.com/ShanwenTan/SWIFT) |
@@ -179,6 +181,7 @@ Last updated: 2026-05-13
 <!-- SECTION:controllable_video -->
 | Date | Paper |
 |------|-------|
+| 2026-05-14 | **CRePE: Curved Ray Expectation Positional Encoding for Unified-Camera-Controlled Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.12938) |
 | 2026-05-13 | **$h$-control: Training-Free Camera Control via Block-Conditional Gibbs Refinement** [📄 arXiv](https://arxiv.org/abs/2605.11871) |
 | 2026-05-08 | **ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.06667) [🌐 Homepage](https://elkhomar.github.io/actcam/) |
 | 2026-05-08 | **RealCam: Real-Time Novel-View Video Generation with Interactive Camera Control** [📄 arXiv](https://arxiv.org/abs/2605.06051) [🌐 Homepage](https://xyc-fly.github.io/RealCam/) [💻 Code ⭐ 0](https://github.com/XYC-fly/RealCam) |
@@ -239,6 +242,7 @@ Last updated: 2026-05-13
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-05-14 | **GTA: Advancing Image-to-3D World Generation via Geometry Then Appearance Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2605.12957) [🌐 Homepage](https://hanxinzhu-lab.github.io/GTA/) [💻 Code ⭐ 4.9k](https://github.com/eliahuhorwitz/Academic-project-page-template) |
 | 2026-05-13 | **HorizonDrive: Self-Corrective Autoregressive World Model for Long-horizon Driving Simulation** [📄 arXiv](https://arxiv.org/abs/2605.11596) |
 | 2026-05-13 | **PhyGround: Benchmarking Physical Reasoning in Generative World Models** [📄 arXiv](https://arxiv.org/abs/2605.10806) [🌐 Homepage](https://phyground.github.io/) [💻 Code ⭐ 5](https://github.com/NU-World-Model-Embodied-AI/PhyGround) |
 | 2026-05-12 | **One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy** [📄 arXiv](https://arxiv.org/abs/2605.07931) |
@@ -440,6 +444,8 @@ Last updated: 2026-05-13
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-05-14 | **AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation** [📄 arXiv](https://arxiv.org/abs/2605.13724) [🌐 Homepage](https://nvlabs.github.io/AnyFlow/) [💻 Code ⭐ 17](https://github.com/NVlabs/AnyFlow) |
+| 2026-05-14 | **TrackCraft3R: Repurposing Video Diffusion Transformers for Dense 3D Tracking** [📄 arXiv](https://arxiv.org/abs/2605.12587) [🌐 Homepage](https://cvlab-kaist.github.io/TrackCraft3r/) [💻 Code ⭐ 9](https://github.com/cvlab-kaist/TrackCraft3r) |
 | 2026-05-13 | **Single-Shot HDR Recovery via a Video Diffusion Prior** [📄 arXiv](https://arxiv.org/abs/2605.11628) |
 | 2026-05-13 | **VidSplat: Gaussian Splatting Reconstruction with Geometry-Guided Video Diffusion Priors** [📄 arXiv](https://arxiv.org/abs/2605.11424) [🌐 Homepage](https://tangjm24.github.io/VidSplat) [💻 Code ⭐ 8](https://github.com/tangjm24/VidSplat) |
 | 2026-05-13 | **Forcing-KV: Hybrid KV Cache Compression for Efficient Autoregressive Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2605.09681) [🌐 Homepage](https://zju-jiyicheng.github.io/Forcing-KV-Page) [💻 Code ⭐ 54](https://github.com/zju-jiyicheng/Forcing-KV) |
