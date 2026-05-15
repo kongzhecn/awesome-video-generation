@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-05-14
+Last updated: 2026-05-15
 
 ## 📑 Table of Contents
 
@@ -120,6 +120,7 @@ Last updated: 2026-05-14
 <!-- SECTION:video_prediction -->
 | Date | Paper |
 |------|-------|
+| 2026-05-15 | **RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO** [📄 arXiv](https://arxiv.org/abs/2605.15190) |
 | 2026-04-10 | **Novel View Synthesis as Video Completion** [📄 arXiv](https://arxiv.org/abs/2604.08500) [🌐 Homepage](https://frame-crafter.github.io/) [💻 Code](https://github.com/szqwu/FrameCrafter) |
 <!-- END_SECTION -->
 
@@ -143,6 +144,7 @@ Last updated: 2026-05-14
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-05-15 | **EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.15199) [🌐 Homepage](https://catherine-r-he.github.io/EntityBench/) [💻 Code ⭐ 2](https://github.com/Catherine-R-He/EntityBench/) |
 | 2026-05-14 | **Pyramid Forcing: Head-Aware Pyramid KV Cache Policy for High-Quality Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.13111) [🌐 Homepage](https://if-lab-pku.github.io/Pyramid-Forcing/) |
 | 2026-05-13 | **CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives** [📄 arXiv](https://arxiv.org/abs/2605.12496) [🌐 Homepage](https://yihao-meng.github.io/CausalCine/) |
 | 2026-05-13 | **FIS-DiT: Breaking the Few-Step Video Inference Barrier via Training-Free Frame Interleaved Sparsity** [📄 arXiv](https://arxiv.org/abs/2605.11869) |
@@ -181,6 +183,8 @@ Last updated: 2026-05-14
 <!-- SECTION:controllable_video -->
 | Date | Paper |
 |------|-------|
+| 2026-05-15 | **Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video** [📄 arXiv](https://arxiv.org/abs/2605.15182) [🌐 Homepage](https://yyfz.github.io/warp-as-history/) [💻 Code ⭐ 13](https://github.com/yyfz/Warp-as-History) |
+| 2026-05-15 | **Probing into Camera Control of Video Models** [📄 arXiv](https://arxiv.org/abs/2605.14815) |
 | 2026-05-14 | **CRePE: Curved Ray Expectation Positional Encoding for Unified-Camera-Controlled Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.12938) |
 | 2026-05-13 | **$h$-control: Training-Free Camera Control via Block-Conditional Gibbs Refinement** [📄 arXiv](https://arxiv.org/abs/2605.11871) |
 | 2026-05-08 | **ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.06667) [🌐 Homepage](https://elkhomar.github.io/actcam/) |
@@ -242,6 +246,7 @@ Last updated: 2026-05-14
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-05-15 | **Quantitative Video World Model Evaluation for Geometric-Consistency** [📄 arXiv](https://arxiv.org/abs/2605.15185) [🌐 Homepage](https://pdi-bench.github.io/) [💻 Code ⭐ 2](https://github.com/AnteaWu/PDI-Bench) |
 | 2026-05-14 | **GTA: Advancing Image-to-3D World Generation via Geometry Then Appearance Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2605.12957) [🌐 Homepage](https://hanxinzhu-lab.github.io/GTA/) [💻 Code ⭐ 4.9k](https://github.com/eliahuhorwitz/Academic-project-page-template) |
 | 2026-05-13 | **HorizonDrive: Self-Corrective Autoregressive World Model for Long-horizon Driving Simulation** [📄 arXiv](https://arxiv.org/abs/2605.11596) |
 | 2026-05-13 | **PhyGround: Benchmarking Physical Reasoning in Generative World Models** [📄 arXiv](https://arxiv.org/abs/2605.10806) [🌐 Homepage](https://phyground.github.io/) [💻 Code ⭐ 5](https://github.com/NU-World-Model-Embodied-AI/PhyGround) |
@@ -329,6 +334,7 @@ Last updated: 2026-05-14
 <!-- SECTION:digital_human_diffusion -->
 | Date | Paper |
 |------|-------|
+| 2026-05-15 | **EverAnimate: Minute-Scale Human Animation via Latent Flow Restoration** [📄 arXiv](https://arxiv.org/abs/2605.15042) [🌐 Homepage](https://everanimate.github.io/homepage/) [💻 Code ⭐ 0](https://github.com/vita-epfl/EverAnimate) |
 | 2026-05-13 | **Enhancing Domain Generalization in 3D Human Pose Estimation through Controllable Generative Augmentation** [📄 arXiv](https://arxiv.org/abs/2605.12198) |
 | 2026-05-12 | **Towards Highly-Constrained Human Motion Generation with Retrieval-Guided Diffusion Noise Optimization** [📄 arXiv](https://arxiv.org/abs/2605.08054) |
 | 2026-05-12 | **VIMCAN: Visual-Inertial 3D Human Pose Estimation with Hybrid Mamba-Cross-Attention Network** [📄 arXiv](https://arxiv.org/abs/2605.07552) |
@@ -401,6 +407,7 @@ Last updated: 2026-05-14
 <!-- SECTION:digital_human_3d -->
 | Date | Paper |
 |------|-------|
+| 2026-05-15 | **PhyMotion: Structured 3D Motion Reward for Physics-Grounded Human Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.14269) [🌐 Homepage](https://phy-motion.github.io/) [💻 Code ⭐ 2](https://github.com/h6kplus/PhyMotion) |
 | 2026-05-13 | **SDTalk: Structured Facial Priors and Dual-Branch Motion Fields for Generalizable Gaussian Talking Head Synthesis** [📄 arXiv](https://arxiv.org/abs/2605.09956) |
 | 2026-05-11 | **MoCoTalk: Multi-Conditional Diffusion with Adaptive Router for Controllable Talking Head Generation** [📄 arXiv](https://arxiv.org/abs/2605.08050) |
 | 2026-04-24 | **ReImagine: Rethinking Controllable High-Quality Human Video Generation via Image-First Synthesis** [📄 arXiv](https://arxiv.org/abs/2604.19720) [💻 Code ⭐ 18](https://github.com/Taited/ReImagine) |
@@ -444,6 +451,10 @@ Last updated: 2026-05-14
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-05-15 | **HASTE: Training-Free Video Diffusion Acceleration via Head-Wise Adaptive Sparse Attention** [📄 arXiv](https://arxiv.org/abs/2605.14513) |
+| 2026-05-15 | **CreFlow: Corrective Reflow for Sparse-Reward Embodied Video Diffusion RL** [📄 arXiv](https://arxiv.org/abs/2605.14274) |
+| 2026-05-15 | **TeDiO: Temporal Diagonal Optimization for Training-Free Coherent Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2605.14136) |
+| 2026-05-15 | **MoZoo:Unleashing Video Diffusion power in animal fur and muscle simulation** [📄 arXiv](https://arxiv.org/abs/2605.13857) [🌐 Homepage](https://dongxialiu15.github.io/MoZoo/) [💻 Code ⭐ 18](https://github.com/Orange-3DV-Team/MoZoo) |
 | 2026-05-14 | **AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation** [📄 arXiv](https://arxiv.org/abs/2605.13724) [🌐 Homepage](https://nvlabs.github.io/AnyFlow/) [💻 Code ⭐ 17](https://github.com/NVlabs/AnyFlow) |
 | 2026-05-14 | **TrackCraft3R: Repurposing Video Diffusion Transformers for Dense 3D Tracking** [📄 arXiv](https://arxiv.org/abs/2605.12587) [🌐 Homepage](https://cvlab-kaist.github.io/TrackCraft3r/) [💻 Code ⭐ 9](https://github.com/cvlab-kaist/TrackCraft3r) |
 | 2026-05-13 | **Single-Shot HDR Recovery via a Video Diffusion Prior** [📄 arXiv](https://arxiv.org/abs/2605.11628) |
@@ -511,6 +522,9 @@ Last updated: 2026-05-14
 <!-- SECTION:video_autoregressive -->
 | Date | Paper |
 |------|-------|
+| 2026-05-15 | **Head Forcing: Long Autoregressive Video Generation via Head Heterogeneity** [📄 arXiv](https://arxiv.org/abs/2605.14487) [🌐 Homepage](https://jiahaotian-sjtu.github.io/headforcing.github.io/) [💻 Code ⭐ 4.9k](https://github.com/eliahuhorwitz/Academic-project-page-template) |
+| 2026-05-15 | **Delta Forcing: Trust Region Steering for Interactive Autoregressive Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.14382) |
+| 2026-05-15 | **KVPO: ODE-Native GRPO for Autoregressive Video Alignment via KV Semantic Exploration** [📄 arXiv](https://arxiv.org/abs/2605.14278) |
 | 2026-05-05 | **Motion-Aware Caching for Efficient Autoregressive Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.01725) [💻 Code ⭐ 1](https://github.com/ywlq/MotionCache) |
 | 2026-04-21 | **Speculative Decoding for Autoregressive Video Generation** [📄 arXiv](https://arxiv.org/abs/2604.17397) |
 | 2026-04-09 | **Grounded Forcing: Bridging Time-Independent Semantics and Proximal Dynamics in Autoregressive Video Synthesis** [📄 arXiv](https://arxiv.org/abs/2604.06939) |
