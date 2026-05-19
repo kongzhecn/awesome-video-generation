@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-05-18
+Last updated: 2026-05-19
 
 ## 📑 Table of Contents
 
@@ -38,6 +38,7 @@ Last updated: 2026-05-18
 <!-- SECTION:text_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-05-19 | **MAVEN A Multi-Agent Framework for Multicultural Text-to-Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.16716) [💻 Code](https://github.com/AIM-SCU/CRAFT) |
 | 2026-05-07 | **FaithfulFaces: Pose-Faithful Facial Identity Preservation for Text-to-Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.04702) |
 | 2026-05-05 | **TrajShield: Trajectory-Level Safety Mediation for Defending Text-to-Video Models Against Jailbreak Attacks** [📄 arXiv](https://arxiv.org/abs/2605.01761) |
 | 2026-05-05 | **BRITE: A Benchmark for Reliable and Interpretable T2V Evaluation on Implausible Scenarios** [📄 arXiv](https://arxiv.org/abs/2605.00873) |
@@ -62,6 +63,8 @@ Last updated: 2026-05-18
 <!-- SECTION:image_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-05-19 | **Image-to-Video Diffusion: From Foundations to Open Frontiers** [📄 arXiv](https://arxiv.org/abs/2605.17248) |
+| 2026-05-19 | **Video Reconstruction using Diffusion-based Image-to-Video Generation with Trajectory Guidance** [📄 arXiv](https://arxiv.org/abs/2605.16420) |
 | 2026-05-13 | **Improving Human Image Animation via Semantic Representation Alignment** [📄 arXiv](https://arxiv.org/abs/2605.10523) |
 | 2026-05-12 | **Implicit Preference Alignment for Human Image Animation** [📄 arXiv](https://arxiv.org/abs/2605.07545) [💻 Code ⭐ 2](https://github.com/mdswyz/IPA) |
 | 2026-05-08 | **SwiftI2V: Efficient High-Resolution Image-to-Video Generation via Conditional Segment-wise Generation** [📄 arXiv](https://arxiv.org/abs/2605.06356) |
@@ -86,6 +89,7 @@ Last updated: 2026-05-18
 <!-- SECTION:video_editing -->
 | Date | Paper |
 |------|-------|
+| 2026-05-19 | **Aurora: Unified Video Editing with a Tool-Using Agent** [📄 arXiv](https://arxiv.org/abs/2605.18748) [🌐 Homepage](https://yeates.github.io/Aurora-Page) [💻 Code ⭐ 0](https://github.com/yeates/Aurora) |
 | 2026-05-18 | **Tuning-free Instruction-based Video Editing Via Structural Noise Initialization and Guidance** [📄 arXiv](https://arxiv.org/abs/2605.15533) |
 | 2026-05-18 | **Sound Sparks Motion: Audio and Text Tuning for Video Editing** [📄 arXiv](https://arxiv.org/abs/2605.15307) [🌐 Homepage](https://amirhossein-razlighi.github.io/Sound_Sparks_Motion/) [💻 Code](https://github.com/amirhossein-razlighi/Sound_Sparks_Motion) |
 | 2026-05-01 | **YOSE: You Only Select Essential Tokens for Efficient DiT-based Video Object Removal** [📄 arXiv](https://arxiv.org/abs/2604.27322) [💻 Code ⭐ 7](https://github.com/Wucy0519/YOSE-CVPR26) |
@@ -148,6 +152,8 @@ Last updated: 2026-05-18
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-05-19 | **Soap2Soap: Long Cinematic Video Remaking via Multi-Agent Collaboration** [📄 arXiv](https://arxiv.org/abs/2605.17423) |
+| 2026-05-19 | **AtlasVid: Efficient Ultra-High-Resolution Long Video Generation via Decoupled Global-Local Modeling** [📄 arXiv](https://arxiv.org/abs/2605.16649) |
 | 2026-05-18 | **Echo-Forcing: A Scene Memory Framework for Interactive Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.16003) [💻 Code ⭐ 4](https://github.com/mingqiangWu/Echo-Forcing) |
 | 2026-05-15 | **EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.15199) [🌐 Homepage](https://catherine-r-he.github.io/EntityBench/) [💻 Code ⭐ 2](https://github.com/Catherine-R-He/EntityBench/) |
 | 2026-05-14 | **Pyramid Forcing: Head-Aware Pyramid KV Cache Policy for High-Quality Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.13111) [🌐 Homepage](https://if-lab-pku.github.io/Pyramid-Forcing/) |
@@ -226,6 +232,7 @@ Last updated: 2026-05-18
 <!-- SECTION:camera_control -->
 | Date | Paper |
 |------|-------|
+| 2026-05-19 | **DEVIS-GRPO: Unleashing GRPO on Dynamic Extreme View Synthesis** [📄 arXiv](https://arxiv.org/abs/2605.16937) |
 | 2026-05-12 | **Differentiable Ray Tracing with Gaussians for Unified Radio Propagation Simulation and View Synthesis** [📄 arXiv](https://arxiv.org/abs/2605.07781) |
 | 2026-05-12 | **SplatWeaver: Learning to Allocate Gaussian Primitives for Generalizable Novel View Synthesis** [📄 arXiv](https://arxiv.org/abs/2605.07287) |
 | 2026-05-12 | **TriDE: Triangle-Consistent Translation Directions for Global Camera Pose Estimation** [📄 arXiv](https://arxiv.org/abs/2605.06889) |
@@ -252,6 +259,8 @@ Last updated: 2026-05-18
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-05-19 | **Xiaomi EV World Model: A Joint World Model Integrating Reconstruction and Generation for Autonomous Driving** [📄 arXiv](https://arxiv.org/abs/2605.18137) |
+| 2026-05-19 | **SWoMo: Neuro-Symbolic World Model for Cataract Surgery Simulation** [📄 arXiv](https://arxiv.org/abs/2605.16530) [🌐 Homepage](https://ssharvienkumar.github.io/SWoMo/) [💻 Code ⭐ 1](https://github.com/MECLabTUDA/SWoMo) |
 | 2026-05-18 | **DiLA: Disentangled Latent Action World Models** [📄 arXiv](https://arxiv.org/abs/2605.15725) [🌐 Homepage](http://disentangled-latent-action-world-models.github.io) |
 | 2026-05-18 | **ChronoEarth-492K: A Large Scale and Long Horizon Spatiotemporal Hyperspectral Earth Observation Dataset and Benchmark** [📄 arXiv](https://arxiv.org/abs/2605.15666) |
 | 2026-05-18 | **EgoExo-WM: Unlocking Exo Video for Ego World Models** [📄 arXiv](https://arxiv.org/abs/2605.15477) |
@@ -329,6 +338,7 @@ Last updated: 2026-05-18
 <!-- SECTION:audio_visual -->
 | Date | Paper |
 |------|-------|
+| 2026-05-19 | **Omni-Customizer: End-to-End MultiModal Customization for Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.17488) |
 | 2026-05-13 | **OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.12480) [🌐 Homepage](https://zghhui.github.io/OmniNFT/) [💻 Code ⭐ 3](https://github.com/zghhui/OmniNFT) |
 | 2026-05-13 | **AllocMV: Optimal Resource Allocation for Music Video Generation via Structured Persistent State** [📄 arXiv](https://arxiv.org/abs/2605.10723) |
 | 2026-05-13 | **Unison: Harmonizing Motion, Speech, and Sound for Human-Centric Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.08729) |
@@ -466,6 +476,7 @@ Last updated: 2026-05-18
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-05-19 | **Attend Locally, Remember Linearly: Linear Attention as Cross-Frame Memory for Autoregressive Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2605.16579) |
 | 2026-05-18 | **Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization** [📄 arXiv](https://arxiv.org/abs/2605.15980) |
 | 2026-05-15 | **HASTE: Training-Free Video Diffusion Acceleration via Head-Wise Adaptive Sparse Attention** [📄 arXiv](https://arxiv.org/abs/2605.14513) |
 | 2026-05-15 | **CreFlow: Corrective Reflow for Sparse-Reward Embodied Video Diffusion RL** [📄 arXiv](https://arxiv.org/abs/2605.14274) |
