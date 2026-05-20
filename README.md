@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-05-19
+Last updated: 2026-05-20
 
 ## 📑 Table of Contents
 
@@ -63,6 +63,7 @@ Last updated: 2026-05-19
 <!-- SECTION:image_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-05-20 | **Rebalancing Reference Frame Dominance to Improve Motion in Image-to-Video Models** [📄 arXiv](https://arxiv.org/abs/2605.19398) |
 | 2026-05-19 | **Image-to-Video Diffusion: From Foundations to Open Frontiers** [📄 arXiv](https://arxiv.org/abs/2605.17248) |
 | 2026-05-19 | **Video Reconstruction using Diffusion-based Image-to-Video Generation with Trajectory Guidance** [📄 arXiv](https://arxiv.org/abs/2605.16420) |
 | 2026-05-13 | **Improving Human Image Animation via Semantic Representation Alignment** [📄 arXiv](https://arxiv.org/abs/2605.10523) |
@@ -152,6 +153,9 @@ Last updated: 2026-05-19
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-05-20 | **LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.18739) [💻 Code ⭐ 1.3k](https://github.com/NVlabs/LongLive) |
+| 2026-05-20 | **Advancing Narrative Long Video Generation via Training-Free Identity-Aware Memory** [📄 arXiv](https://arxiv.org/abs/2605.18733) [🌐 Homepage](https://eddie0521.github.io/projects/iamflow/) [💻 Code ⭐ 10](https://github.com/Eddie0521/IAMFlow) |
+| 2026-05-20 | **Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos** [📄 arXiv](https://arxiv.org/abs/2605.18233) [🌐 Homepage](https://xiaokunfeng.github.io/miga_homepage/) |
 | 2026-05-19 | **Soap2Soap: Long Cinematic Video Remaking via Multi-Agent Collaboration** [📄 arXiv](https://arxiv.org/abs/2605.17423) |
 | 2026-05-19 | **AtlasVid: Efficient Ultra-High-Resolution Long Video Generation via Decoupled Global-Local Modeling** [📄 arXiv](https://arxiv.org/abs/2605.16649) |
 | 2026-05-18 | **Echo-Forcing: A Scene Memory Framework for Interactive Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.16003) [💻 Code ⭐ 4](https://github.com/mingqiangWu/Echo-Forcing) |
@@ -194,6 +198,7 @@ Last updated: 2026-05-19
 <!-- SECTION:controllable_video -->
 | Date | Paper |
 |------|-------|
+| 2026-05-20 | **CogOmniControl: Reasoning-Driven Controllable Video Generation via Creative Intent Cognition** [📄 arXiv](https://arxiv.org/abs/2605.19995) [🌐 Homepage](https://um-lab.github.io/CogOmniControl/) |
 | 2026-05-18 | **FashionChameleon: Towards Real-Time and Interactive Human-Garment Video Customization** [📄 arXiv](https://arxiv.org/abs/2605.15824) [🌐 Homepage](https://quanjiansong.github.io/projects/FashionChameleon/) [💻 Code ⭐ 2](https://github.com/quanjiansong/FashionChameleon) |
 | 2026-05-15 | **Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video** [📄 arXiv](https://arxiv.org/abs/2605.15182) [🌐 Homepage](https://yyfz.github.io/warp-as-history/) [💻 Code ⭐ 13](https://github.com/yyfz/Warp-as-History) |
 | 2026-05-15 | **Probing into Camera Control of Video Models** [📄 arXiv](https://arxiv.org/abs/2605.14815) |
@@ -259,6 +264,8 @@ Last updated: 2026-05-19
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-05-20 | **SWEET: Sparse World Modeling with Image Editing for Embodied Task Execution** [📄 arXiv](https://arxiv.org/abs/2605.19319) |
+| 2026-05-20 | **PhyWorld: Physics-Faithful World Model for Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.19242) |
 | 2026-05-19 | **Xiaomi EV World Model: A Joint World Model Integrating Reconstruction and Generation for Autonomous Driving** [📄 arXiv](https://arxiv.org/abs/2605.18137) |
 | 2026-05-19 | **SWoMo: Neuro-Symbolic World Model for Cataract Surgery Simulation** [📄 arXiv](https://arxiv.org/abs/2605.16530) [🌐 Homepage](https://ssharvienkumar.github.io/SWoMo/) [💻 Code ⭐ 1](https://github.com/MECLabTUDA/SWoMo) |
 | 2026-05-18 | **DiLA: Disentangled Latent Action World Models** [📄 arXiv](https://arxiv.org/abs/2605.15725) [🌐 Homepage](http://disentangled-latent-action-world-models.github.io) |
@@ -338,6 +345,7 @@ Last updated: 2026-05-19
 <!-- SECTION:audio_visual -->
 | Date | Paper |
 |------|-------|
+| 2026-05-20 | **MSAVBench: Towards Comprehensive and Reliable Evaluation of Multi-Shot Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.20183) |
 | 2026-05-19 | **Omni-Customizer: End-to-End MultiModal Customization for Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.17488) |
 | 2026-05-13 | **OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.12480) [🌐 Homepage](https://zghhui.github.io/OmniNFT/) [💻 Code ⭐ 3](https://github.com/zghhui/OmniNFT) |
 | 2026-05-13 | **AllocMV: Optimal Resource Allocation for Music Video Generation via Structured Persistent State** [📄 arXiv](https://arxiv.org/abs/2605.10723) |
@@ -476,6 +484,7 @@ Last updated: 2026-05-19
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-05-20 | **Focused Forcing: Content-Aware Per-Frame KV Selection for Efficient Autoregressive Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2605.18346) |
 | 2026-05-19 | **Attend Locally, Remember Linearly: Linear Attention as Cross-Frame Memory for Autoregressive Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2605.16579) |
 | 2026-05-18 | **Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization** [📄 arXiv](https://arxiv.org/abs/2605.15980) |
 | 2026-05-15 | **HASTE: Training-Free Video Diffusion Acceleration via Head-Wise Adaptive Sparse Attention** [📄 arXiv](https://arxiv.org/abs/2605.14513) |
