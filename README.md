@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-05-20
+Last updated: 2026-05-21
 
 ## 📑 Table of Contents
 
@@ -90,6 +90,9 @@ Last updated: 2026-05-20
 <!-- SECTION:video_editing -->
 | Date | Paper |
 |------|-------|
+| 2026-05-21 | **StreamGVE: Training-Free Video Editing via Few-Step Streaming Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.21466) [🌐 Homepage](https://dsl-lab.github.io/StreamGVE/) [💻 Code ⭐ 3](https://github.com/DSL-Lab/StreamGVE/) |
+| 2026-05-21 | **What Semantics Survive the Connector? Diagnosing VLM-to-DiT Alignment in Video Editing** [📄 arXiv](https://arxiv.org/abs/2605.20795) |
+| 2026-05-21 | **Preserve, Reveal, Expand: Faithful 4D Video Editing with Region-Aware Conditioning** [📄 arXiv](https://arxiv.org/abs/2605.20961) [🌐 Homepage](https://ricepastem.github.io/PREX-Open) |
 | 2026-05-19 | **Aurora: Unified Video Editing with a Tool-Using Agent** [📄 arXiv](https://arxiv.org/abs/2605.18748) [🌐 Homepage](https://yeates.github.io/Aurora-Page) [💻 Code ⭐ 0](https://github.com/yeates/Aurora) |
 | 2026-05-18 | **Tuning-free Instruction-based Video Editing Via Structural Noise Initialization and Guidance** [📄 arXiv](https://arxiv.org/abs/2605.15533) |
 | 2026-05-18 | **Sound Sparks Motion: Audio and Text Tuning for Video Editing** [📄 arXiv](https://arxiv.org/abs/2605.15307) [🌐 Homepage](https://amirhossein-razlighi.github.io/Sound_Sparks_Motion/) [💻 Code](https://github.com/amirhossein-razlighi/Sound_Sparks_Motion) |
@@ -113,6 +116,7 @@ Last updated: 2026-05-20
 <!-- SECTION:video_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-05-21 | **Goodbye Drift: Anchored Tree Sampling for Long-Horizon Video-to-Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.20476) |
 | 2026-05-14 | **DiffST: Spatiotemporal-Aware Diffusion for Real-World Space-Time Video Super-Resolution** [📄 arXiv](https://arxiv.org/abs/2605.13182) [💻 Code](https://github.com/zhengchen1999/DiffST) |
 | 2026-05-05 | **GameScope: A Multi-Attribute, Multi-Codec Benchmark Dataset for Gaming Video Quality Assessment** [📄 arXiv](https://arxiv.org/abs/2605.01272) [🌐 Homepage](https://rajeshsureddi.github.io/GameScope/) [💻 Code ⭐ 0](https://github.com/rajeshsureddi/GameScope) |
 | 2026-03-27 | **VideoWeaver: Multimodal Multi-View Video-to-Video Transfer for Embodied Agents** [📄 arXiv](https://arxiv.org/abs/2603.25420) |
@@ -153,6 +157,8 @@ Last updated: 2026-05-20
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-05-21 | **DySink: Dynamic Frame Sinks for Autoregressive Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.21028) [💻 Code ⭐ 1](https://github.com/yebo0216best/DySink) |
+| 2026-05-21 | **FlowLong: Inference-time Long Video Generation via Manifold-constrained Tweedie Matching** [📄 arXiv](https://arxiv.org/abs/2605.20910) [🌐 Homepage](https://flowlong-video.github.io/) |
 | 2026-05-20 | **LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.18739) [💻 Code ⭐ 1.3k](https://github.com/NVlabs/LongLive) |
 | 2026-05-20 | **Advancing Narrative Long Video Generation via Training-Free Identity-Aware Memory** [📄 arXiv](https://arxiv.org/abs/2605.18733) [🌐 Homepage](https://eddie0521.github.io/projects/iamflow/) [💻 Code ⭐ 10](https://github.com/Eddie0521/IAMFlow) |
 | 2026-05-20 | **Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos** [📄 arXiv](https://arxiv.org/abs/2605.18233) [🌐 Homepage](https://xiaokunfeng.github.io/miga_homepage/) |
@@ -484,6 +490,7 @@ Last updated: 2026-05-20
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-05-21 | **Q-ARVD: Quantizing Autoregressive Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2605.21072) [💻 Code ⭐ 5](https://github.com/tsa18/Q-ARVD) |
 | 2026-05-20 | **Focused Forcing: Content-Aware Per-Frame KV Selection for Efficient Autoregressive Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2605.18346) |
 | 2026-05-19 | **Attend Locally, Remember Linearly: Linear Attention as Cross-Frame Memory for Autoregressive Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2605.16579) |
 | 2026-05-18 | **Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization** [📄 arXiv](https://arxiv.org/abs/2605.15980) |
@@ -617,6 +624,7 @@ Last updated: 2026-05-20
 <!-- SECTION:multi_subject -->
 | Date | Paper |
 |------|-------|
+| 2026-05-21 | **TelePhysics: Physics-Grounded Multi-Object Scene Generation from a Single Image with Real-Time Interaction** [📄 arXiv](https://arxiv.org/abs/2605.20290) [💻 Code ⭐ 5](https://github.com/xinzhang007/TelePhysics) |
 | 2026-05-08 | **DCR: Counterfactual Attractor Guidance for Rare Compositional Generation** [📄 arXiv](https://arxiv.org/abs/2605.06512) |
 | 2026-05-05 | **ViewSAM: Learning View-aware Cross-modal Semantics for Weakly Supervised Cross-view Referring Multi-Object Tracking** [📄 arXiv](https://arxiv.org/abs/2605.02638) |
 | 2026-05-05 | **SwiftPie: Lightning-fast Subject-driven Image Personalization via One step Diffusion** [📄 arXiv](https://arxiv.org/abs/2605.01510) |
