@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-05-21
+Last updated: 2026-05-25
 
 ## 📑 Table of Contents
 
@@ -90,6 +90,7 @@ Last updated: 2026-05-21
 <!-- SECTION:video_editing -->
 | Date | Paper |
 |------|-------|
+| 2026-05-25 | **Occlusion-Aware Physics-Semantic Keyframe Selection for Robust Video Editing** [📄 arXiv](https://arxiv.org/abs/2605.23192) |
 | 2026-05-21 | **StreamGVE: Training-Free Video Editing via Few-Step Streaming Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.21466) [🌐 Homepage](https://dsl-lab.github.io/StreamGVE/) [💻 Code ⭐ 3](https://github.com/DSL-Lab/StreamGVE/) |
 | 2026-05-21 | **What Semantics Survive the Connector? Diagnosing VLM-to-DiT Alignment in Video Editing** [📄 arXiv](https://arxiv.org/abs/2605.20795) |
 | 2026-05-21 | **Preserve, Reveal, Expand: Faithful 4D Video Editing with Region-Aware Conditioning** [📄 arXiv](https://arxiv.org/abs/2605.20961) [🌐 Homepage](https://ricepastem.github.io/PREX-Open) |
@@ -157,6 +158,8 @@ Last updated: 2026-05-21
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-05-25 | **EM-Vid: Training-Free Entity-Centric Memory for Efficient and Consistent Multi-Shot Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.23610) |
+| 2026-05-25 | **EvalVerse: Pipeline-Aware and Expert-Calibrated Benchmarking for Professional Cinematic Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.23271) |
 | 2026-05-21 | **DySink: Dynamic Frame Sinks for Autoregressive Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.21028) [💻 Code ⭐ 1](https://github.com/yebo0216best/DySink) |
 | 2026-05-21 | **FlowLong: Inference-time Long Video Generation via Manifold-constrained Tweedie Matching** [📄 arXiv](https://arxiv.org/abs/2605.20910) [🌐 Homepage](https://flowlong-video.github.io/) |
 | 2026-05-20 | **LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.18739) [💻 Code ⭐ 1.3k](https://github.com/NVlabs/LongLive) |
@@ -270,6 +273,9 @@ Last updated: 2026-05-21
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-05-25 | **SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models** [📄 arXiv](https://arxiv.org/abs/2605.23345) [🌐 Homepage](https://z2tong.github.io/SCOPE/) [💻 Code ⭐ 5](https://github.com/z2tong/SCOPE) |
+| 2026-05-25 | **DRIVESPATIAL: A Benchmark for Spatiotemporal Intelligence in VLMs for Autonomous Driving** [📄 arXiv](https://arxiv.org/abs/2605.23176) |
+| 2026-05-25 | **GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation** [📄 arXiv](https://arxiv.org/abs/2605.22882) [🌐 Homepage](https://anonymous-submission-20.github.io/gem.github.io/) |
 | 2026-05-20 | **SWEET: Sparse World Modeling with Image Editing for Embodied Task Execution** [📄 arXiv](https://arxiv.org/abs/2605.19319) |
 | 2026-05-20 | **PhyWorld: Physics-Faithful World Model for Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.19242) |
 | 2026-05-19 | **Xiaomi EV World Model: A Joint World Model Integrating Reconstruction and Generation for Autonomous Driving** [📄 arXiv](https://arxiv.org/abs/2605.18137) |
@@ -446,6 +452,7 @@ Last updated: 2026-05-21
 <!-- SECTION:digital_human_3d -->
 | Date | Paper |
 |------|-------|
+| 2026-05-25 | **Generator-Refiner-Examiner: A Tri-Module Data Augmentation Framework for 3D Human Avatar Learning from Monocular Videos** [📄 arXiv](https://arxiv.org/abs/2605.23555) |
 | 2026-05-15 | **PhyMotion: Structured 3D Motion Reward for Physics-Grounded Human Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.14269) [🌐 Homepage](https://phy-motion.github.io/) [💻 Code ⭐ 2](https://github.com/h6kplus/PhyMotion) |
 | 2026-05-13 | **SDTalk: Structured Facial Priors and Dual-Branch Motion Fields for Generalizable Gaussian Talking Head Synthesis** [📄 arXiv](https://arxiv.org/abs/2605.09956) |
 | 2026-05-11 | **MoCoTalk: Multi-Conditional Diffusion with Adaptive Router for Controllable Talking Head Generation** [📄 arXiv](https://arxiv.org/abs/2605.08050) |
@@ -565,6 +572,7 @@ Last updated: 2026-05-21
 <!-- SECTION:video_autoregressive -->
 | Date | Paper |
 |------|-------|
+| 2026-05-25 | **One-Forcing: Towards Stable One-Step Autoregressive Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.23458) [🌐 Homepage](https://aurora-edu.github.io/one-forcing/) [💻 Code ⭐ 3](https://github.com/Aurora-edu/One-Forcing) |
 | 2026-05-18 | **WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation** [📄 arXiv](https://arxiv.org/abs/2605.15964) [🌐 Homepage](https://embodiedcity.github.io/WorldVLN/) [💻 Code](https://github.com/EmbodiedCity/WorldVLN.code) |
 | 2026-05-15 | **Head Forcing: Long Autoregressive Video Generation via Head Heterogeneity** [📄 arXiv](https://arxiv.org/abs/2605.14487) [🌐 Homepage](https://jiahaotian-sjtu.github.io/headforcing.github.io/) [💻 Code ⭐ 4.9k](https://github.com/eliahuhorwitz/Academic-project-page-template) |
 | 2026-05-15 | **Delta Forcing: Trust Region Steering for Interactive Autoregressive Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.14382) |
@@ -643,6 +651,7 @@ Last updated: 2026-05-21
 <!-- SECTION:story_visualization -->
 | Date | Paper |
 |------|-------|
+| 2026-05-25 | **DrawVideo: Generating Long Video from Storyboard Keyframe Sketches** [📄 arXiv](https://arxiv.org/abs/2605.23508) |
 | 2026-04-21 | **DreamShot: Personalized Storyboard Synthesis with Video Diffusion Prior** [📄 arXiv](https://arxiv.org/abs/2604.17195) |
 | 2026-03-31 | **LogiStory: A Logic-Aware Framework for Multi-Image Story Visualization** [📄 arXiv](https://arxiv.org/abs/2603.28082) |
 <!-- END_SECTION -->
