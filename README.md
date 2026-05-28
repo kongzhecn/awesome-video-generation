@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-05-27
+Last updated: 2026-05-28
 
 ## 📑 Table of Contents
 
@@ -277,6 +277,7 @@ Last updated: 2026-05-27
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-05-28 | **Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players** [📄 arXiv](https://arxiv.org/abs/2605.28816) [🌐 Homepage](https://research.nvidia.com/labs/sil/projects/gamma-world) [💻 Code ⭐ 31](https://github.com/nv-tlabs/Gamma-World) |
 | 2026-05-26 | **WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation** [📄 arXiv](https://arxiv.org/abs/2605.25874) [🌐 Homepage](https://meituan-longcat.github.io/WBench/) [💻 Code ⭐ 13](https://github.com/meituan-longcat/WBench) |
 | 2026-05-26 | **WorldCraft: From Camera Navigation to Object Manipulation in Interactive Video World Models** [📄 arXiv](https://arxiv.org/abs/2605.25077) [🌐 Homepage](https://nevsdev.github.io/WorldCraft/) |
 | 2026-05-26 | **X-Foresight: A Joint Vision-Action Causal Forecasting Network via Predictive World Modeling** [📄 arXiv](https://arxiv.org/abs/2605.24892) |
