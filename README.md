@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-05-29
+Last updated: 2026-06-01
 
 ## 📑 Table of Contents
 
@@ -91,6 +91,7 @@ Last updated: 2026-05-29
 <!-- SECTION:video_editing -->
 | Date | Paper |
 |------|-------|
+| 2026-06-01 | **SANA-Streaming: Real-time Streaming Video Editing with Hybrid Diffusion Transformer** [📄 arXiv](https://arxiv.org/abs/2605.30409) |
 | 2026-05-29 | **GenEraser: Generalizable Video Object Removal via Balanced Text-Mask Guidance and Decoupled Locator-Preserver** [📄 arXiv](https://arxiv.org/abs/2605.30045) [🌐 Homepage](https://cyqii.github.io/GenEraser.github.io/) |
 | 2026-05-26 | **Reasoning to Align: Implicit Reasoning in Diffusion Transformers for Video Editing** [📄 arXiv](https://arxiv.org/abs/2605.24674) |
 | 2026-05-25 | **Occlusion-Aware Physics-Semantic Keyframe Selection for Robust Video Editing** [📄 arXiv](https://arxiv.org/abs/2605.23192) |
@@ -120,6 +121,7 @@ Last updated: 2026-05-29
 <!-- SECTION:video_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-06-01 | **DTG-Restore: Training-Free Diffusion Refinement for Generative Video Super-Resolution** [📄 arXiv](https://arxiv.org/abs/2605.30431) |
 | 2026-05-26 | **How Accurate are Video Quality Models for Diffusion-Based Video Super-Resolution?** [📄 arXiv](https://arxiv.org/abs/2605.25940) [💻 Code ⭐ 0](https://github.com/Telecommunication-Telemedia-Assessment/AVT-VQDB-UHD-1-VSR) |
 | 2026-05-21 | **Goodbye Drift: Anchored Tree Sampling for Long-Horizon Video-to-Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.20476) |
 | 2026-05-14 | **DiffST: Spatiotemporal-Aware Diffusion for Real-World Space-Time Video Super-Resolution** [📄 arXiv](https://arxiv.org/abs/2605.13182) [💻 Code](https://github.com/zhengchen1999/DiffST) |
@@ -163,6 +165,9 @@ Last updated: 2026-05-29
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-06-01 | **Linear Scaling Video VLMs for Long Video Understanding** [📄 arXiv](https://arxiv.org/abs/2605.31598) |
+| 2026-06-01 | **LVSA: Training-Free Sparse Attention for Long Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2605.31057) [💻 Code ⭐ 2](https://github.com/JiusiServe/LongVideoSparseAttention) |
+| 2026-06-01 | **OmniMem: Scalable and Adaptive Memory Retrieval for Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.30519) [🌐 Homepage](https://wuyushuwys.github.io/OmniMem/) |
 | 2026-05-29 | **SGMD: Score Gradient Matching Distillation for Few-Step Video Diffusion Distillation** [📄 arXiv](https://arxiv.org/abs/2605.30116) [💻 Code ⭐ 2.3k](https://github.com/ModelTC/LightX2V) |
 | 2026-05-29 | **DirectorBench: Diagnosing Long-Form Video Generation with Personalized Multi-Agent Evaluation** [📄 arXiv](https://arxiv.org/abs/2605.30090) |
 | 2026-05-25 | **EM-Vid: Training-Free Entity-Centric Memory for Efficient and Consistent Multi-Shot Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.23610) |
@@ -214,6 +219,7 @@ Last updated: 2026-05-29
 <!-- SECTION:controllable_video -->
 | Date | Paper |
 |------|-------|
+| 2026-06-01 | **CameraNoise: Enabling Faithful Camera Control in Video Diffusion through Geometry-Flow-Guided Noise Warping** [📄 arXiv](https://arxiv.org/abs/2605.30774) [🌐 Homepage](https://gulucaptain.github.io/CameraNoise/) [💻 Code ⭐ 0](https://github.com/gulucaptain/CameraNoise) |
 | 2026-05-29 | **Towards Consistent Video Geometry Estimation** [📄 arXiv](https://arxiv.org/abs/2605.30060) [🌐 Homepage](https://pkqbajng.github.io/ViGeo/) [💻 Code ⭐ 6](https://github.com/aigc3d/ViGeo) |
 | 2026-05-20 | **CogOmniControl: Reasoning-Driven Controllable Video Generation via Creative Intent Cognition** [📄 arXiv](https://arxiv.org/abs/2605.19995) [🌐 Homepage](https://um-lab.github.io/CogOmniControl/) |
 | 2026-05-18 | **FashionChameleon: Towards Real-Time and Interactive Human-Garment Video Customization** [📄 arXiv](https://arxiv.org/abs/2605.15824) [🌐 Homepage](https://quanjiansong.github.io/projects/FashionChameleon/) [💻 Code ⭐ 2](https://github.com/quanjiansong/FashionChameleon) |
@@ -254,6 +260,9 @@ Last updated: 2026-05-29
 <!-- SECTION:camera_control -->
 | Date | Paper |
 |------|-------|
+| 2026-06-01 | **RayDer: Scalable Self-Supervised Novel View Synthesis from Real-World Video** [📄 arXiv](https://arxiv.org/abs/2605.31535) [🌐 Homepage](https://compvis.github.io/rayder) |
+| 2026-06-01 | **QVGGT: Post-Training Quantized Visual Geometry Grounded Transformer** [📄 arXiv](https://arxiv.org/abs/2605.31124) [🌐 Homepage](https://ddsacu.github.io/QVGGT/) [💻 Code ⭐ 0](https://github.com/DDsacu/QVGGT) |
+| 2026-06-01 | **3DAE: Binaural Quality Assessment for Audio Novel View Synthesis with Spatial Maps and Benchmark** [📄 arXiv](https://arxiv.org/abs/2605.30469) |
 | 2026-05-29 | **DVSM: Decoder-only View Synthesis Model Done Right** [📄 arXiv](https://arxiv.org/abs/2605.29891) [💻 Code](https://github.com/NVLabs/dvsm) |
 | 2026-05-19 | **DEVIS-GRPO: Unleashing GRPO on Dynamic Extreme View Synthesis** [📄 arXiv](https://arxiv.org/abs/2605.16937) |
 | 2026-05-12 | **Differentiable Ray Tracing with Gaussians for Unified Radio Propagation Simulation and View Synthesis** [📄 arXiv](https://arxiv.org/abs/2605.07781) |
@@ -282,6 +291,7 @@ Last updated: 2026-05-29
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-06-01 | **Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models** [📄 arXiv](https://arxiv.org/abs/2605.31158) [🌐 Homepage](https://2843721358l-del.github.io/Light-Interaction-Project/) |
 | 2026-05-29 | **YoCausal: How Far is Video Generation from World Model? A Causality Perspective** [📄 arXiv](https://arxiv.org/abs/2605.30346) |
 | 2026-05-29 | **PhyGenHOI: Physically-Aware 4D Generation of Dynamic Human-Object Interactions** [📄 arXiv](https://arxiv.org/abs/2605.30268) [🌐 Homepage](https://omerbenishu.github.io/PhyGenHOI/) |
 | 2026-05-29 | **minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models** [📄 arXiv](https://arxiv.org/abs/2605.30263) [💻 Code ⭐ 185](https://github.com/shengshu-ai/minWM) |
@@ -402,6 +412,7 @@ Last updated: 2026-05-29
 <!-- SECTION:digital_human_diffusion -->
 | Date | Paper |
 |------|-------|
+| 2026-06-01 | **Recognizing Co-Speech Gestures in-the-Wild** [📄 arXiv](https://arxiv.org/abs/2605.31589) |
 | 2026-05-29 | **Archon: A Unified Multimodal Model for Holistic Digital Human Generation** [📄 arXiv](https://arxiv.org/abs/2605.30311) [🌐 Homepage](https://zju3dv.github.io/archon/) [💻 Code ⭐ 1](https://github.com/chobao/Archon) |
 | 2026-05-29 | **IP-Adapter Is All You Need: Towards Fine-Tuning-Free Diffusion-Based Talking Face Generation** [📄 arXiv](https://arxiv.org/abs/2605.30230) |
 | 2026-05-29 | **SalsaAgent: A multimodal embodied language model for interactive dance generation** [📄 arXiv](https://arxiv.org/abs/2605.29219) |
@@ -672,6 +683,7 @@ Last updated: 2026-05-29
 <!-- SECTION:multi_subject -->
 | Date | Paper |
 |------|-------|
+| 2026-06-01 | **Benchmarking Single-Step Inpainting Methods for Multi-Object 3D Gaussian Splatting Scenes** [📄 arXiv](https://arxiv.org/abs/2605.30987) |
 | 2026-05-29 | **SAM3D-Phys: Towards Multi-Object Interactive Simulation in Real World** [📄 arXiv](https://arxiv.org/abs/2605.30239) [🌐 Homepage](https://chnxindong.github.io/sam3d-phys/) [💻 Code ⭐ 1](https://github.com/CHNxindong/SAM3D-Phys_code) |
 | 2026-05-29 | **S2MDF: A Plug-And-Play Layer for Intersection-Free Multi-Object Signed Distance Fields** [📄 arXiv](https://arxiv.org/abs/2605.29761) |
 | 2026-05-26 | **Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation** [📄 arXiv](https://arxiv.org/abs/2605.26111) [🌐 Homepage](https://zsh2000.github.io/squeeze-mllm-subject-gen/) [💻 Code](https://github.com/good-token-hunting/gotohunt) |
