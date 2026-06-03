@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-06-02
+Last updated: 2026-06-03
 
 ## 📑 Table of Contents
 
@@ -38,6 +38,7 @@ Last updated: 2026-06-02
 <!-- SECTION:text_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-06-03 | **Boundary-Protection W8A8 HiFloat8 Quantization for Large-Scale Text-to-Video Diffusion Transformers** [📄 arXiv](https://arxiv.org/abs/2606.00957) |
 | 2026-05-26 | **Where Concept Erasure Should Occur: Concept-Layer Alignment in Text-to-Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2605.25941) |
 | 2026-05-19 | **MAVEN A Multi-Agent Framework for Multicultural Text-to-Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.16716) [💻 Code](https://github.com/AIM-SCU/CRAFT) |
 | 2026-05-07 | **FaithfulFaces: Pose-Faithful Facial Identity Preservation for Text-to-Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.04702) |
@@ -64,6 +65,7 @@ Last updated: 2026-06-02
 <!-- SECTION:image_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-06-03 | **Timestep-Aware SVDQuant-GPTQ for W4A4 Quantization of Wan2.2-I2V** [📄 arXiv](https://arxiv.org/abs/2605.27003) |
 | 2026-05-20 | **Rebalancing Reference Frame Dominance to Improve Motion in Image-to-Video Models** [📄 arXiv](https://arxiv.org/abs/2605.19398) |
 | 2026-05-19 | **Image-to-Video Diffusion: From Foundations to Open Frontiers** [📄 arXiv](https://arxiv.org/abs/2605.17248) |
 | 2026-05-19 | **Video Reconstruction using Diffusion-based Image-to-Video Generation with Trajectory Guidance** [📄 arXiv](https://arxiv.org/abs/2605.16420) |
@@ -152,6 +154,7 @@ Last updated: 2026-06-02
 <!-- SECTION:video_interpolation -->
 | Date | Paper |
 |------|-------|
+| 2026-06-03 | **SKIP: Sparse Keyframe Interpolation Paradigm for Efficient Embodied World Models** [📄 arXiv](https://arxiv.org/abs/2606.00664) |
 | 2026-04-10 | **Stitch4D: Sparse Multi-Location 4D Urban Reconstruction via Spatio-Temporal Interpolation** [📄 arXiv](https://arxiv.org/abs/2604.07923) |
 | 2026-03-25 | **TETO: Tracking Events with Teacher Observation for Motion Estimation and Frame Interpolation** [📄 arXiv](https://arxiv.org/abs/2603.23487) |
 | 2026-03-24 | **FC-VFI: Faithful and Consistent Video Frame Interpolation for High-FPS Slow Motion Video Generation** [📄 arXiv](https://arxiv.org/abs/2603.04899) |
@@ -165,6 +168,7 @@ Last updated: 2026-06-02
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-06-03 | **LongLive-RAG: A General Retrieval-Augmented Framework for Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.02553) [💻 Code ⭐ 28](https://github.com/qixinhu11/LongLive-RAG) |
 | 2026-06-01 | **Linear Scaling Video VLMs for Long Video Understanding** [📄 arXiv](https://arxiv.org/abs/2605.31598) |
 | 2026-06-01 | **LVSA: Training-Free Sparse Attention for Long Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2605.31057) [💻 Code ⭐ 2](https://github.com/JiusiServe/LongVideoSparseAttention) |
 | 2026-06-01 | **OmniMem: Scalable and Adaptive Memory Retrieval for Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.30519) [🌐 Homepage](https://wuyushuwys.github.io/OmniMem/) |
@@ -260,6 +264,7 @@ Last updated: 2026-06-02
 <!-- SECTION:camera_control -->
 | Date | Paper |
 |------|-------|
+| 2026-06-03 | **Effective Multi-sensor Conditioning for Street-view Novel-view Synthesis** [📄 arXiv](https://arxiv.org/abs/2606.01590) [🌐 Homepage](https://streetnvs.github.io) |
 | 2026-06-01 | **RayDer: Scalable Self-Supervised Novel View Synthesis from Real-World Video** [📄 arXiv](https://arxiv.org/abs/2605.31535) [🌐 Homepage](https://compvis.github.io/rayder) |
 | 2026-06-01 | **QVGGT: Post-Training Quantized Visual Geometry Grounded Transformer** [📄 arXiv](https://arxiv.org/abs/2605.31124) [🌐 Homepage](https://ddsacu.github.io/QVGGT/) [💻 Code ⭐ 0](https://github.com/DDsacu/QVGGT) |
 | 2026-06-01 | **3DAE: Binaural Quality Assessment for Audio Novel View Synthesis with Spatial Maps and Benchmark** [📄 arXiv](https://arxiv.org/abs/2605.30469) |
@@ -291,6 +296,7 @@ Last updated: 2026-06-02
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-06-03 | **RoboDream: Compositional World Models for Scalable Robot Data Synthesis** [📄 arXiv](https://arxiv.org/abs/2606.02577) |
 | 2026-06-01 | **Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models** [📄 arXiv](https://arxiv.org/abs/2605.31158) [🌐 Homepage](https://2843721358l-del.github.io/Light-Interaction-Project/) |
 | 2026-05-29 | **YoCausal: How Far is Video Generation from World Model? A Causality Perspective** [📄 arXiv](https://arxiv.org/abs/2605.30346) |
 | 2026-05-29 | **PhyGenHOI: Physically-Aware 4D Generation of Dynamic Human-Object Interactions** [📄 arXiv](https://arxiv.org/abs/2605.30268) [🌐 Homepage](https://omerbenishu.github.io/PhyGenHOI/) |
@@ -412,6 +418,11 @@ Last updated: 2026-06-02
 <!-- SECTION:digital_human_diffusion -->
 | Date | Paper |
 |------|-------|
+| 2026-06-03 | **Mamba-Enhanced Implicit Motion Learning for Audio-Driven Portrait Animation** [📄 arXiv](https://arxiv.org/abs/2606.03402) |
+| 2026-06-03 | **Pixel Cube: Diffusion-based Portrait Video Relighting Through Realistic Lighting Reproduction** [📄 arXiv](https://arxiv.org/abs/2606.02919) [🌐 Homepage](https://yufanzhang82.github.io/PixelCube/) [💻 Code ⭐ 4.9k](https://github.com/eliahuhorwitz/Academic-project-page-template) |
+| 2026-06-03 | **Towards 3D-Aware Video Diffusion Models: Render-Free Human Motion Control with Mesh Tokenization** [📄 arXiv](https://arxiv.org/abs/2606.02000) [🌐 Homepage](https://jingyunliang.github.io/MeshToken/) |
+| 2026-06-03 | **Real-Time Generation of Streamable Talking Portrait Video with Reference-Guided Deep Compression VAEs** [📄 arXiv](https://arxiv.org/abs/2606.01620) |
+| 2026-06-03 | **Temporally-Aligned Evaluation for Audio-Driven Talking Head Generation** [📄 arXiv](https://arxiv.org/abs/2606.01031) |
 | 2026-06-01 | **Recognizing Co-Speech Gestures in-the-Wild** [📄 arXiv](https://arxiv.org/abs/2605.31589) |
 | 2026-05-29 | **Archon: A Unified Multimodal Model for Holistic Digital Human Generation** [📄 arXiv](https://arxiv.org/abs/2605.30311) [🌐 Homepage](https://zju3dv.github.io/archon/) [💻 Code ⭐ 1](https://github.com/chobao/Archon) |
 | 2026-05-29 | **IP-Adapter Is All You Need: Towards Fine-Tuning-Free Diffusion-Based Talking Face Generation** [📄 arXiv](https://arxiv.org/abs/2605.30230) |
@@ -539,6 +550,12 @@ Last updated: 2026-06-02
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-06-03 | **Video-Mirai: Autoregressive Video Diffusion Models Need Foresight** [📄 arXiv](https://arxiv.org/abs/2606.03971) [🌐 Homepage](https://y0uroy.github.io/Video-Mirai) [💻 Code ⭐ 1](https://github.com/y0urOy/Video-Mirai) |
+| 2026-06-03 | **Collaborative Few-Step Distillation and Low-Bit Quantization for Wan2.2 Dual-Expert Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2606.00658) |
+| 2026-06-03 | **Real2SAM2Real: Generative 3D Caches as Complementary Context for Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2606.00299) [🌐 Homepage](https://jiayi-wu-leo.github.io/real2sam2real) |
+| 2026-06-03 | **Quantized Keys Steal Attention: Bias Correction for KV-Cache Compression in Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2605.26266) |
+| 2026-06-03 | **Bernini: Latent Semantic Planning for Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2605.22344) [🌐 Homepage](https://bernini-ai.github.io/) [💻 Code ⭐ 181](https://github.com/bytedance/Bernini) |
+| 2026-06-03 | **ORBIS: Output-Guided Token Reduction with Distribution-Aware Matching for Video Diffusion Acceleration** [📄 arXiv](https://arxiv.org/abs/2605.22015) |
 | 2026-05-29 | **VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2605.30351) [🌐 Homepage](https://videomla.github.io/) |
 | 2026-05-29 | **Veda: Scalable Video Diffusion via Distilled Sparse Attention** [📄 arXiv](https://arxiv.org/abs/2605.30325) |
 | 2026-05-26 | **Pantheon360: Taming Digital Twin Generation via 3D-Aware 360° Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2605.25449) [🌐 Homepage](https://koi953215.github.io/pantheon360_page/) |
