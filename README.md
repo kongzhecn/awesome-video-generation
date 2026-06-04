@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-06-03
+Last updated: 2026-06-04
 
 ## 📑 Table of Contents
 
@@ -418,6 +418,7 @@ Last updated: 2026-06-03
 <!-- SECTION:digital_human_diffusion -->
 | Date | Paper |
 |------|-------|
+| 2026-06-04 | **NextMotionQA: Benchmarking and Judging Human Motion Understanding with Vision-Language Models** [📄 arXiv](https://arxiv.org/abs/2606.04773) |
 | 2026-06-03 | **Mamba-Enhanced Implicit Motion Learning for Audio-Driven Portrait Animation** [📄 arXiv](https://arxiv.org/abs/2606.03402) |
 | 2026-06-03 | **Pixel Cube: Diffusion-based Portrait Video Relighting Through Realistic Lighting Reproduction** [📄 arXiv](https://arxiv.org/abs/2606.02919) [🌐 Homepage](https://yufanzhang82.github.io/PixelCube/) [💻 Code ⭐ 4.9k](https://github.com/eliahuhorwitz/Academic-project-page-template) |
 | 2026-06-03 | **Towards 3D-Aware Video Diffusion Models: Render-Free Human Motion Control with Mesh Tokenization** [📄 arXiv](https://arxiv.org/abs/2606.02000) [🌐 Homepage](https://jingyunliang.github.io/MeshToken/) |
@@ -618,6 +619,7 @@ Last updated: 2026-06-03
 <!-- SECTION:video_tokenizer -->
 | Date | Paper |
 |------|-------|
+| 2026-06-04 | **Ultra-Fast Neural Video Compression** [📄 arXiv](https://arxiv.org/abs/2606.04410) [💻 Code ⭐ 756](https://github.com/microsoft/DCVC) |
 | 2026-05-05 | **Active Sampling for Ultra-Low-Bit-Rate Video Compression via Conditional Controlled Diffusion** [📄 arXiv](https://arxiv.org/abs/2605.02849) |
 | 2026-04-28 | **Latent Inter-Frame Pruning: A Training-Free Method Bridging Traditional Video Compression and Modern Diffusion Transformers for Efficient Generation** [📄 arXiv](https://arxiv.org/abs/2604.23858) |
 | 2026-04-15 | **VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization** [📄 arXiv](https://arxiv.org/abs/2604.12887) |
@@ -635,6 +637,7 @@ Last updated: 2026-06-03
 <!-- SECTION:video_autoregressive -->
 | Date | Paper |
 |------|-------|
+| 2026-06-04 | **DSA: Dynamic Step Allocation for Fast Autoregressive Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.04432) |
 | 2026-05-29 | **Future Forcing: Future-aware Training-free KV Cache Policy for Autoregressive Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.30083) |
 | 2026-05-26 | **On-Policy Adversarial Flow Distillation for Autoregressive Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.26105) |
 | 2026-05-25 | **One-Forcing: Towards Stable One-Step Autoregressive Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.23458) [🌐 Homepage](https://aurora-edu.github.io/one-forcing/) [💻 Code ⭐ 3](https://github.com/Aurora-edu/One-Forcing) |
