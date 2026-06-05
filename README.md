@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-06-04
+Last updated: 2026-06-05
 
 ## 📑 Table of Contents
 
@@ -123,6 +123,7 @@ Last updated: 2026-06-04
 <!-- SECTION:video_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-06-05 | **V2V-Bench: A Comprehensive Benchmark for Video-to-Video Generation Evaluation** [📄 arXiv](https://arxiv.org/abs/2606.05665) |
 | 2026-06-01 | **DTG-Restore: Training-Free Diffusion Refinement for Generative Video Super-Resolution** [📄 arXiv](https://arxiv.org/abs/2605.30431) |
 | 2026-05-26 | **How Accurate are Video Quality Models for Diffusion-Based Video Super-Resolution?** [📄 arXiv](https://arxiv.org/abs/2605.25940) [💻 Code ⭐ 0](https://github.com/Telecommunication-Telemedia-Assessment/AVT-VQDB-UHD-1-VSR) |
 | 2026-05-21 | **Goodbye Drift: Anchored Tree Sampling for Long-Horizon Video-to-Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.20476) |
@@ -264,6 +265,7 @@ Last updated: 2026-06-04
 <!-- SECTION:camera_control -->
 | Date | Paper |
 |------|-------|
+| 2026-06-05 | **CamFlow+: Hybrid Motion Bases for 2D Camera Motion Estimation with Stabilization Applications** [📄 arXiv](https://arxiv.org/abs/2606.05915) [🌐 Homepage](https://lhaippp.github.io/CamFlow+) |
 | 2026-06-03 | **Effective Multi-sensor Conditioning for Street-view Novel-view Synthesis** [📄 arXiv](https://arxiv.org/abs/2606.01590) [🌐 Homepage](https://streetnvs.github.io) |
 | 2026-06-01 | **RayDer: Scalable Self-Supervised Novel View Synthesis from Real-World Video** [📄 arXiv](https://arxiv.org/abs/2605.31535) [🌐 Homepage](https://compvis.github.io/rayder) |
 | 2026-06-01 | **QVGGT: Post-Training Quantized Visual Geometry Grounded Transformer** [📄 arXiv](https://arxiv.org/abs/2605.31124) [🌐 Homepage](https://ddsacu.github.io/QVGGT/) [💻 Code ⭐ 0](https://github.com/DDsacu/QVGGT) |
@@ -296,6 +298,8 @@ Last updated: 2026-06-04
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-06-05 | **Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators** [📄 arXiv](https://arxiv.org/abs/2606.06476) [🌐 Homepage](https://zcmax.github.io/projects/Thinking-With-Imagination) |
+| 2026-06-05 | **HDST-GNN: Heterogeneous Dynamic Spatiotemporal Graph Neural Networks for Multi-Object Tracking in UAV Aerial Imagery** [📄 arXiv](https://arxiv.org/abs/2606.05587) |
 | 2026-06-03 | **RoboDream: Compositional World Models for Scalable Robot Data Synthesis** [📄 arXiv](https://arxiv.org/abs/2606.02577) |
 | 2026-06-01 | **Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models** [📄 arXiv](https://arxiv.org/abs/2605.31158) [🌐 Homepage](https://2843721358l-del.github.io/Light-Interaction-Project/) |
 | 2026-05-29 | **YoCausal: How Far is Video Generation from World Model? A Causality Perspective** [📄 arXiv](https://arxiv.org/abs/2605.30346) |
@@ -551,6 +555,7 @@ Last updated: 2026-06-04
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-06-05 | **The Invisible Hand of Physics: When Video Diffusion Models Know More Than They Show** [📄 arXiv](https://arxiv.org/abs/2606.05328) |
 | 2026-06-03 | **Video-Mirai: Autoregressive Video Diffusion Models Need Foresight** [📄 arXiv](https://arxiv.org/abs/2606.03971) [🌐 Homepage](https://y0uroy.github.io/Video-Mirai) [💻 Code ⭐ 1](https://github.com/y0urOy/Video-Mirai) |
 | 2026-06-03 | **Collaborative Few-Step Distillation and Low-Bit Quantization for Wan2.2 Dual-Expert Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2606.00658) |
 | 2026-06-03 | **Real2SAM2Real: Generative 3D Caches as Complementary Context for Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2606.00299) [🌐 Homepage](https://jiayi-wu-leo.github.io/real2sam2real) |
@@ -676,6 +681,8 @@ Last updated: 2026-06-04
 <!-- SECTION:video_foundation -->
 | Date | Paper |
 |------|-------|
+| 2026-06-05 | **VTI-CoT: Visual-Textual Interleaved Chain of Thought for Video Reasoning** [📄 arXiv](https://arxiv.org/abs/2606.05736) |
+| 2026-06-05 | **ActiveMimic: Egocentric Video Pretraining with Active Perception** [📄 arXiv](https://arxiv.org/abs/2606.06194) [🌐 Homepage](https://activemimic.github.io/) [💻 Code ⭐ 4.2k](https://github.com/nerfies/nerfies.github.io) |
 | 2026-05-29 | **AgentCVR: Active Multi-Agent Cross-Video Reasoning via Script-Simulated Reinforcement Learning** [📄 arXiv](https://arxiv.org/abs/2605.29643) [💻 Code ⭐ 1](https://github.com/wang-jh24/AgentCVR) |
 | 2026-05-29 | **Semantic and Visual Evidence for Efficient Long-Video Reasoning: A Solution for the HD-EPIC VQA Challenge** [📄 arXiv](https://arxiv.org/abs/2605.29402) |
 | 2026-05-26 | **Baton: Explicit Semantic Blueprints for Joint Video-Audio Generation** [📄 arXiv](https://arxiv.org/abs/2605.25195) |
