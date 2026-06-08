@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-06-05
+Last updated: 2026-06-08
 
 ## 📑 Table of Contents
 
@@ -38,6 +38,8 @@ Last updated: 2026-06-05
 <!-- SECTION:text_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-06-08 | **Spatial-Temporal Decoupled Reference Conditioning for Identity-Preserving Text-to-Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.02441) |
+| 2026-06-08 | **SafeGen-Bench: Benchmarking Safety in Image-Conditioned Text-to-Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.01481) |
 | 2026-06-03 | **Boundary-Protection W8A8 HiFloat8 Quantization for Large-Scale Text-to-Video Diffusion Transformers** [📄 arXiv](https://arxiv.org/abs/2606.00957) |
 | 2026-05-26 | **Where Concept Erasure Should Occur: Concept-Layer Alignment in Text-to-Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2605.25941) |
 | 2026-05-19 | **MAVEN A Multi-Agent Framework for Multicultural Text-to-Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.16716) [💻 Code](https://github.com/AIM-SCU/CRAFT) |
@@ -65,6 +67,7 @@ Last updated: 2026-06-05
 <!-- SECTION:image_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-06-08 | **VidPrism: Heterogeneous Mixture of Experts for Image-to-Video Transfer** [📄 arXiv](https://arxiv.org/abs/2605.28229) [💻 Code ⭐ 3](https://github.com/Lrrrr549/VidPrism.git) |
 | 2026-06-03 | **Timestep-Aware SVDQuant-GPTQ for W4A4 Quantization of Wan2.2-I2V** [📄 arXiv](https://arxiv.org/abs/2605.27003) |
 | 2026-05-20 | **Rebalancing Reference Frame Dominance to Improve Motion in Image-to-Video Models** [📄 arXiv](https://arxiv.org/abs/2605.19398) |
 | 2026-05-19 | **Image-to-Video Diffusion: From Foundations to Open Frontiers** [📄 arXiv](https://arxiv.org/abs/2605.17248) |
@@ -93,6 +96,7 @@ Last updated: 2026-06-05
 <!-- SECTION:video_editing -->
 | Date | Paper |
 |------|-------|
+| 2026-06-08 | **AlbedoEdit: Unified Instance-Level Video Editing with Albedo Guidance** [📄 arXiv](https://arxiv.org/abs/2606.01362) [🌐 Homepage](https://vcai.mpi-inf.mpg.de/projects/AlbedoEdit/) |
 | 2026-06-01 | **SANA-Streaming: Real-time Streaming Video Editing with Hybrid Diffusion Transformer** [📄 arXiv](https://arxiv.org/abs/2605.30409) |
 | 2026-05-29 | **GenEraser: Generalizable Video Object Removal via Balanced Text-Mask Guidance and Decoupled Locator-Preserver** [📄 arXiv](https://arxiv.org/abs/2605.30045) [🌐 Homepage](https://cyqii.github.io/GenEraser.github.io/) |
 | 2026-05-26 | **Reasoning to Align: Implicit Reasoning in Diffusion Transformers for Video Editing** [📄 arXiv](https://arxiv.org/abs/2605.24674) |
@@ -141,6 +145,7 @@ Last updated: 2026-06-05
 <!-- SECTION:video_prediction -->
 | Date | Paper |
 |------|-------|
+| 2026-06-08 | **ReCA: Multi-Shot Long Video Extrapolation via Recursive Context Allocation** [📄 arXiv](https://arxiv.org/abs/2605.26525) [💻 Code](https://github.com/ali-vilab/ReCA) |
 | 2026-05-26 | **Nano World Models: A Minimalist Implementation of Future Video Prediction** [📄 arXiv](https://arxiv.org/abs/2605.23993) [🌐 Homepage](https://simchowitzlabpublic.github.io/nano-world-model/) |
 | 2026-05-18 | **Latent Video Prediction Learns Better World Models** [📄 arXiv](https://arxiv.org/abs/2605.15618) |
 | 2026-05-18 | **Entity-Centric World Models: Interaction-Aware Masking for Causal Video Prediction** [📄 arXiv](https://arxiv.org/abs/2605.15466) |
@@ -169,6 +174,9 @@ Last updated: 2026-06-05
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-06-08 | **Retrieve What's Missing: Coverage-Maximizing Retrieval for Consistent Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.02479) |
+| 2026-06-08 | **Explainable Forensics of Manipulated Segments in Untrimmed Long Videos** [📄 arXiv](https://arxiv.org/abs/2606.02402) [🌐 Homepage](https://debby-0527.github.io/TASLE) [💻 Code ⭐ 4.2k](https://github.com/nerfies/nerfies.github.io) |
+| 2026-06-08 | **SmartDirector: Keyframe-Conditioned Cinematic Video Generation with Narrative Pacing Control** [📄 arXiv](https://arxiv.org/abs/2605.27891) |
 | 2026-06-03 | **LongLive-RAG: A General Retrieval-Augmented Framework for Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.02553) [💻 Code ⭐ 28](https://github.com/qixinhu11/LongLive-RAG) |
 | 2026-06-01 | **Linear Scaling Video VLMs for Long Video Understanding** [📄 arXiv](https://arxiv.org/abs/2605.31598) |
 | 2026-06-01 | **LVSA: Training-Free Sparse Attention for Long Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2605.31057) [💻 Code ⭐ 2](https://github.com/JiusiServe/LongVideoSparseAttention) |
@@ -298,6 +306,10 @@ Last updated: 2026-06-05
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-06-08 | **Cosmos 3: Omnimodal World Models for Physical AI** [📄 arXiv](https://arxiv.org/abs/2606.02800) [💻 Code ⭐ 9.7k](https://github.com/nvidia/cosmos) |
+| 2026-06-08 | **From Zero to Hero: Training-Free Custom Concept Spawning in World Models** [📄 arXiv](https://arxiv.org/abs/2606.02575) |
+| 2026-06-08 | **MBench: A Comprehensive Benchmark on Memory Capability for Video World Models** [📄 arXiv](https://arxiv.org/abs/2606.00793) [🌐 Homepage](https://peanutup.github.io/MBench-project/) [💻 Code ⭐ 7](https://github.com/study-overflow/MBench) |
+| 2026-06-08 | **What-If World: A Causal Benchmark for General World Models in Embodied Scenarios** [📄 arXiv](https://arxiv.org/abs/2605.27589) |
 | 2026-06-05 | **Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators** [📄 arXiv](https://arxiv.org/abs/2606.06476) [🌐 Homepage](https://zcmax.github.io/projects/Thinking-With-Imagination) |
 | 2026-06-05 | **HDST-GNN: Heterogeneous Dynamic Spatiotemporal Graph Neural Networks for Multi-Object Tracking in UAV Aerial Imagery** [📄 arXiv](https://arxiv.org/abs/2606.05587) |
 | 2026-06-03 | **RoboDream: Compositional World Models for Scalable Robot Data Synthesis** [📄 arXiv](https://arxiv.org/abs/2606.02577) |
@@ -400,6 +412,7 @@ Last updated: 2026-06-05
 <!-- SECTION:audio_visual -->
 | Date | Paper |
 |------|-------|
+| 2026-06-08 | **Inference-Time Scaling for Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.03183) [🌐 Homepage](https://jung-jaemin.github.io/ITS-AVGen-Proj) [💻 Code ⭐ 2](https://github.com/kaistmm/ITS-AVGen) |
 | 2026-05-26 | **StreamChar: Long-Horizon Streaming Character Audio-Video Generation with Decoupled Orchestration** [📄 arXiv](https://arxiv.org/abs/2605.25659) |
 | 2026-05-20 | **MSAVBench: Towards Comprehensive and Reliable Evaluation of Multi-Shot Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.20183) |
 | 2026-05-19 | **Omni-Customizer: End-to-End MultiModal Customization for Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.17488) |
@@ -422,6 +435,7 @@ Last updated: 2026-06-05
 <!-- SECTION:digital_human_diffusion -->
 | Date | Paper |
 |------|-------|
+| 2026-06-08 | **CogPortrait: Fine-Grained Eye-Region Control in Portrait Animation via Hierarchical Agent Planning** [📄 arXiv](https://arxiv.org/abs/2605.28056) |
 | 2026-06-04 | **NextMotionQA: Benchmarking and Judging Human Motion Understanding with Vision-Language Models** [📄 arXiv](https://arxiv.org/abs/2606.04773) |
 | 2026-06-03 | **Mamba-Enhanced Implicit Motion Learning for Audio-Driven Portrait Animation** [📄 arXiv](https://arxiv.org/abs/2606.03402) |
 | 2026-06-03 | **Pixel Cube: Diffusion-based Portrait Video Relighting Through Realistic Lighting Reproduction** [📄 arXiv](https://arxiv.org/abs/2606.02919) [🌐 Homepage](https://yufanzhang82.github.io/PixelCube/) [💻 Code ⭐ 4.9k](https://github.com/eliahuhorwitz/Academic-project-page-template) |
@@ -555,6 +569,8 @@ Last updated: 2026-06-05
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-06-08 | **EgoPressDiff: Multimodal Video Diffusion for Egocentric UV-Domain Hand-Pressure Estimation** [📄 arXiv](https://arxiv.org/abs/2606.06872) [🌐 Homepage](https://egopressdiff.github.io/) |
+| 2026-06-08 | **MotionEnhancer: Leveraging Video Diffusion for Motion-Enhanced Vision-Language Models** [📄 arXiv](https://arxiv.org/abs/2606.06853) |
 | 2026-06-05 | **The Invisible Hand of Physics: When Video Diffusion Models Know More Than They Show** [📄 arXiv](https://arxiv.org/abs/2606.05328) |
 | 2026-06-03 | **Video-Mirai: Autoregressive Video Diffusion Models Need Foresight** [📄 arXiv](https://arxiv.org/abs/2606.03971) [🌐 Homepage](https://y0uroy.github.io/Video-Mirai) [💻 Code ⭐ 1](https://github.com/y0urOy/Video-Mirai) |
 | 2026-06-03 | **Collaborative Few-Step Distillation and Low-Bit Quantization for Wan2.2 Dual-Expert Video Diffusion Models** [📄 arXiv](https://arxiv.org/abs/2606.00658) |
@@ -642,6 +658,7 @@ Last updated: 2026-06-05
 <!-- SECTION:video_autoregressive -->
 | Date | Paper |
 |------|-------|
+| 2026-06-08 | **AAD-1: Asymmetric Adversarial Distillation for One-Step Autoregressive Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.03972) [🌐 Homepage](https://aad-1.github.io/) [💻 Code ⭐ 52](https://github.com/AutoLab-SAI-SJTU/AAD-1) |
 | 2026-06-04 | **DSA: Dynamic Step Allocation for Fast Autoregressive Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.04432) |
 | 2026-05-29 | **Future Forcing: Future-aware Training-free KV Cache Policy for Autoregressive Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.30083) |
 | 2026-05-26 | **On-Policy Adversarial Flow Distillation for Autoregressive Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.26105) |
@@ -681,6 +698,7 @@ Last updated: 2026-06-05
 <!-- SECTION:video_foundation -->
 | Date | Paper |
 |------|-------|
+| 2026-06-08 | **VLMs are Good Teachers for Video Reasoning via Adaptive Test-Time Optimization** [📄 arXiv](https://arxiv.org/abs/2606.02564) [🌐 Homepage](https://VLM-as-Teacher.github.io/) |
 | 2026-06-05 | **VTI-CoT: Visual-Textual Interleaved Chain of Thought for Video Reasoning** [📄 arXiv](https://arxiv.org/abs/2606.05736) |
 | 2026-06-05 | **ActiveMimic: Egocentric Video Pretraining with Active Perception** [📄 arXiv](https://arxiv.org/abs/2606.06194) [🌐 Homepage](https://activemimic.github.io/) [💻 Code ⭐ 4.2k](https://github.com/nerfies/nerfies.github.io) |
 | 2026-05-29 | **AgentCVR: Active Multi-Agent Cross-Video Reasoning via Script-Simulated Reinforcement Learning** [📄 arXiv](https://arxiv.org/abs/2605.29643) [💻 Code ⭐ 1](https://github.com/wang-jh24/AgentCVR) |
