@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-06-08
+Last updated: 2026-06-10
 
 ## 📑 Table of Contents
 
@@ -96,6 +96,7 @@ Last updated: 2026-06-08
 <!-- SECTION:video_editing -->
 | Date | Paper |
 |------|-------|
+| 2026-06-10 | **TIDE: Task-Isolated Diffusion for Unified Video Editing and Generation** [📄 arXiv](https://arxiv.org/abs/2606.08260) [🌐 Homepage](https://LittleWork123.github.io/tide) [💻 Code ⭐ 2](https://github.com/LittleWork123/TIDE) |
 | 2026-06-08 | **AlbedoEdit: Unified Instance-Level Video Editing with Albedo Guidance** [📄 arXiv](https://arxiv.org/abs/2606.01362) [🌐 Homepage](https://vcai.mpi-inf.mpg.de/projects/AlbedoEdit/) |
 | 2026-06-01 | **SANA-Streaming: Real-time Streaming Video Editing with Hybrid Diffusion Transformer** [📄 arXiv](https://arxiv.org/abs/2605.30409) |
 | 2026-05-29 | **GenEraser: Generalizable Video Object Removal via Balanced Text-Mask Guidance and Decoupled Locator-Preserver** [📄 arXiv](https://arxiv.org/abs/2605.30045) [🌐 Homepage](https://cyqii.github.io/GenEraser.github.io/) |
@@ -127,6 +128,7 @@ Last updated: 2026-06-08
 <!-- SECTION:video_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-06-10 | **LiteVSR: Lightweight Adaptation of Frozen Diffusion Transformers for Video Super-Resolution** [📄 arXiv](https://arxiv.org/abs/2606.09250) |
 | 2026-06-05 | **V2V-Bench: A Comprehensive Benchmark for Video-to-Video Generation Evaluation** [📄 arXiv](https://arxiv.org/abs/2606.05665) |
 | 2026-06-01 | **DTG-Restore: Training-Free Diffusion Refinement for Generative Video Super-Resolution** [📄 arXiv](https://arxiv.org/abs/2605.30431) |
 | 2026-05-26 | **How Accurate are Video Quality Models for Diffusion-Based Video Super-Resolution?** [📄 arXiv](https://arxiv.org/abs/2605.25940) [💻 Code ⭐ 0](https://github.com/Telecommunication-Telemedia-Assessment/AVT-VQDB-UHD-1-VSR) |
@@ -174,6 +176,7 @@ Last updated: 2026-06-08
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-06-10 | **VideoWeaver: Evaluating and Evolving Skills for Agentic Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.08091) [💻 Code ⭐ 7](https://github.com/JianhuiWei7/VideoWeaver) |
 | 2026-06-08 | **Retrieve What's Missing: Coverage-Maximizing Retrieval for Consistent Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.02479) |
 | 2026-06-08 | **Explainable Forensics of Manipulated Segments in Untrimmed Long Videos** [📄 arXiv](https://arxiv.org/abs/2606.02402) [🌐 Homepage](https://debby-0527.github.io/TASLE) [💻 Code ⭐ 4.2k](https://github.com/nerfies/nerfies.github.io) |
 | 2026-06-08 | **SmartDirector: Keyframe-Conditioned Cinematic Video Generation with Narrative Pacing Control** [📄 arXiv](https://arxiv.org/abs/2605.27891) |
@@ -232,6 +235,8 @@ Last updated: 2026-06-08
 <!-- SECTION:controllable_video -->
 | Date | Paper |
 |------|-------|
+| 2026-06-10 | **HarmoView: Harmonizing Multi-View Constraints for Identity-Consistent Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.10839) [🌐 Homepage](https://conallwang.github.io/HarmoView_Pages) |
+| 2026-06-10 | **DisCo: World Models with Discrete Camera Motion Control** [📄 arXiv](https://arxiv.org/abs/2606.07967) |
 | 2026-06-01 | **CameraNoise: Enabling Faithful Camera Control in Video Diffusion through Geometry-Flow-Guided Noise Warping** [📄 arXiv](https://arxiv.org/abs/2605.30774) [🌐 Homepage](https://gulucaptain.github.io/CameraNoise/) [💻 Code ⭐ 0](https://github.com/gulucaptain/CameraNoise) |
 | 2026-05-29 | **Towards Consistent Video Geometry Estimation** [📄 arXiv](https://arxiv.org/abs/2605.30060) [🌐 Homepage](https://pkqbajng.github.io/ViGeo/) [💻 Code ⭐ 6](https://github.com/aigc3d/ViGeo) |
 | 2026-05-20 | **CogOmniControl: Reasoning-Driven Controllable Video Generation via Creative Intent Cognition** [📄 arXiv](https://arxiv.org/abs/2605.19995) [🌐 Homepage](https://um-lab.github.io/CogOmniControl/) |
@@ -306,6 +311,10 @@ Last updated: 2026-06-08
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-06-10 | **Next Forcing: Causal World Modeling with Multi-Chunk Prediction** [📄 arXiv](https://arxiv.org/abs/2606.11187) [🌐 Homepage](https://gangweix.github.io/next-forcing/) [💻 Code ⭐ 5](https://github.com/gangweix/next-forcing) |
+| 2026-06-10 | **Latent Spatial Memory for Video World Models** [📄 arXiv](https://arxiv.org/abs/2606.09828) [💻 Code ⭐ 104](https://github.com/microsoft/LatentSpatialMemory) |
+| 2026-06-10 | **BiWM: Advancing Open-Source Interactive Video World Models with Bidirectional Autoregression** [📄 arXiv](https://arxiv.org/abs/2606.10135) |
+| 2026-06-10 | **Echo-Memory: A Controlled Study of Memory in Action World Models** [📄 arXiv](https://arxiv.org/abs/2606.09803) [💻 Code ⭐ 89](https://github.com/Echo-Team-Joy-Future-Academy-JD/Echo-Memory) |
 | 2026-06-08 | **Cosmos 3: Omnimodal World Models for Physical AI** [📄 arXiv](https://arxiv.org/abs/2606.02800) [💻 Code ⭐ 9.7k](https://github.com/nvidia/cosmos) |
 | 2026-06-08 | **From Zero to Hero: Training-Free Custom Concept Spawning in World Models** [📄 arXiv](https://arxiv.org/abs/2606.02575) |
 | 2026-06-08 | **MBench: A Comprehensive Benchmark on Memory Capability for Video World Models** [📄 arXiv](https://arxiv.org/abs/2606.00793) [🌐 Homepage](https://peanutup.github.io/MBench-project/) [💻 Code ⭐ 7](https://github.com/study-overflow/MBench) |
@@ -412,6 +421,7 @@ Last updated: 2026-06-08
 <!-- SECTION:audio_visual -->
 | Date | Paper |
 |------|-------|
+| 2026-06-10 | **CineDance: Towards Next-Generation Multi-Shot Long-Form Cinematic Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.09639) [🌐 Homepage](https://aliothchen.github.io/projects/CineDance/) [💻 Code ⭐ 4](https://github.com/AliothChen/CineDance) |
 | 2026-06-08 | **Inference-Time Scaling for Joint Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.03183) [🌐 Homepage](https://jung-jaemin.github.io/ITS-AVGen-Proj) [💻 Code ⭐ 2](https://github.com/kaistmm/ITS-AVGen) |
 | 2026-05-26 | **StreamChar: Long-Horizon Streaming Character Audio-Video Generation with Decoupled Orchestration** [📄 arXiv](https://arxiv.org/abs/2605.25659) |
 | 2026-05-20 | **MSAVBench: Towards Comprehensive and Reliable Evaluation of Multi-Shot Audio-Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.20183) |
@@ -435,6 +445,7 @@ Last updated: 2026-06-08
 <!-- SECTION:digital_human_diffusion -->
 | Date | Paper |
 |------|-------|
+| 2026-06-10 | **Lip Forcing: Few-Step Autoregressive Diffusion for Real-time Lip Synchronization** [📄 arXiv](https://arxiv.org/abs/2606.11180) [🌐 Homepage](https://cvlab-kaist.github.io/LipForcing/) [💻 Code ⭐ 8](https://github.com/cvlab-kaist/LipForcing) |
 | 2026-06-08 | **CogPortrait: Fine-Grained Eye-Region Control in Portrait Animation via Hierarchical Agent Planning** [📄 arXiv](https://arxiv.org/abs/2605.28056) |
 | 2026-06-04 | **NextMotionQA: Benchmarking and Judging Human Motion Understanding with Vision-Language Models** [📄 arXiv](https://arxiv.org/abs/2606.04773) |
 | 2026-06-03 | **Mamba-Enhanced Implicit Motion Learning for Audio-Driven Portrait Animation** [📄 arXiv](https://arxiv.org/abs/2606.03402) |
@@ -569,6 +580,8 @@ Last updated: 2026-06-08
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-06-10 | **FadeMem: Distance-Aware Memory Consolidation for Autoregressive Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2606.10671) |
+| 2026-06-10 | **Making Time Editable in Video Diffusion Transformers** [📄 arXiv](https://arxiv.org/abs/2606.10183) |
 | 2026-06-08 | **EgoPressDiff: Multimodal Video Diffusion for Egocentric UV-Domain Hand-Pressure Estimation** [📄 arXiv](https://arxiv.org/abs/2606.06872) [🌐 Homepage](https://egopressdiff.github.io/) |
 | 2026-06-08 | **MotionEnhancer: Leveraging Video Diffusion for Motion-Enhanced Vision-Language Models** [📄 arXiv](https://arxiv.org/abs/2606.06853) |
 | 2026-06-05 | **The Invisible Hand of Physics: When Video Diffusion Models Know More Than They Show** [📄 arXiv](https://arxiv.org/abs/2606.05328) |
@@ -658,6 +671,7 @@ Last updated: 2026-06-08
 <!-- SECTION:video_autoregressive -->
 | Date | Paper |
 |------|-------|
+| 2026-06-10 | **BioVid: Autoregressive Video Generation with Biological Behavior Semantic Comprehension** [📄 arXiv](https://arxiv.org/abs/2606.08674) |
 | 2026-06-08 | **AAD-1: Asymmetric Adversarial Distillation for One-Step Autoregressive Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.03972) [🌐 Homepage](https://aad-1.github.io/) [💻 Code ⭐ 52](https://github.com/AutoLab-SAI-SJTU/AAD-1) |
 | 2026-06-04 | **DSA: Dynamic Step Allocation for Fast Autoregressive Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.04432) |
 | 2026-05-29 | **Future Forcing: Future-aware Training-free KV Cache Policy for Autoregressive Video Generation** [📄 arXiv](https://arxiv.org/abs/2605.30083) |
@@ -698,6 +712,7 @@ Last updated: 2026-06-08
 <!-- SECTION:video_foundation -->
 | Date | Paper |
 |------|-------|
+| 2026-06-10 | **Do Video Foundation Models Understand Intuitive Physics? A Layerwise Probing Analysis** [📄 arXiv](https://arxiv.org/abs/2606.09646) |
 | 2026-06-08 | **VLMs are Good Teachers for Video Reasoning via Adaptive Test-Time Optimization** [📄 arXiv](https://arxiv.org/abs/2606.02564) [🌐 Homepage](https://VLM-as-Teacher.github.io/) |
 | 2026-06-05 | **VTI-CoT: Visual-Textual Interleaved Chain of Thought for Video Reasoning** [📄 arXiv](https://arxiv.org/abs/2606.05736) |
 | 2026-06-05 | **ActiveMimic: Egocentric Video Pretraining with Active Perception** [📄 arXiv](https://arxiv.org/abs/2606.06194) [🌐 Homepage](https://activemimic.github.io/) [💻 Code ⭐ 4.2k](https://github.com/nerfies/nerfies.github.io) |
