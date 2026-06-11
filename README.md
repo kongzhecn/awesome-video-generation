@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-06-10
+Last updated: 2026-06-11
 
 ## 📑 Table of Contents
 
@@ -38,6 +38,7 @@ Last updated: 2026-06-10
 <!-- SECTION:text_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-06-11 | **SpecLoR: Spectral Lookahead Rectification for Motion-Coherent Text-to-Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.11969) |
 | 2026-06-08 | **Spatial-Temporal Decoupled Reference Conditioning for Identity-Preserving Text-to-Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.02441) |
 | 2026-06-08 | **SafeGen-Bench: Benchmarking Safety in Image-Conditioned Text-to-Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.01481) |
 | 2026-06-03 | **Boundary-Protection W8A8 HiFloat8 Quantization for Large-Scale Text-to-Video Diffusion Transformers** [📄 arXiv](https://arxiv.org/abs/2606.00957) |
@@ -311,6 +312,7 @@ Last updated: 2026-06-10
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-06-11 | **World Model Self-Distillation: Training World Models to Solve General Tasks** [📄 arXiv](https://arxiv.org/abs/2606.12072) |
 | 2026-06-10 | **Next Forcing: Causal World Modeling with Multi-Chunk Prediction** [📄 arXiv](https://arxiv.org/abs/2606.11187) [🌐 Homepage](https://gangweix.github.io/next-forcing/) [💻 Code ⭐ 5](https://github.com/gangweix/next-forcing) |
 | 2026-06-10 | **Latent Spatial Memory for Video World Models** [📄 arXiv](https://arxiv.org/abs/2606.09828) [💻 Code ⭐ 104](https://github.com/microsoft/LatentSpatialMemory) |
 | 2026-06-10 | **BiWM: Advancing Open-Source Interactive Video World Models with Bidirectional Autoregression** [📄 arXiv](https://arxiv.org/abs/2606.10135) |
