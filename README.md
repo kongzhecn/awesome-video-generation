@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-06-11
+Last updated: 2026-06-12
 
 ## 📑 Table of Contents
 
@@ -177,6 +177,7 @@ Last updated: 2026-06-11
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-06-12 | **TetherCache: Stabilizing Autoregressive Long-Form Video Generation with Gated Recall and Trusted Alignment** [📄 arXiv](https://arxiv.org/abs/2606.13035) |
 | 2026-06-10 | **VideoWeaver: Evaluating and Evolving Skills for Agentic Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.08091) [💻 Code ⭐ 7](https://github.com/JianhuiWei7/VideoWeaver) |
 | 2026-06-08 | **Retrieve What's Missing: Coverage-Maximizing Retrieval for Consistent Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.02479) |
 | 2026-06-08 | **Explainable Forensics of Manipulated Segments in Untrimmed Long Videos** [📄 arXiv](https://arxiv.org/abs/2606.02402) [🌐 Homepage](https://debby-0527.github.io/TASLE) [💻 Code ⭐ 4.2k](https://github.com/nerfies/nerfies.github.io) |
@@ -279,6 +280,7 @@ Last updated: 2026-06-11
 <!-- SECTION:camera_control -->
 | Date | Paper |
 |------|-------|
+| 2026-06-12 | **Flex4DHuman: Flexible Multi-view Video Diffusion for 4D Human Reconstruction** [📄 arXiv](https://arxiv.org/abs/2606.13655) |
 | 2026-06-05 | **CamFlow+: Hybrid Motion Bases for 2D Camera Motion Estimation with Stabilization Applications** [📄 arXiv](https://arxiv.org/abs/2606.05915) [🌐 Homepage](https://lhaippp.github.io/CamFlow+) |
 | 2026-06-03 | **Effective Multi-sensor Conditioning for Street-view Novel-view Synthesis** [📄 arXiv](https://arxiv.org/abs/2606.01590) [🌐 Homepage](https://streetnvs.github.io) |
 | 2026-06-01 | **RayDer: Scalable Self-Supervised Novel View Synthesis from Real-World Video** [📄 arXiv](https://arxiv.org/abs/2605.31535) [🌐 Homepage](https://compvis.github.io/rayder) |
