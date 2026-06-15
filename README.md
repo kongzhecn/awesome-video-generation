@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-06-12
+Last updated: 2026-06-15
 
 ## 📑 Table of Contents
 
@@ -68,6 +68,7 @@ Last updated: 2026-06-12
 <!-- SECTION:image_to_video -->
 | Date | Paper |
 |------|-------|
+| 2026-06-15 | **Prompt2Effect: Training-Free Image-to-Video Model Specialization via LoRA Generation** [📄 arXiv](https://arxiv.org/abs/2606.13971) |
 | 2026-06-08 | **VidPrism: Heterogeneous Mixture of Experts for Image-to-Video Transfer** [📄 arXiv](https://arxiv.org/abs/2605.28229) [💻 Code ⭐ 3](https://github.com/Lrrrr549/VidPrism.git) |
 | 2026-06-03 | **Timestep-Aware SVDQuant-GPTQ for W4A4 Quantization of Wan2.2-I2V** [📄 arXiv](https://arxiv.org/abs/2605.27003) |
 | 2026-05-20 | **Rebalancing Reference Frame Dominance to Improve Motion in Image-to-Video Models** [📄 arXiv](https://arxiv.org/abs/2605.19398) |
@@ -177,6 +178,8 @@ Last updated: 2026-06-12
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-06-15 | **Memento: Reconstruct to Remember for Consistent Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.14667) [🌐 Homepage](https://ernie-research.github.io/Memento/) [💻 Code ⭐ 0](https://github.com/ernie-research/Memento) |
+| 2026-06-15 | **CineOrchestra: Unified Entity-Centric Conditioning for Cinematic Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.13768) [🌐 Homepage](https://snap-research.github.io/CineOrchestra) [💻 Code ⭐ 0](https://github.com/snap-research/CineOrchestra/tree/main) |
 | 2026-06-12 | **TetherCache: Stabilizing Autoregressive Long-Form Video Generation with Gated Recall and Trusted Alignment** [📄 arXiv](https://arxiv.org/abs/2606.13035) |
 | 2026-06-10 | **VideoWeaver: Evaluating and Evolving Skills for Agentic Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.08091) [💻 Code ⭐ 7](https://github.com/JianhuiWei7/VideoWeaver) |
 | 2026-06-08 | **Retrieve What's Missing: Coverage-Maximizing Retrieval for Consistent Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.02479) |
@@ -716,6 +719,7 @@ Last updated: 2026-06-12
 <!-- SECTION:video_foundation -->
 | Date | Paper |
 |------|-------|
+| 2026-06-15 | **Temporal Backtracking Search for Test-time Generative Video Reasoning** [📄 arXiv](https://arxiv.org/abs/2606.13861) |
 | 2026-06-10 | **Do Video Foundation Models Understand Intuitive Physics? A Layerwise Probing Analysis** [📄 arXiv](https://arxiv.org/abs/2606.09646) |
 | 2026-06-08 | **VLMs are Good Teachers for Video Reasoning via Adaptive Test-Time Optimization** [📄 arXiv](https://arxiv.org/abs/2606.02564) [🌐 Homepage](https://VLM-as-Teacher.github.io/) |
 | 2026-06-05 | **VTI-CoT: Visual-Textual Interleaved Chain of Thought for Video Reasoning** [📄 arXiv](https://arxiv.org/abs/2606.05736) |
