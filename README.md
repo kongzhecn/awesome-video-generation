@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-06-15
+Last updated: 2026-06-16
 
 ## 📑 Table of Contents
 
@@ -178,6 +178,7 @@ Last updated: 2026-06-15
 <!-- SECTION:long_video -->
 | Date | Paper |
 |------|-------|
+| 2026-06-16 | **Closed-Loop Triplet Synergistic Generation for Long-Form Video** [📄 arXiv](https://arxiv.org/abs/2606.16184) |
 | 2026-06-15 | **Memento: Reconstruct to Remember for Consistent Long Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.14667) [🌐 Homepage](https://ernie-research.github.io/Memento/) [💻 Code ⭐ 0](https://github.com/ernie-research/Memento) |
 | 2026-06-15 | **CineOrchestra: Unified Entity-Centric Conditioning for Cinematic Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.13768) [🌐 Homepage](https://snap-research.github.io/CineOrchestra) [💻 Code ⭐ 0](https://github.com/snap-research/CineOrchestra/tree/main) |
 | 2026-06-12 | **TetherCache: Stabilizing Autoregressive Long-Form Video Generation with Gated Recall and Trusted Alignment** [📄 arXiv](https://arxiv.org/abs/2606.13035) |
@@ -240,6 +241,10 @@ Last updated: 2026-06-15
 <!-- SECTION:controllable_video -->
 | Date | Paper |
 |------|-------|
+| 2026-06-16 | **PermaVid: Consistent Video Generation Across Edits via Disentangled Context Memory** [📄 arXiv](https://arxiv.org/abs/2606.16449) [🌐 Homepage](https://ys-imtech.github.io/projects/PermaVid/) [💻 Code ⭐ 1](https://github.com/YS-IMTech/PermaVid) |
+| 2026-06-16 | **Track2View: 4D-Consistent Camera-Controlled Video Generation via Paired 3D Point Tracks** [📄 arXiv](https://arxiv.org/abs/2606.15534) [🌐 Homepage](https://qjizhi.github.io/track2view) [💻 Code ⭐ 5.0k](https://github.com/eliahuhorwitz/Academic-project-page-template) |
+| 2026-06-16 | **GeoStream: Toward Precise Camera Controlled Streaming Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.15162) |
+| 2026-06-16 | **Temporally Consistent and Controllable Video Generation of 2D Cine CMR via Latent Space Motion Modeling** [📄 arXiv](https://arxiv.org/abs/2606.14759) |
 | 2026-06-10 | **HarmoView: Harmonizing Multi-View Constraints for Identity-Consistent Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.10839) [🌐 Homepage](https://conallwang.github.io/HarmoView_Pages) |
 | 2026-06-10 | **DisCo: World Models with Discrete Camera Motion Control** [📄 arXiv](https://arxiv.org/abs/2606.07967) |
 | 2026-06-01 | **CameraNoise: Enabling Faithful Camera Control in Video Diffusion through Geometry-Flow-Guided Noise Warping** [📄 arXiv](https://arxiv.org/abs/2605.30774) [🌐 Homepage](https://gulucaptain.github.io/CameraNoise/) [💻 Code ⭐ 0](https://github.com/gulucaptain/CameraNoise) |
@@ -317,6 +322,7 @@ Last updated: 2026-06-15
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-06-16 | **CausalDrive: Real-time Causal World Models for Autonomous Driving** [📄 arXiv](https://arxiv.org/abs/2606.15341) |
 | 2026-06-11 | **World Model Self-Distillation: Training World Models to Solve General Tasks** [📄 arXiv](https://arxiv.org/abs/2606.12072) |
 | 2026-06-10 | **Next Forcing: Causal World Modeling with Multi-Chunk Prediction** [📄 arXiv](https://arxiv.org/abs/2606.11187) [🌐 Homepage](https://gangweix.github.io/next-forcing/) [💻 Code ⭐ 5](https://github.com/gangweix/next-forcing) |
 | 2026-06-10 | **Latent Spatial Memory for Video World Models** [📄 arXiv](https://arxiv.org/abs/2606.09828) [💻 Code ⭐ 104](https://github.com/microsoft/LatentSpatialMemory) |
@@ -452,6 +458,7 @@ Last updated: 2026-06-15
 <!-- SECTION:digital_human_diffusion -->
 | Date | Paper |
 |------|-------|
+| 2026-06-16 | **RGFVR: Reference-Guided Face Video Restoration with Flow Matching** [📄 arXiv](https://arxiv.org/abs/2606.16401) [💻 Code](https://github.com/batuhanntosun/RG-FVR) |
 | 2026-06-10 | **Lip Forcing: Few-Step Autoregressive Diffusion for Real-time Lip Synchronization** [📄 arXiv](https://arxiv.org/abs/2606.11180) [🌐 Homepage](https://cvlab-kaist.github.io/LipForcing/) [💻 Code ⭐ 8](https://github.com/cvlab-kaist/LipForcing) |
 | 2026-06-08 | **CogPortrait: Fine-Grained Eye-Region Control in Portrait Animation via Hierarchical Agent Planning** [📄 arXiv](https://arxiv.org/abs/2605.28056) |
 | 2026-06-04 | **NextMotionQA: Benchmarking and Judging Human Motion Understanding with Vision-Language Models** [📄 arXiv](https://arxiv.org/abs/2606.04773) |
@@ -539,6 +546,7 @@ Last updated: 2026-06-15
 <!-- SECTION:digital_human_3d -->
 | Date | Paper |
 |------|-------|
+| 2026-06-16 | **EmoZone-Talker: Regional Semantic Control of Audio-Driven 3DGS Talking Heads via Facial Action Units** [📄 arXiv](https://arxiv.org/abs/2606.15848) |
 | 2026-05-29 | **CapTalk: Text-Guided Stylization and Speech-Driven 3D Head Animation** [📄 arXiv](https://arxiv.org/abs/2605.29316) |
 | 2026-05-26 | **MuNet: A Mutualistic Network for Joint 3D Human Mesh Recovery and 3D Clothed Human Reconstruction from Single Images** [📄 arXiv](https://arxiv.org/abs/2605.25861) [💻 Code ⭐ 1](https://github.com/starVisionTeam/MuNet) |
 | 2026-05-26 | **Loki: Representation over Architecture for Diffusion-Based Portrait Animation** [📄 arXiv](https://arxiv.org/abs/2605.24176) |
@@ -587,6 +595,7 @@ Last updated: 2026-06-15
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-06-16 | **Steady-Forcing: Balancing Spatial Persistence and Motion Continuity in Long-Horizon Nature Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2606.14732) [🌐 Homepage](https://minar09.github.io/steadyforcing/) [💻 Code ⭐ 1](https://github.com/minar09/steady-forcing) |
 | 2026-06-10 | **FadeMem: Distance-Aware Memory Consolidation for Autoregressive Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2606.10671) |
 | 2026-06-10 | **Making Time Editable in Video Diffusion Transformers** [📄 arXiv](https://arxiv.org/abs/2606.10183) |
 | 2026-06-08 | **EgoPressDiff: Multimodal Video Diffusion for Egocentric UV-Domain Hand-Pressure Estimation** [📄 arXiv](https://arxiv.org/abs/2606.06872) [🌐 Homepage](https://egopressdiff.github.io/) |
