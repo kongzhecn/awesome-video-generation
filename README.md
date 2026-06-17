@@ -6,7 +6,7 @@
 > A curated list of papers on video generation and related topics — auto-updated daily from arXiv cs.CV.
 > Papers are classified by **task type**. Each paper appears in the most relevant section only.
 
-Last updated: 2026-06-16
+Last updated: 2026-06-17
 
 ## 📑 Table of Contents
 
@@ -241,6 +241,7 @@ Last updated: 2026-06-16
 <!-- SECTION:controllable_video -->
 | Date | Paper |
 |------|-------|
+| 2026-06-17 | **SierpinskiCam: Camera-Controlled Video Retaking with Sierpinski Triangle Pattern Cues** [📄 arXiv](https://arxiv.org/abs/2606.17310) [🌐 Homepage](https://hyelinnam.github.io/SierpinskiCam/) [💻 Code ⭐ 3](https://github.com/HyelinNAM/SierpinskiCam) |
 | 2026-06-16 | **PermaVid: Consistent Video Generation Across Edits via Disentangled Context Memory** [📄 arXiv](https://arxiv.org/abs/2606.16449) [🌐 Homepage](https://ys-imtech.github.io/projects/PermaVid/) [💻 Code ⭐ 1](https://github.com/YS-IMTech/PermaVid) |
 | 2026-06-16 | **Track2View: 4D-Consistent Camera-Controlled Video Generation via Paired 3D Point Tracks** [📄 arXiv](https://arxiv.org/abs/2606.15534) [🌐 Homepage](https://qjizhi.github.io/track2view) [💻 Code ⭐ 5.0k](https://github.com/eliahuhorwitz/Academic-project-page-template) |
 | 2026-06-16 | **GeoStream: Toward Precise Camera Controlled Streaming Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.15162) |
@@ -322,6 +323,11 @@ Last updated: 2026-06-16
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-06-17 | **EgoCS-400K: An Egocentric Gameplay Dataset for World Models** [📄 arXiv](https://arxiv.org/abs/2606.18180) |
+| 2026-06-17 | **MaineCoon: Pursuing A Real-Time Audio-Visual Social World Model** [📄 arXiv](https://arxiv.org/abs/2606.17800) |
+| 2026-06-17 | **OmniDrive: An LLM-Choreographed Multi-Agent World Model with Unified Latent Co-Compression for Multi-View Driving Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.17536) |
+| 2026-06-17 | **Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.17030) |
+| 2026-06-17 | **DreamX-World 1.0: A General-Purpose Interactive World Model** [📄 arXiv](https://arxiv.org/abs/2606.16993) [🌐 Homepage](https://amap-ml.github.io/DreamX_World) [💻 Code ⭐ 344](https://github.com/AMAP-ML/DreamX-World) |
 | 2026-06-16 | **CausalDrive: Real-time Causal World Models for Autonomous Driving** [📄 arXiv](https://arxiv.org/abs/2606.15341) |
 | 2026-06-11 | **World Model Self-Distillation: Training World Models to Solve General Tasks** [📄 arXiv](https://arxiv.org/abs/2606.12072) |
 | 2026-06-10 | **Next Forcing: Causal World Modeling with Multi-Chunk Prediction** [📄 arXiv](https://arxiv.org/abs/2606.11187) [🌐 Homepage](https://gangweix.github.io/next-forcing/) [💻 Code ⭐ 5](https://github.com/gangweix/next-forcing) |
@@ -595,6 +601,7 @@ Last updated: 2026-06-16
 <!-- SECTION:video_diffusion_arch -->
 | Date | Paper |
 |------|-------|
+| 2026-06-17 | **Pulling The REINS: Training-Free Safety Alignment of Video Diffusion Models via Representation Steering** [📄 arXiv](https://arxiv.org/abs/2606.17257) |
 | 2026-06-16 | **Steady-Forcing: Balancing Spatial Persistence and Motion Continuity in Long-Horizon Nature Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2606.14732) [🌐 Homepage](https://minar09.github.io/steadyforcing/) [💻 Code ⭐ 1](https://github.com/minar09/steady-forcing) |
 | 2026-06-10 | **FadeMem: Distance-Aware Memory Consolidation for Autoregressive Video Diffusion** [📄 arXiv](https://arxiv.org/abs/2606.10671) |
 | 2026-06-10 | **Making Time Editable in Video Diffusion Transformers** [📄 arXiv](https://arxiv.org/abs/2606.10183) |
@@ -669,6 +676,7 @@ Last updated: 2026-06-16
 <!-- SECTION:video_tokenizer -->
 | Date | Paper |
 |------|-------|
+| 2026-06-17 | **TivTok: Broadcasting Time-Invariant Tokens for Scalable Video Tokenization** [📄 arXiv](https://arxiv.org/abs/2606.17590) |
 | 2026-06-04 | **Ultra-Fast Neural Video Compression** [📄 arXiv](https://arxiv.org/abs/2606.04410) [💻 Code ⭐ 756](https://github.com/microsoft/DCVC) |
 | 2026-05-05 | **Active Sampling for Ultra-Low-Bit-Rate Video Compression via Conditional Controlled Diffusion** [📄 arXiv](https://arxiv.org/abs/2605.02849) |
 | 2026-04-28 | **Latent Inter-Frame Pruning: A Training-Free Method Bridging Traditional Video Compression and Modern Diffusion Transformers for Efficient Generation** [📄 arXiv](https://arxiv.org/abs/2604.23858) |
