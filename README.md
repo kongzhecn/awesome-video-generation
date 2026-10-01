@@ -323,6 +323,7 @@ Last updated: 2026-06-17
 <!-- SECTION:world_model -->
 | Date | Paper |
 |------|-------|
+| 2026-09-29 | **Honeycomb: Constant-Size Scene Memory Representation for Video World Models** [📄 arXiv](https://arxiv.org/abs/2609.37690) [🌐 Homepage](https://jackswl.github.io/honeycomb/) [💻 Code](https://github.com/kaichen-z/HoneyComb) |
 | 2026-06-17 | **EgoCS-400K: An Egocentric Gameplay Dataset for World Models** [📄 arXiv](https://arxiv.org/abs/2606.18180) |
 | 2026-06-17 | **MaineCoon: Pursuing A Real-Time Audio-Visual Social World Model** [📄 arXiv](https://arxiv.org/abs/2606.17800) |
 | 2026-06-17 | **OmniDrive: An LLM-Choreographed Multi-Agent World Model with Unified Latent Co-Compression for Multi-View Driving Video Generation** [📄 arXiv](https://arxiv.org/abs/2606.17536) |
